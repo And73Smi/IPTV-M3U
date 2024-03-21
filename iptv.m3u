@@ -1,12 +1,5 @@
 ﻿#EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="ert1"                  tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1  
-https://telmacosa.s.llnwi.net/osY/ERT/default/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="ert2"                  tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2  
-https://telmacosa.s.llnwi.net/osY/ERT2/default/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="ert3"                  tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3  
-https://telmacosa.s.llnwi.net/osY/ERT3/default/playlist.m3u8
-#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ"                        tvg-name="ertnews"               tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS 
-https://telmacosa.s.llnwi.net/osO/ERTNews/default/playlist.m3u8
+
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="ertworld"              tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
 http://195.226.218.160/vid/ertworld/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="mega"                  tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA  
