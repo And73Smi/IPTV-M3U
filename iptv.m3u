@@ -117,8 +117,6 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="corfutv"               tvg-logo="https://i.imgur.com/HME7kNk.png",CORFU CHANNEL 
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="CYPRUS LIVE"           tvg-logo="https://i.imgur.com/8KodvhW.png",CYPRUS LIVE                          
-https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="deltatv"               tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="diontv"                tvg-logo="https://i.imgur.com/dzAfWTc.png",DION TV
@@ -300,8 +298,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name="ertkids"               tvg-logo="https://i.imgur.com/RAb2yMN.png",ERTFLIX KIDS TV     
 http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
-http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/FgaA8Sa.png",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/3Kkeufe.png",TALKING TOM
@@ -374,8 +370,6 @@ https://new.cache-stream.workers.dev/stream/UCzPB5j0mU-0TORZ-7-u8y0w/live.m3u8
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV 
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/ACUz1jm.png",NG
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/NRUoAoo.png",NRG91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name="PanikTV"               tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
