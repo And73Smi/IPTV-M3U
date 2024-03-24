@@ -57,6 +57,8 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="diavata" tvg-logo="https://i.imgur.com/hsK68yd.png",Diavata TV 
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",GreekTVLondon.movies 
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="galaxy" tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
 https://rpn3.bozztv.com/ssh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
