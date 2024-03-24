@@ -63,8 +63,8 @@ https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLADA TV
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/qFWyY0L.jpg",VILLAGE WORLD        
+http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ellas" tvg-logo="https://i.imgur.com/yLq3hGm.jpg",ELLAS WORLD                                  
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="dipolo" tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)                       
@@ -73,12 +73,12 @@ https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE 
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO 
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/qFWyY0L.jpg",VILLAGE WORLD        
-http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
