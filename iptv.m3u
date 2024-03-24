@@ -98,6 +98,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/nuB57K5.png",APOKALIPTIKA NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/FmUun0P.png",ΑΧΕΛΩΟΣ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST HYBRID 1
 http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
