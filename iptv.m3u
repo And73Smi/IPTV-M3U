@@ -63,6 +63,8 @@ https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="dipolo" tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)                       
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/qFWyY0L.jpg",VILLAGE WORLD        
