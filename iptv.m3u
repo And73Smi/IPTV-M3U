@@ -189,8 +189,6 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  group-title="WEB TV" tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/De7i4vw.png",OMEGA CY
-http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/RotckUS.png",ORT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/BcYaW10.png",PLUTON TV      
