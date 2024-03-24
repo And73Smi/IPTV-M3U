@@ -139,9 +139,9 @@ https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epiloges" tvg-logo="https://i.imgur.com/OpZNhqZ.png",Epiloges TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="farostv" tvg-logo="https://i.imgur.com/X19638q.png",Faros TV 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="faros1" tvg-logo="https://i.imgur.com/X19638q.png",Faros TV 
 https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="farostv2" tvg-logo="https://i.imgur.com/7xtz1Jo.png",Faros TV2
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="faros2" tvg-logo="https://i.imgur.com/7xtz1Jo.png",Faros TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="flashtv" tvg-logo="https://i.imgur.com/zBanIQw.png",FLASH TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
@@ -404,6 +404,9 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="" tvg-logo="https://i.imgur.com/78ORizB.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="RT News" tvg-logo="https://i.imgur.com/41qGZPB.png",RT News
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="TV5Monde" tvg-logo="https://i.imgur.com/rPAbMSu.png",TV5Monde Europe 
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="1+1" tvg-logo="https://i.imgur.com/6t3l0JN.png",1+1
