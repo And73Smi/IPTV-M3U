@@ -222,8 +222,6 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:5570 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/gEEjH6V.jpg",TELE KRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/SWQ3eLB.png",TILE EPILOGES
-https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/HROWDIv.png",THESSALIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="thrakinet" tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
