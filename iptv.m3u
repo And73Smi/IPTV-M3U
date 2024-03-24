@@ -55,8 +55,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/CinemaTime2.m
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/RTnwXsD.jpg",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",GreekTVLondon.movies 
-https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="diavata" tvg-logo="https://i.imgur.com/hsK68yd.png",Diavata TV 
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="galaxy" tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
@@ -346,8 +344,6 @@ http://telmacosa.s.llnwi.net/ertlive/eurovision/default/playlist.m3u8
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="" tvg-logo="https://i.imgur.com/DKv08vi.png",Fox Greece 
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",Greek TV London 
-https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="" tvg-logo="https://i.imgur.com/vf8WaNE.png",KLIK TV
 https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="" tvg-logo="https://i.imgur.com/HHHbeye.png",lafamiglia
