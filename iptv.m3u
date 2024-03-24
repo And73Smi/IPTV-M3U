@@ -185,11 +185,11 @@ http://live.greektv.ca/hls1/greektv.m3u8
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="nstv" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="notioi" tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  group-title="WEB TV" tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/RotckUS.png",ORT
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ort" tvg-logo="https://i.imgur.com/RotckUS.png",ORT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/BcYaW10.png",PLUTON TV      
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
