@@ -69,7 +69,7 @@ https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA"                          tvg-name="ellas"                 tvg-logo="https://i.imgur.com/yLq3hGm.jpg",ELLAS WORLD                                  
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="CINEMA"                          tvg-name=""                      tvg-logo="https://i.imgur.com/Vsq3Il6",ELLADA TV
+#EXTINF:-1 group-title="CINEMA"                          tvg-name=""                      tvg-logo="https://i.imgur.com/Vsq3Il6.jpg",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="tv100"                 tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
