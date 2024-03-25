@@ -111,16 +111,12 @@ http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_greece.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="berginacy"             tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV CY
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyprus.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="citychannel"           tvg-logo="https://i.imgur.com/Jo6jIP1.jpg",CITY CHANNEL
-https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="creta"                 tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA 
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="centertv"              tvg-logo="https://i.imgur.com/DEumoIn.png",CENTER TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="corfutv"               tvg-logo="https://i.imgur.com/HME7kNk.png",CORFU CHANNEL 
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="CYPRUS LIVE"           tvg-logo="https://i.imgur.com/8KodvhW.png",CYPRUS LIVE                          
-https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="deltatv"               tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="diontv"                tvg-logo="https://i.imgur.com/dzAfWTc.png",DION TV
@@ -143,7 +139,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="Egnatia"               tvg-logo="https://i.imgur.com/zuyYIca.png",Εγνατία Τηλεόραση
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="Epiloges"             tvg-logo="https://i.imgur.com/OpZNhqZ.png",Epiloges TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="tileepiloges"          tvg-logo="https://i.imgur.com/OpZNhqZ.png",Epiloges TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="farostv"               tvg-logo="https://i.imgur.com/X19638q.png",Faros TV 
 https://s1.cystream.net/live/faros1/playlist.m3u8
@@ -227,8 +223,6 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:5570 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                  tvg-name="thlekriti"             tvg-logo="https://i.imgur.com/gEEjH6V.jpg",TELE KRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="tileepiloges"          tvg-logo="https://i.imgur.com/SWQ3eLB.png",TILE EPILOGES
-https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="thessaliatv"           tvg-logo="https://i.imgur.com/HROWDIv.png",THESSALIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="thrakinet"             tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
@@ -265,8 +259,6 @@ https://ythls-v2.onrender.com/channel/UC8KnlXI3YAkOZfwMgxb1lOg.m3u8
 https://ythls-v2.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                        tvg-name=""                      tvg-logo="https://i.imgur.com/8LZDvow.png",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                        tvg-name=""                      tvg-logo="https://i.imgur.com/9EGPPyV.png",ALFA SPORTS
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                        tvg-name="ertspors"              tvg-logo="https://i.imgur.com/I2R0mpe.png",ERT SPORTS 1
 https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                        tvg-name="ertsport2"             tvg-logo="https://i.imgur.com/7KyPTCK.png",ERT SPORTS 2 
@@ -302,8 +294,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name="ertkids"               tvg-logo="https://i.imgur.com/RAb2yMN.png",ERTFLIX KIDS TV     
 http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
-http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/FgaA8Sa.png",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/3Kkeufe.png",TALKING TOM
