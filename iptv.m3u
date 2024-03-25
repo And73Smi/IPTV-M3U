@@ -193,6 +193,8 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name=""                      tvg-logo="https://i.imgur.com/RotckUS.png",ORT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="omega"                 tvg-logo="https://i.imgur.com/De7i4vw.png",OMEGA CY
+https://am4.cloudskep.com/omegatv/omcy/l1/m2/chunks.m3u8?nimblesessionid=48836878&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI0IDg6NDM6MzMgQU0maGFzaF92YWx1ZT1rQlpMOEs0RWZqTFA0TGJURGNEZFN3PT0mdmFsaWRtaW51dGVzPTY2MA==
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name=""                      tvg-logo="https://i.imgur.com/BcYaW10.png",PLUTON TV      
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="pellatv"               tvg-logo="https://i.imgur.com/JnDXKZo.png",Pella TV
