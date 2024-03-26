@@ -392,7 +392,7 @@ https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="Arirang"               tvg-logo="https://i.imgur.com/NMXUh8p.png",Arirang      
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="bloombergtveu"         tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="bloomberg eu"         tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg 
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="CNN"                   tvg-logo="https://i.imgur.com/dfxefQw.png",CNN International Europe 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
