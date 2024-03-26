@@ -402,10 +402,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="DW"                    tvg-logo="https://i.imgur.com/EUlNCCQ.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/CGRxF8M.png",Fashion TV 
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/bpy1bkU.png",Fashion TV UHD 
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="France24"              tvg-logo="https://i.imgur.com/cM5xSfp.png",France 24 English      
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="FOXNews"               tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
@@ -421,6 +417,10 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/maste
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="1+1"                   tvg-logo="https://i.imgur.com/6t3l0JN.png",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/CGRxF8M.png",Fashion TV 
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/bpy1bkU.png",Fashion TV UHD 
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="SHORTS"                          tvg-name="failarmy"              tvg-logo="https://i.imgur.com/4OrvTCk.png",FAIL ARMY
 https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/975421b1-f4a5-4d6d-ad2d-3c182ebf4bf3/0.m3u8
 #EXTINF:-1 group-title="SHORTS"                          tvg-name="pet"                   tvg-logo="https://i.imgur.com/P7zj6b4.png",pet collectibles tv
