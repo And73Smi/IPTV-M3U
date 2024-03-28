@@ -362,8 +362,6 @@ https://new.cache-stream.workers.dev/stream/UCzPB5j0mU-0TORZ-7-u8y0w/live.m3u8
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV 
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/ACUz1jm.png",NG
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/NRUoAoo.png",NRG91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1  group-title="ΜΟΥΣΙΚΗ"                        tvg-name="notostv"               tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
