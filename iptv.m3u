@@ -137,7 +137,7 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="edamth"                tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="Egnatia"               tvg-logo="https://i.imgur.com/zuyYIca.png",Εγνατία Τηλεόραση
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="egnatia"               tvg-logo="https://i.imgur.com/zuyYIca.png",Εγνατία Τηλεόραση
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="tileepiloges"          tvg-logo="https://i.imgur.com/OpZNhqZ.png",Epiloges TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
@@ -201,7 +201,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="tvrodopi"              tvg-logo="https://i.imgur.com/tta5oFX.png",RODOPI TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="riksat"                tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="RIKSat"                tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:4550 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                  tvg-name="rtpkentro"             tvg-logo="https://i.imgur.com/OtpGwk2.png",RTP KENTRO           
 https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
@@ -300,7 +300,7 @@ http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/3Kkeufe.png",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
-#EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"                     tvg-name=""                      tvg-logo="https://imgur.com/UiHkZR3.png",SMILE TV CY
+#EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"                     tvg-name="smiletvcy"             tvg-logo="https://imgur.com/UiHkZR3.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name="TVRetrô Cartoon"       tvg-logo="https://i.imgur.com/DAc22jr.png",TVRetrô Cartoon 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
