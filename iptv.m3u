@@ -29,7 +29,6 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="starke"                tvg-logo="https://i.imgur.com/Sz3GdfU.png",STAR K E
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
-https://live-c.cf.dmcdn.net/sec2(CW7twLiCQLvqrbjBFtX5reeziVAISjuoNjjHGZ64u6Eq7ghA3cC1wWJZAbT5L9UGcllW4V0LE2WcC2h1xv1a-SfzSwgsl0_lK7L2kBAkOCw)/dm/3/x8rkeb7/s/live-3.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="ionian"                tvg-logo="https://i.imgur.com/6zvoHaL.png",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="bluesky"               tvg-logo="https://i.imgur.com/Lj3W875.png",BLUE SKY
