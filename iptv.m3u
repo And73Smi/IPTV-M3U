@@ -147,8 +147,6 @@ https://s1.cystream.net/live/faros1/playlist.m3u8
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="flashtv"               tvg-logo="https://i.imgur.com/zBanIQw.png",FLASH TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="filopolitv"            tvg-logo="https://i.imgur.com/lmuw8ff.png",Filopoli TV
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                          tvg-name=""                      tvg-logo="https://i.imgur.com/sUbc38a.png",GRD Channel Discovery
 https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1 group-title="WEB TV"                          tvg-name=""                      tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV                
@@ -245,6 +243,8 @@ http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b74600
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                  tvg-name="ekklisiatv"             tvg-logo="https://i.imgur.com/QQSSMZx.png",Εκκλησία 
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                  tvg-name="filopolitv"            tvg-logo="https://i.imgur.com/lmuw8ff.png",Filopoli TV
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                  tvg-name="lychnos"                tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8%20
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                   tvg-name=""                      tvg-logo="https://i.imgur.com/1X5Mapp.png",ORTHODOXIA TV  
