@@ -392,6 +392,8 @@ https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="Arirang"               tvg-logo="https://i.imgur.com/NMXUh8p.png",Arirang      
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="ABC 6 News"            tvg-logo="https://i.imgur.com/PO9VWkQ.png", ABC 6 News 
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="Bloomberg"         tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg 
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="CNN"                   tvg-logo="https://i.imgur.com/dfxefQw.png",CNN International Europe 
@@ -400,12 +402,16 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="cgtntv"                tvg-logo="https://i.imgur.com/jZ7GyTn.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="CBS news"              tvg-logo="https://i.imgur.com/t7OHbZU.png",CBS news
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="DW"                    tvg-logo="https://i.imgur.com/EUlNCCQ.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="France24"              tvg-logo="https://i.imgur.com/cM5xSfp.png",France 24 English      
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="FOXNews"               tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="NBCNOW"                tvg-logo="https://i.imgur.com/JZt2qh5.png", NBC NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name=""                      tvg-logo="https://i.imgur.com/78ORizB.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name=""                      tvg-logo="https://i.imgur.com/78ORizB.png",NASA TV Media
