@@ -318,6 +318,8 @@ https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/2sBTnIn.png",AKTINA TV
 https://5f06d0924ebcd.streamlock.net/aktinaradio/aktinaradio/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/xmWGMAu.png",BLACKMAN RADIO
+https://til.pp.ua:3653/live/blackmanlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV 
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House 
@@ -419,7 +421,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="RT.ru"                 tvg-logo="https://i.imgur.com/41qGZPB.png",Russia Today News
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="TV5Monde"              tvg-logo="https://i.imgur.com/rPAbMSu.png",TV5Monde Europe 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="tv5"                   tvg-logo="https://i.imgur.com/rPAbMSu.png",TV5Monde Europe 
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="1+1"                   tvg-logo="https://i.imgur.com/6t3l0JN.png",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
