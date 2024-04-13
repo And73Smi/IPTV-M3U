@@ -429,9 +429,8 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/maste
 https://ertflix.s.llnwi.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="1+1"                   tvg-logo="https://i.imgur.com/6t3l0JN.png",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="Channel 12"            tvg-logo="https://i.imgur.com/6t3l0JN.png",Channel 12 from Israel
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1713135972~acl=%2f*~data=hdntl~hmac=56944be51d3003d888e9a4e22557cb6e7ad04d114f1183c5ea0ab4640f7543e7/index_550.m3u8
-
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="KAN 11 TV"             tvg-logo="https://i.imgur.com/6t3l0JN.png",KAN 11 TV from Israel
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/CGRxF8M.png",Fashion TV 
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/bpy1bkU.png",Fashion TV UHD 
