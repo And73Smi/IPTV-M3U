@@ -431,6 +431,12 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/maste
 https://ertflix.s.llnwi.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="1+1"                   tvg-logo="https://i.imgur.com/6t3l0JN.png",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="Irib TV1"                   tvg-logo="https://i.imgur.com/Ko62ytP.png",Irib TV1
+https://cdn-azd2056.telewebion.com/tv1/live/1080p/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="IRIN News"                  tvg-logo="https://i.imgur.com/jSiEHJY.png",IRIN News
+https://cdn-bsht1c86.telewebion.com/irinn/live/1080p/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="Press TV"                   tvg-logo="https://i.imgur.com/zjSmafO.png",Press TV (English) Live from Iran
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="KAN 11 TV"             tvg-logo="https://i.imgur.com/nli7Kxu.png",KAN 11 TV from Israel
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 group-title="LIFESTYLE"                       tvg-name="Fashion"               tvg-logo="https://i.imgur.com/CGRxF8M.png",Fashion TV 
