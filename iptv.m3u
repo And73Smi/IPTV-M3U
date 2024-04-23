@@ -215,6 +215,8 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 http://213.7.193.54:4000/play/a007/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="RIKSat"                tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="rikhd"                 tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY 
+http://213.7.193.54:4000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="rik1"                  tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY 
 http://213.7.193.54:4000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="rik2"                  tvg-logo="https://i.imgur.com/V8rpBDp.png",RIK 2 CY 
