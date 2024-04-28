@@ -457,7 +457,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SHORTS"                          tvg-name="pet"                   tvg-logo="https://i.imgur.com/P7zj6b4.png",pet collectibles tv
 https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/c94a5bb9-26c3-475c-ad8e-b10c4862394b/0.m3u8
-#EXTINF:-1 group-title="CINEMA"                   tvg-name="Movies"                tvg-logo="https://i.imgur.com/cKEwuQc.png",Bloody Disgusting
+#EXTINF:-1 group-title="CINEMA"                          tvg-name="Movies"                tvg-logo="https://i.imgur.com/cKEwuQc.png",Bloody Disgusting
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA"                          tvg-name="Bollywood"             tvg-logo="https://i.imgur.com/CErD3DH.png",Cinevault Westerns 
 https://lnc-cinevault-westerns.tubi.video/playlist.m3u8
