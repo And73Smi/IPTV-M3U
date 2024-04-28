@@ -436,7 +436,7 @@ https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="FOXNews"               tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="NBCNOW"                tvg-logo="https://i.imgur.com/JZt2qh5.png", NBC NOW
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name="NBCNOW"                tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                          tvg-name=""                      tvg-logo="https://i.imgur.com/78ORizB.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
