@@ -463,8 +463,14 @@ https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
 #EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"                     tvg-name="smiletvcy"             tvg-logo="https://imgur.com/UiHkZR3.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/yYO70Ft.png",smurf tv
+https://stream.ads.ottera.tv/cl/240429cons4nmut1iaqujn44t0/1280x720_3071200_0_f.m3u8?i=475_4065
+
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name="TVRetrô Cartoon"       tvg-logo="https://i.imgur.com/DAc22jr.png",TVRetrô Cartoon 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/Bc3NqlV.png",tg junior
+https://stream.ads.ottera.tv/cl/240429cons6qu934ntpd5qmlu0/1280x720_2300000_0_f.m3u8?i=475_264
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/ocH5unN.png",Moonbug Kids TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
