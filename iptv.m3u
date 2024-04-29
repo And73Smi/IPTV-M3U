@@ -39,7 +39,7 @@ http://88.99.254.101/alphaHD/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="skai"                  tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD  
 http://88.99.254.101/skaiHD/index.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="open"                  tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN BEYONT D
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="open"                  tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN BEYONT HD
 http://88.99.254.101/etvHD/index.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="onetv"                 tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE CHANNEL HD
@@ -66,10 +66,10 @@ https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="kontra"                tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="mtv"                   tvg-logo="https://i.imgur.com/55NSQ50.png",MAK TV
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="mtv"                   tvg-logo="https://i.imgur.com/55NSQ50.png",MAK TV HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                     tvg-name="besttv"               tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                     tvg-name="besttv"               tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="krhthtv"               tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV 
