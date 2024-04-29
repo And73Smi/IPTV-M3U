@@ -24,7 +24,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="alpha"                 tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA  
 http://88.99.254.101/alphaHD/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="alphacy"               tvg-logo="https://i.imgur.com/4PGul0F.png",ALPHA CY
-https://am4.cloudskep.com/alphacyp/acy/l4/sd/chunks.m3u8?nimblesessionid=57899012
+https://am4.cloudskep.com/alphacyp/acy/l4/sd/chunks.m3u8?nimblesessionid=57901565&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDI0IDY6NDM6MjEgQU0maGFzaF92YWx1ZT04eDVsaWkzU1ZOSW1CalB0TDRXZEFRPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="skai"                  tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI  
 http://88.99.254.101/skaiHD/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="open"                  tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN BEYONT
