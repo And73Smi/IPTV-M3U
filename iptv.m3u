@@ -31,7 +31,7 @@ http://88.99.254.101/starHD/index.m3u8
 http://88.99.254.101/ant1HD/index.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                       tvg-name="ant1cy"                tvg-logo="https://i.imgur.com/qJaxfcx.png",ANT1 CY
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+http://213.7.193.54:4000/play/a001/index.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                     tvg-name="alpha"                 tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD 
 http://88.99.254.101/alphaHD/index.m3u8
@@ -96,6 +96,9 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA"                          tvg-name=""                      tvg-logo="https://i.imgur.com/RTnwXsD.jpg",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
+#EXTINF:-1 group-title="CINEMA"                          tvg-name="galaxy"                tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
+https://ssh101-fl.bozztv.com/ssh101/galaxygr/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="CINEMA"                          tvg-name="ionia"                 tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
 
@@ -144,8 +147,11 @@ https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-99/0cys-pr69/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="arttv"                 tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="aigaiotv"              tvg-logo="https://i.imgur.com/DUSsntS.png",AIGAIO TV
+https://ssh101-fl.bozztv.com/ssh101/aigaiotv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="astratv"               tvg-logo="https://i.imgur.com/oYRPfZm.png" ,Astra TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
+https://ssh101-fl.bozztv.com/ssh101/astratv;/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="axelwostv"             tvg-logo="https://i.imgur.com/FmUun0P.png",ΑΧΕΛΩΟΣ TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
@@ -267,6 +273,9 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Kardamena_TV.
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="lepanto"               tvg-logo="https://i.imgur.com/qOtP5iO.png",LEPANTO HD
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
 
+#EXTINF:-1 group-title="WEB TV"                          tvg-name=""                      tvg-logo="https://i.imgur.com/dEyQ4ia.png",LAMPSI TV
+https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name="mesogeiostv"           tvg-logo="https://i.imgur.com/5KGk2yr.png",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 
@@ -381,7 +390,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                  tvg-name="filopolitv"            tvg-logo="https://i.imgur.com/lmuw8ff.png",Filopoli TV
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                  tvg-name="lychnos"                tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                  tvg-name="lychnos"                tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS HD
 https://thor.mental-media.gr:19360/imp/imp.m3u8%20
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"                   tvg-name=""                      tvg-logo="https://i.imgur.com/1X5Mapp.png",ORTHODOXIA TV  
@@ -554,7 +563,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                         tvg-name=""                      tvg-logo="https://i.imgur.com/1vHFh9l.png",MAD RADIO
-https://new.cache-stream.workers.dev/stream/UCzPB5j0mU-0TORZ-7-u8y0w/live.m3u8
+https://ythls-v2.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"                    tvg-name=""                      tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
