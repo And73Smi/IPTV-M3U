@@ -433,19 +433,19 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="Fight Network"tvg-logo="https://i.imgur.com/h73oxu4.png",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="fifa"                  tvg-logo="https://i.imgur.com/KVVrP2d.jpg",FIFA
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="fifa"tvg-logo="https://i.imgur.com/KVVrP2d.jpg",FIFA
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="   "                      tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="   "tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="Motorvision.TV"        tvg-logo="https://i.imgur.com/x3X0M9C.png",Motorvision.TV
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="Motorvision.TV"tvg-logo="https://i.imgur.com/x3X0M9C.png",Motorvision.TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="motosport"             tvg-logo="https://i.imgur.com/934ECuq.jpg",motorsport tv
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="motosport"tvg-logo="https://i.imgur.com/934ECuq.jpg",motorsport tv
 https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/9776cd71-8277-41e0-a066-cd7ea66ba3ff/2.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="Motorbikes & Engines"  tvg-logo="https://i.imgur.com/AkSYO7M.png",Motorbikes & Engines
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="Motorbikes & Engines"tvg-logo="https://i.imgur.com/AkSYO7M.png",Motorbikes & Engines
 https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="Mountain Bike TV"tvg-logo="https://i.imgur.com/FA6JxYJ.png",Mountain Bike TV 
