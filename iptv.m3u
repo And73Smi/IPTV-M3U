@@ -6,7 +6,7 @@ http://88.99.254.101/ert1HD/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"tvg-name="ert2"tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD 
 http://88.99.254.101/ert2HD/index.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"tvg-name="ert3"tvg-logo="https://i.imgur.com/rv4JLBO.png", ERT3 HD 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"tvg-name="ert3"tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD 
 http://88.99.254.101/ert3HD/index.m3u8
 
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ"tvg-name="ertnews"tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS HD
