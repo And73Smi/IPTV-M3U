@@ -105,34 +105,34 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessa
 #EXTINF:-1 group-title="CINEMA" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",GreekTVLondon.movies 
 https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 
-#EXTINF:-1 group-title="CINEMA"tvg-name="dipolo"tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)                       
+#EXTINF:-1 group-title="CINEMA" tvg-name="dipolo" tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)                       
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"tvg-name="   "tvg-logo="https://i.imgur.com/qFWyY0L.jpg",VILLAGE WORLD        
+#EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/qFWyY0L.jpg",VILLAGE WORLD        
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 
-#EXTINF:-1 group-title="CINEMA"tvg-name="ellas"tvg-logo="https://i.imgur.com/yLq3hGm.jpg",ELLAS WORLD                                  
+#EXTINF:-1 group-title="CINEMA" tvg-name="ellas" tvg-logo="https://i.imgur.com/yLq3hGm.jpg",ELLAS WORLD                                  
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-name="tv100"tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tv100" tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
 
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-name="neatvcrete"tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 
-#EXTINF:-1 group-title="CINEMA"tvg-name="netv"tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE HD 
+#EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE HD 
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"tvg-name="netv"tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
+#EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"tvg-name="extacytv"tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
+#EXTINF:-1 group-title="WEB TV" tvg-name="extacytv" tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cyprus.m3u8
 
-#EXTINF:-1 group-title="WEB TV"tvg-name="Xplore"tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
+#EXTINF:-1 group-title="WEB TV" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"tvg-name="iview"tvg-logo="https://i.imgur.com/W9zgPVU.png",IVIEW TV GREECE
+#EXTINF:-1 group-title="WEB TV" tvg-name="iview" tvg-logo="https://i.imgur.com/W9zgPVU.png",IVIEW TV GREECE
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/iviewtvgr.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-name="aeolos"tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV HD
