@@ -228,7 +228,7 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="elladatv" tvg-logo="https://i.imgur.com/xIjd2wF.jpg",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"tvg-name="farostv"tvg-logo="https://i.imgur.com/X19638q.png",Faros TV 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="farostv" tvg-logo="https://i.imgur.com/X19638q.png",Faros TV 
 https://s1.cystream.net/live/faros1/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="farostv2" tvg-logo="https://i.imgur.com/7xtz1Jo.png",Faros TV2
@@ -439,7 +439,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="fifa" tvg-logo="https://i.imgur.com/KVVrP2d.jpg",FIFA
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"tvg-name="   "tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Motorvision Channel" tvg-logo="https://i.imgur.com/x3X0M9C.png",Motorvision.TV
@@ -459,6 +459,9 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/On_Tv_Greece.
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/pbRXN30.png",Barbie
+https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/8vupi3M.png",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
