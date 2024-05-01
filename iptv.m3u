@@ -126,7 +126,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA"tvg-name="netv"tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"tvg-name="extacytv"tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY-TV1
+#EXTINF:-1 group-title="WEB TV"tvg-name="extacytv"tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cyprus.m3u8
 
 #EXTINF:-1 group-title="WEB TV"tvg-name="Xplore"tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
