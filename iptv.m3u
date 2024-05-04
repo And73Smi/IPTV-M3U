@@ -469,7 +469,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/pbRXN30.png",Barbie
 https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/SGBRA31.png",Big Channel
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/SGBRA31.png",Big Channel
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/8vupi3M.png",BABY SHARK TV
