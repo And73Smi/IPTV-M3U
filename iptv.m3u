@@ -258,7 +258,7 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="hlektra" tvg-logo="http://i.imgur.com/jH6tcnu.png",ΗΛΕΚΤΡΑ TV
 https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="hellenic" tvg-logo="https://i.imgur.com/8bjfYod.png",HELLENIC TV
+#EXTINF:-1 group-title="WEB TV" tvg-name="hellenic" tvg-logo="https://i.imgur.com/dGwnC8c.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="hightv" tvg-logo="https://i.imgur.com/vDcy0RR.png",HIGH TV
