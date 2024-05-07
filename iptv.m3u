@@ -159,6 +159,9 @@ https://ssh101-fl.bozztv.com/ssh101/astratv;/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="axelwostv" tvg-logo="https://i.imgur.com/FmUun0P.png",ΑΧΕΛΩΟΣ TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/nuB57K5.png",APOKALIPTIKA NEWS
+https://ythls-v2.onrender.com/video/tygxo2M8QR4.m3u8
+
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST HYBRID 1 HD
 http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
 
