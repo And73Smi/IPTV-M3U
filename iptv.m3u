@@ -99,6 +99,9 @@ https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="galaxy" tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
 https://ssh101-fl.bozztv.com/ssh101/galaxygr/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-name="diavata" tvg-logo="https://i.imgur.com/hsK68yd.png",Diavata TV 
+https://ssh101-fl.bozztv.com/ssh101/diavatatvstream/index.m3u8
+
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://ssh101-fl.bozztv.com/ssh101/tvioniathess/tracks-v1a1/mono.m3u8
 
@@ -249,6 +252,9 @@ http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/bxaTICH.png",GREEK USA TV
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/bBe1rZf.png",GREEK VOICE 
+http://65.108.62.57:8080/live/greektv1.m3u8
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 
@@ -317,6 +323,9 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="plp" tvg-logo="https://i.imgur.com/vMohImJ.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
+
+#EXTINF:-1 group-title="web" tvg-name="   " tvg-logo="https://i.imgur.com/gMvd8wG.png",+PLUS TV 
+https://ssh101-fl.bozztv.com/ssh101/plustvpatra/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://i.imgur.com/XPOsUoD.png",PLUS TV CY BUP
 http://213.7.193.54:4000/play/a007/index.m3u8
