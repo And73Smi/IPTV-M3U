@@ -105,6 +105,9 @@ https://ssh101-fl.bozztv.com/ssh101/diavatatvstream/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://ssh101-fl.bozztv.com/ssh101/tvioniathess/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",GreekTVLondon.movies 
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+
 #EXTINF:-1 group-title="CINEMA" tvg-name="dipolo" tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)                       
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 
@@ -492,6 +495,9 @@ https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RAb2yMN.png",ERT KIDS TV     
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/FgaA8Sa.png",ODDBODS
+https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/3Kkeufe.png",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
