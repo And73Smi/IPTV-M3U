@@ -252,6 +252,12 @@ https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV                
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV  2
+http://alex9954094.ddns.net:2052/test/test/93
+
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV  3
+http://alex9954094.ddns.net:2052/test/test/5
+
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/bxaTICH.png",GREEK USA TV
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 
