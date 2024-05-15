@@ -93,6 +93,9 @@ https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="netmax" tvg-logo="https://i.imgur.com/dLvRD4k.png",Netmax TV 
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/dEyQ4ia.png",LAMPSI TV
+https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/RTnwXsD.jpg",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
@@ -135,7 +138,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="extacytv" tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
+#EXTINF:-1 group-title="WEB TV" tvg-name="extracy" tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cyprus.m3u8
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
@@ -296,9 +299,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Kardamena_TV.
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="lepanto" tvg-logo="https://i.imgur.com/qOtP5iO.png",LEPANTO HD
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
-
-#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/dEyQ4ia.png",LAMPSI TV
-https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/5KGk2yr.png",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
