@@ -111,6 +111,9 @@ https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/jJ7yk9t",MONTAZ TV
+https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
+
 #EXTINF:-1 group-title="CINEMA" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",GreekTVLondon.movies 
 https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 
@@ -181,7 +184,7 @@ http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
 http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV GR
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_greece.m3u8
+https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV CY
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyprus.m3u8
