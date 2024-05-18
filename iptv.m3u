@@ -111,7 +111,7 @@ https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ionia" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
 https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/jJ7yk9t",MONTAZ TV
+#EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/jJ7yk9t.png",MONTAZ TV
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 
 #EXTINF:-1 group-title="CINEMA" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",GreekTVLondon.movies 
