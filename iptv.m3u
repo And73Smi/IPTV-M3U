@@ -276,9 +276,6 @@ https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d4
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/bBe1rZf.png",GREEK VOICE
 https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/bBe1rZf.png",GREEK VOICE BUP
-http://65.108.62.57:8080/live/greektv1.m3u8
-
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 
