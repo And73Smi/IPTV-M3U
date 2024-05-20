@@ -148,7 +148,7 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cyprus.m3u8
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="extracy" tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
-URL1:http://127.0.0.1:88/http://www.twitch.tv/extacy_tv
+http://127.0.0.1:88/http://www.twitch.tv/extacy_tv
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
