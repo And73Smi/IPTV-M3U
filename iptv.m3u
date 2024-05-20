@@ -132,6 +132,9 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="krititv1" tvg-logo="https://i.imgur.com/AxeV27s.png",KRHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/h51mzUD.png",CAPITAL TV BUP
+http://213.7.193.54:4000/play/a009/index.m3u8
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 
@@ -206,9 +209,6 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="CYPRUS LIVE" tvg-logo="https://i.imgur.com/8KodvhW.png",CYPRUS LIVE                          
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/h51mzUD.png",CAPITAL TV BUP
-http://213.7.193.54:4000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="deltatv" tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV BUP
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
@@ -490,7 +490,7 @@ https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Mountain Bike TV" tvg-logo="https://i.imgur.com/FA6JxYJ.png",Mountain Bike TV 
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/oKMkYp2jpg",OPAP TV
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/oKMkYp2jpg.png",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/n647VIC.png",ON TV
