@@ -339,7 +339,7 @@ https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://i.imgur.com/XPOsUoD.png",PLUS TV CY BUP
 http://213.7.193.54:4000/play/a007/index.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="RIKSat" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY BUP
