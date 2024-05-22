@@ -505,7 +505,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/grBcaOc.png",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/l5GIgc6.png",CARTOON NETWORK
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/l5GIgc6.png",CARTOON NETWORK
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/LWHavQs.png",CARTOON TV
