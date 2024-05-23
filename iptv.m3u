@@ -568,14 +568,8 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA Relaxing TV
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA Greek trap TV
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA TV DJ MUSIC
 https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
-
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA TV ALL TIME CLASSIC
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/gJ7LEES.png",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
