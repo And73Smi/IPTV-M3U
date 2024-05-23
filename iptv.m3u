@@ -228,6 +228,9 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="eurotv" tvg-logo="https://i.imgur.com/TRI5hVG.png",EURO TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8
 
+#EXTINF:5920 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",EURO CHANNEL
+http://127.0.0.1:88/https://www.twitch.tv/eurotvgr
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="edamth" tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 
@@ -268,7 +271,7 @@ https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d4
 https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
-https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
+https://live.streams.ovh:8081/gnomitv/index.m3u8
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="hlektra" tvg-logo="http://i.imgur.com/jH6tcnu.png",ΗΛΕΚΤΡΑ TV
 https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
