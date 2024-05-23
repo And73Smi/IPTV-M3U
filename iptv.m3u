@@ -562,9 +562,6 @@ https://media2.streambrothers.com:19360/8106/8106.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA Gold hits TV
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA TV Deep House 
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/TZ1unwF.png",BARAZA Relaxing TV
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
