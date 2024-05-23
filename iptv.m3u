@@ -473,7 +473,7 @@ https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="motosport" tvg-logo="https://i.imgur.com/934ECuq.jpg",motorsport tv
-https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/9776cd71-8277-41e0-a066-cd7ea66ba3ff/2.m3u8
+https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/49777524-d597-4923-864f-5dd96f57f1fb/3.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Motorbikes & Engines" tvg-logo="https://i.imgur.com/AkSYO7M.png",Motorbikes & Engines
 https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
@@ -583,9 +583,6 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="ertmusic" tvg-logo="https://i.imgur.com/bibxK95.png",ERT MUSIC TV      
 https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/EKLp1yy.png",EUROVISION CHANNEL                                      
-https://ertflix.s.llnwi.net/ertlive/eurovision/default/playlist.m3u8
-
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png",Ellinikos FM 
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 
@@ -679,9 +676,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="cgtntv" tvg-logo="https://i.imgur.com/jZ7GyTn.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="cbc news" tvg-logo="https://i.imgur.com/t7OHbZU.png",CBS news
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="DW" tvg-logo="https://i.imgur.com/EUlNCCQ.png",DW English
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 
@@ -723,7 +717,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SHORTS" tvg-name="pet" tvg-logo="https://i.imgur.com/P7zj6b4.png",pet collectibles tv
-https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/c94a5bb9-26c3-475c-ad8e-b10c4862394b/0.m3u8
+https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/d169870a-f458-485c-81c4-90fe53dbf16d/0.m3u8
 
 #EXTINF:-1 group-title="CINEMA" tvg-name="Movies" tvg-logo="https://i.imgur.com/cKEwuQc.png",Bloody Disgusting
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
