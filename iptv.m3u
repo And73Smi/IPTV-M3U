@@ -24,9 +24,6 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD 
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/qJaxfcx.png",ANT1 CY BUP
-http://213.7.193.54:4000/play/a001/index.m3u8
-
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD 
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
@@ -38,9 +35,6 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="onecy" tvg-logo="https://i.imgur.com/8FzYZVd.png",ONE CHANNEL CY BUP
-http://213.7.193.54:4000/play/a008/index.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24 HD
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
@@ -70,7 +64,7 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/KmJC5sc.png",EURONEWS  BUP   
-http://213.7.193.54:4000/play/a00d/index.m3u8
+https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS HD 
 https://pro.free.hr:3887/live/pronewslive.m3u8
@@ -125,9 +119,6 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 
 #EXTINF:-1 group-title="CINEMA" tvg-name="krititv1" tvg-logo="https://i.imgur.com/AxeV27s.png",KRHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/h51mzUD.png",CAPITAL TV BUP
-http://213.7.193.54:4000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
@@ -315,9 +306,6 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="notioitv" tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/De7i4vw.png",OMEGA CY BUP
-http://213.7.193.54:4000/play/a003/index.m3u8
-
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ort" tvg-logo="https://i.imgur.com/RotckUS.png",ORT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 
@@ -336,20 +324,8 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/gMvd8wG.png",+PLUS TV 
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://i.imgur.com/XPOsUoD.png",PLUS TV CY BUP
-http://213.7.193.54:4000/play/a007/index.m3u8
-
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY BUP
-http://213.7.193.54:4000/play/a00e/index.m3u8
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY BUP
-http://213.7.193.54:4000/play/a00a/index.m3u8
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/V8rpBDp.png",RIK 2 CY BUP
-http://213.7.193.54:4000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/tta5oFX.png",RODOPI TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
