@@ -66,7 +66,7 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="krhthtv" tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV 
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/KmJC5sc.png",EURONEWS  BUP   
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/KmJC5sc.png",EURONEWS    
 https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS HD 
@@ -570,6 +570,9 @@ https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/DKv08vi.png",Fox Greece 
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="GreekTVLondon" tvg-logo="https://i.imgur.com/7aROlqj.png",Greek TV London 
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/Z4mna52.png",GOHTEIA RADIO 
 https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
