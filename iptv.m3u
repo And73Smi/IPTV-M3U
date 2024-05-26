@@ -261,8 +261,7 @@ https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d4
 #EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/bBe1rZf.png",GREEK VOICE
 https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
 
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ
-" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://i.imgur.com/EFTH3hP.jpg",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="hlektra" tvg-logo="http://i.imgur.com/jH6tcnu.png",ΗΛΕΚΤΡΑ TV
