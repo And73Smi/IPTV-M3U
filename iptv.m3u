@@ -151,7 +151,7 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://i.imgur.com/JMotNwZ.png",APT TV
-https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-113/bgbl-b63k/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-113/bgbl-b63k_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
@@ -387,7 +387,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ" tvg-name="ertvouligr" tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI TV 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="4e" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E 
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-name="4e" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E 
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-name="dipsotv" tvg-logo="https://i.imgur.com/tPePDB7.png",Dipso TV 
@@ -420,7 +420,7 @@ https://ythls-v2.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/8LZDvow.png",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/9EGPPyV.png",ALFA SPORTS
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="   " tvg-logo="https://i.imgur.com/9EGPPyV.png",ALFA SPORTS CY
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="ertspors" tvg-logo="https://i.imgur.com/I2R0mpe.png",ERT SPORTS 1
