@@ -177,9 +177,6 @@ https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV CY
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyprus.m3u8
 
-#EXTINF:-1 group-title="WEB TV"  tvg-name="   " tvg-logo="https://i.imgur.com/t5wTA5x.png",BCI ADVENTURE
-https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
-
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA 
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 
