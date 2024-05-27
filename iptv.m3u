@@ -309,7 +309,7 @@ https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS HD 
 https://pro.free.hr:3887/live/pronewslive.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="   " tvg-logo="https://i.imgur.com/BcYaW10.png",PLUTON TV HD      
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/BcYaW10.png",PLUTON TV HD      
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png",Pella TV
@@ -318,7 +318,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/vMohImJ.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/gMvd8wG.png",+PLUS TV 
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/gMvd8wG.png",PLUSTV GR
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
