@@ -120,11 +120,14 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 
-#EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE HD 
+#EXTINF:-1 group-title="WEB TV" tvg-name="netv" tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE HD 
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA" tvg-name="netv" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
+#EXTINF:-1 group-title="WEB TV" tvg-name="netv" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/gMvd8wG.png",PLUSTV GR
+https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="extracy" tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cyprus.m3u8
@@ -317,9 +320,6 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 
 #EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/vMohImJ.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
-
-#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/gMvd8wG.png",PLUSTV GR
-https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
