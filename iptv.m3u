@@ -90,6 +90,9 @@ https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/RTnwXsD.jpg",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-name="diavata" tvg-logo="https://i.imgur.com/hsK68yd.png",Diavata TV 
+https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
+
 #EXTINF:-1 group-title="CINEMA" tvg-name="diavata" tvg-logo="https://i.imgur.com/RM2lsis.png",DELTA TV SKG
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 
