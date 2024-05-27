@@ -294,6 +294,9 @@ https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f
 #EXTINF:-1 group-title="WEB TV" tvg-name="nstv" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
 
+#EXTINF:-1  group-title="ΚΡΗΤΗ" tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
+https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
+
 #EXTINF:-1 group-title="WEB TV" tvg-name="notioitv" tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 
@@ -582,9 +585,6 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/NRUoAoo.png",NRG91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-
-#EXTINF:-1  group-title="ΚΡΗΤΗ" tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
-https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
