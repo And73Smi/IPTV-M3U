@@ -84,6 +84,9 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/dEyQ4ia.png",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-name="galaxy" tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
+https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8
+
 #EXTINF:-1 group-title="CINEMA" tvg-name="   " tvg-logo="https://i.imgur.com/RTnwXsD.jpg",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
@@ -561,6 +564,9 @@ https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" tvg-name="   " tvg-logo="https://i.imgur.com/YczK5sC.png",MESSINIA TV
+https://til.pp.ua:3303/live/messiniatvlive.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/h1lONaA.png",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
