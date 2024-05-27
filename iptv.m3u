@@ -574,7 +574,7 @@ http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/lJKJplM.png",MAD Greekz 
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV 
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV 
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV 
@@ -583,7 +583,7 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="   " tvg-logo="https://i.imgur.com/NRUoAoo.png",NRG91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
-#EXTINF:-1  group-title="ΜΟΥΣΙΚΗ" tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
+#EXTINF:-1  group-title="ΚΡΗΤΗ" tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="PanikTV" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
