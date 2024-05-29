@@ -165,10 +165,10 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ" tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/DUSsntS.png",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST HYBRID 1 HD
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/mvOjWdX.png",BEST HYBRID 1 HD
 http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST HYBRID 2 HD
+#EXTINF:-1 group-title="WEB TV" tvg-name="   " tvg-logo="https://i.imgur.com/Yqdo59W.png",BEST HYBRID 2 HD
 http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV GR
