@@ -39,10 +39,10 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="onetv"                tvg-logo="https://i.imgur.com/O1khvkT.png",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="action24"             tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24 HD
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="action24"             tvg-logo="https://i.imgur.com/TRRIn2d.png",ACTION 24 HD
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="atticatv"             tvg-logo="https://i.imgur.com/1tTLWqN.jpg",ATTICA TV HD
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="atticatv"             tvg-logo="https://i.imgur.com/omGlZ0H.png",ATTICA TV HD
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="starke"               tvg-logo="https://i.imgur.com/ZBt6beo.png",STAR.K.E HD
