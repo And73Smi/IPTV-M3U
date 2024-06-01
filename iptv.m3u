@@ -12,7 +12,7 @@ https://ertflix.s.llnwi.net/ertlive/ert3/default/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ"                   tvg-name="ertnews"             tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                     tvg-name="ertworld"            tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                     tvg-name="ertworld"            tvg-logo="https://i.imgur.com/DPXM3Sm",ERT WORLD 
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mega"                tvg-logo="https://i.imgur.com/UsyFADE.png",MEGA HD  
@@ -312,7 +312,7 @@ https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="ort"                    tvg-logo="https://i.imgur.com/RotckUS.png",ORT
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="opt"                    tvg-logo="https://i.imgur.com/RotckUS.png",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/AfiZezI.png",ΟLYMPOS TV
