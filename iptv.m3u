@@ -24,10 +24,10 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD 
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="ant1cy"               tvg-logo="https://i.imgur.com/qJaxfcx.png",ANT1 CY
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="ant1cy"               tvg-logo="https://i.imgur.com/2KAObBt.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="alpha"                tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="alpha"                tvg-logo="https://i.imgur.com/6twzd38.png",ALPHA HD 
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="skai"                 tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD  
@@ -63,7 +63,7 @@ http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/makt
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="besttv"               tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="krhthtv"              tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV 
+#EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="krhthtv"              tvg-logo="https://i.imgur.com/0MQ4G4n.png",KRHTH TV 
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                     tvg-name="Euronews Greek"       tvg-logo="https://i.imgur.com/KmJC5sc.png",EURONEWS    
@@ -141,13 +141,13 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="iview"                tvg-logo="https://i.imgur.com/W9zgPVU.png",IVIEW TV GREECE
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/iviewtvgr.m3u8
 
-#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ"                tvg-name="aeolos"               tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV HD
+#EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ"                tvg-name="aeolos"               tvg-logo="https://i.imgur.com/4G9VvUg.png",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="alert"                tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT 
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="alert"                tvg-logo="https://i.imgur.com/xqa87lG.png",ALERT 
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="art"                  tvg-logo="https://i.imgur.com/JMotNwZ.png",APT TV
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="art"                  tvg-logo="https://i.imgur.com/mNeLu04.png",APT TV
 https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-113/bgbl-b63k_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="arttv"                tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
@@ -330,7 +330,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="plp"                    tvg-logo="https://i.imgur.com/vMohImJ.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="rikhd"                  tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="rikhd"                  tvg-logo="https://i.imgur.com/BIKwFhD.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"              tvg-name="tvrodopi"               tvg-logo="https://i.imgur.com/tta5oFX.png",RODOPI TV
