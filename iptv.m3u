@@ -198,7 +198,7 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="deltatv"               tvg-logo="https://i.imgur.com/irSnax9.png",DELTA TV 
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
 
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="diontv"                tvg-logo="https://i.imgur.com/dzAfWTc.png",DION TV
+#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="diontv"                tvg-logo="https://i.imgur.com/QAF7dZS.png",DION TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrikisMakedonias.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/2fDYvmy.jpg",DTP
@@ -216,7 +216,7 @@ https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="epirustv1"             tvg-logo="https://i.imgur.com/nYVqhu8.png",EPIRUS TV1 HD 
 https://til.pp.ua:3928/live/epiruslive.m3u8
 
-#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="etv"                   tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="etv"                   tvg-logo="https://i.imgur.com/zndEXrO.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="eurotv"                tvg-logo="https://i.imgur.com/TRI5hVG.png",EURO TV
@@ -276,7 +276,7 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="hightv"                tvg-logo="https://i.imgur.com/8gHuwt7.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"          tvg-name="iridatv"               tvg-logo="https://i.imgur.com/XY58h94.png",IRIDA TV
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"          tvg-name="iridatv"               tvg-logo="https://i.imgur.com/f2X0H7z.png",IRIDA TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/cDqU9xs.png",IME TV      
