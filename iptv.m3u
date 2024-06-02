@@ -54,10 +54,10 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="bluesky"              tvg-logo="https://i.imgur.com/Lj3W875.png",BLUE SKY
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="kontra"               tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA HD
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="kontra"               tvg-logo="https://i.imgur.com/p3Oq7HP.png",KONTRA HD
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mtv"                  tvg-logo="https://i.imgur.com/55NSQ50.png",MAK TV HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mtv"                  tvg-logo="https://i.imgur.com/wRKeaaW.png",MAK TV HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="besttv"               tvg-logo="https://i.imgur.com/AeeeDUc.png",BEST TV HD
@@ -159,7 +159,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                   tvg-name="astratv"              tvg-logo="https://i.imgur.com/oYRPfZm.png" ,ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv;/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="axelwostv"            tvg-logo="https://i.imgur.com/FmUun0P.png",ΑΧΕΛΩΟΣ TV
+#EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="axelwostv"            tvg-logo="https://i.imgur.com/DS84RCZ.png",ΑΧΕΛΩΟΣ TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"          tvg-name="aigaiotv"             tvg-logo="https://i.imgur.com/DUSsntS.png",AIGAIO TV
