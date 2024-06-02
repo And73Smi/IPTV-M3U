@@ -300,7 +300,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/marontvgr.m3u
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
 
-#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ"                  tvg-name="Naftemporikitv"         tvg-logo="https://i.imgur.com/G4MR6zM.png",NAFTEMPORIKΙ TV HD
+#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ"                  tvg-name="Naftemporikitv"         tvg-logo="https://i.imgur.com/tOgrf1o.png",NAFTEMPORIKΙ TV HD
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
