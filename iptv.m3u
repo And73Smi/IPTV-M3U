@@ -354,13 +354,13 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
 #EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ"                  tvg-name="syrostv1"               tvg-logo="https://i.imgur.com/arQe5qS.png",SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                    tvg-name="stevt"                  tvg-logo="https://i.imgur.com/umm0f3K.png",STENT TV
+#EXTINF:-1 group-title="WEB TV"                    tvg-name="stevt"                  tvg-logo="https://i.imgur.com/EocwXoN.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"         tvg-name="samiakitv"              tvg-logo="https://i.imgur.com/9Pf1we6.png",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 
-#EXTINF:5570 group-title="ΚΡΗΤΗ"                   tvg-name="thlekriti"              tvg-logo="https://i.imgur.com/gEEjH6V.jpg",TELEKRHTH
+#EXTINF:5570 group-title="ΚΡΗΤΗ"                   tvg-name="thlekriti"              tvg-logo="https://imgur.com/7duYXGc.png",TELEKRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
 
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                  tvg-name="thessaliatv"            tvg-logo="https://i.imgur.com/rk3UJy7.png",THESSALIA TV
