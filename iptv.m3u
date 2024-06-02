@@ -42,7 +42,7 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="action24"             tvg-logo="https://i.imgur.com/TRRIn2d.png",ACTION 24 HD
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="atticatv"             tvg-logo="https://i.imgur.com/omGlZ0H.png",ATTICA TV HD
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="atticatv"             tvg-logo="https://i.imgur.com/8vVZkz5.png",ATTICA TV HD
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="starke"               tvg-logo="https://i.imgur.com/ZBt6beo.png",STAR.K.E HD
