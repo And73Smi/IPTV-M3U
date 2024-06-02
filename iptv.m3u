@@ -481,7 +481,7 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/LWHavQs.png",CARTOON TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ertkids"                tvg-logo="https://i.imgur.com/RAb2yMN.png",ERT KIDS TV     
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ertkids"                tvg-logo="https://i.imgur.com/1pJNg5i.png",ERT KIDS TV     
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ducktv"                 tvg-logo="https://i.imgur.com/yOKBy3j.png",DUCK TV
@@ -550,7 +550,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/sLMaV7s.jpg",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="ertmusic"               tvg-logo="https://i.imgur.com/bibxK95.png",ERT MUSIC TV      
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="ertmusic"               tvg-logo="https://i.imgur.com/Xmal51l.png",ERT MUSIC TV      
 https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png",Ellinikos FM 
