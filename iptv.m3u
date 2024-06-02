@@ -60,7 +60,7 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mtv"                  tvg-logo="https://i.imgur.com/wRKeaaW.png",MAK TV HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="besttv"               tvg-logo="https://i.imgur.com/AeeeDUc.png",BEST TV HD
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="besttv"               tvg-logo="https://i.imgur.com/vvVZUyq.png",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="krhthtv"              tvg-logo="https://i.imgur.com/JvkJ4Cr.png",KRHTH TV 
