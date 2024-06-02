@@ -54,7 +54,7 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="bluesky"              tvg-logo="https://i.imgur.com/LcyU2ra.png",BLUE SKY
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="kontra"               tvg-logo="https://i.imgur.com/p3Oq7HP.png",KONTRA HD
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="kontra"               tvg-logo="https://i.imgur.com/p5TZJhI.png",KONTRA HD
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mtv"                  tvg-logo="https://i.imgur.com/wRKeaaW.png",MAK TV HD
