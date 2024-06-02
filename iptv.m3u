@@ -129,7 +129,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="netv"                 tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/gMvd8wG.png",PLUSTV GR
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/PmoBcSZ.png",PLUSTV GR
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="extracy"              tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
@@ -138,7 +138,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cypr
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="Xplore"               tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="iview"                tvg-logo="https://i.imgur.com/W9zgPVU.png",IVIEW TV GREECE
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="iview"                tvg-logo="https://i.imgur.com/gkL2oeJ.png",IVIEW TV GREECE
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/iviewtvgr.m3u8
 
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ"                tvg-name="aeolos"               tvg-logo="https://i.imgur.com/4G9VvUg.png",AEOLOS TV HD
@@ -195,8 +195,8 @@ https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="citychannel"           tvg-logo="https://i.imgur.com/Jo6jIP1.jpg",CITY CHANNEL HD
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="deltatv"               tvg-logo="https://i.imgur.com/RM2lsis.png",DELTA TV BUP
-http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="deltatv"               tvg-logo="https://i.imgur.com/irSnax9.png",DELTA TV 
+http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="diontv"                tvg-logo="https://i.imgur.com/dzAfWTc.png",DION TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrikisMakedonias.m3u8
