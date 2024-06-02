@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentriki
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="ionian"               tvg-logo="https://i.imgur.com/JILN3kS.png",IONIAN CHANNEL HD
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="bluesky"              tvg-logo="https://i.imgur.com/Lj3W875.png",BLUE SKY
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="bluesky"              tvg-logo="https://i.imgur.com/LcyU2ra.png",BLUE SKY
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="kontra"               tvg-logo="https://i.imgur.com/p3Oq7HP.png",KONTRA HD
