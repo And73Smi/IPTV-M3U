@@ -108,7 +108,7 @@ https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/qFWyY0L.jpg",VILLAGE WORLD        
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/MwX1GT6.png",VILLAGE WORLD        
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/yLq3hGm.jpg",ELLAS WORLD                                  
