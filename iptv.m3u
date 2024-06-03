@@ -538,10 +538,10 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hh61pPz.png",BARAZA TV DJ MUSIC
 https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/gJ7LEES.png",Classic Arts Showcase
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/4CpwZne.png",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hwe23kl.png",CLUBBING TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/RJzorVx.png",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/raxXELm.jpg",DEEJAY TV
@@ -577,7 +577,7 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="   "                    tvg-logo="https://i.imgur.com/YczK5sC.png",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/h1lONaA.png",MAD WORLD
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/E3mV6Nk.png",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="MAD GreekZ"             tvg-logo="https://i.imgur.com/lJKJplM.png",MAD Greekz 
@@ -589,10 +589,7 @@ http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV 
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/NRUoAoo.png",NRG91
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/d5491Kx.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/JWFOYuD.png",PLAY TV 
@@ -622,7 +619,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/XTV.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/AmW9d6H.jpg",Zougla TV 
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Al Jazeera"             tvg-logo="https://i.imgur.com/zb8Bybr.png",Al Jazeera English
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Al Jazeera"             tvg-logo="https://i.imgur.com/iJYlsnp.png",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Arirang"                tvg-logo="https://i.imgur.com/NMXUh8p.png",Arirang      
@@ -646,7 +643,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="DW"                     tvg-logo="https://i.imgur.com/EUlNCCQ.png",DW English
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://i.imgur.com/cM5xSfp.png",France 24 English      
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://i.imgur.com/b9ju6sf.png",France 24 English      
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="FOXNews"                tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
@@ -661,23 +658,23 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/78ORizB.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="RT"                     tvg-logo="https://i.imgur.com/41qGZPB.png",Russia Today News
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="RT"                     tvg-logo="https://i.imgur.com/lBWMtYi.png",Russia Today News
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                   tvg-name="tv5"                     tvg-logo="https://i.imgur.com/rPAbMSu.png",TV5Monde Europe 
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                   tvg-name="1+1"                     tvg-logo="https://i.imgur.com/6t3l0JN.png",1+1
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                   tvg-name="1+1"                     tvg-logo="https://i.imgur.com/27fIher.png",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="   "                     tvg-logo="https://i.imgur.com/CGRxF8M.png",FASHION TV GR
+#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="   "                     tvg-logo="https://i.imgur.com/bM4EsM6.png",FASHION TV GR
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/CGRxF8M.png",Fashion TV 
+#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/bM4EsM6.png",Fashion TV 
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/bpy1bkU.png",Fashion TV UHD 
+#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/bM4EsM6.png",Fashion TV UHD 
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SHORTS"                   tvg-name="failarmy"                tvg-logo="https://i.imgur.com/4OrvTCk.png",FAIL ARMY
