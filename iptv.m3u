@@ -159,7 +159,7 @@ https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-113/bgbl-b63k_1080p/chunklist_D
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="arttv"                tvg-logo="https://i.imgur.com/0ejDKQS.png",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="alfa"                 tvg-logo="https://i.imgur.com/o3SaABz.png",ALFA 
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="alfa"                 tvg-logo="https://i.imgur.com/8mlcV28.png",ALFA 
 https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                   tvg-name="astratv"              tvg-logo="https://i.imgur.com/oYRPfZm.png" ,ASTRA TV
@@ -312,7 +312,7 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1  group-title="WEB TV"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/o15HjLr.jpg",NOTOS WEB 
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV
+#EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/AdLb5f1.png",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="opt"                    tvg-logo="https://i.imgur.com/RotckUS.png",OPT
@@ -372,7 +372,7 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ"            tvg-name="topchannel"             tvg-logo="https://i.imgur.com/SfV2gJg.png",TOP CHANNEL HD
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 
-#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                  tvg-name="trt"                    tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                  tvg-name="trt"                    tvg-logo="https://i.imgur.com/GBtVLoT.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="voulitv"                tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI 
@@ -484,16 +484,16 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ertkids"                tvg-logo="https://i.imgur.com/1pJNg5i.png",ERT KIDS TV     
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ducktv"                 tvg-logo="https://i.imgur.com/yOKBy3j.png",DUCK TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ducktv"                 tvg-logo="https://i.imgur.com/ag1VARW.png",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/FgaA8Sa.png",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/3Kkeufe.png",TALKING TOM
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/ZH8YFQq.png",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
 
-#EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"               tvg-name="smiletvcy"              tvg-logo="https://imgur.com/UiHkZR3.png",SMILE TV CY
+#EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"               tvg-name="smiletvcy"              tvg-logo="https://i.imgur.com/Cjftwxs.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/DTjckrE.png",TOONS TV
@@ -502,19 +502,19 @@ https://ssh101-fl.bozztv.com/ssh101/tvtoons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/DAc22jr.png",Retrô Cartoon 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/ocH5unN.png",Moonbug Kids TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/N7HQjcr.png",Moonbug Kids TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/ocH5unN.png",pocket.watch Kids TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/N7HQjcr.png",pocket.watch Kids TV
 https://pocketwatch-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/ocH5unN.png",ZooMoo Kids
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/N7HQjcr.png",ZooMoo Kids
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/ocH5unN.png",mondotvkids
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/N7HQjcr.png",mondotvkids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/dcyIDoZ.png",ZOUZOUNIA
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/lt5YkQg.png",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/n6kzKn8.png",Zoo Moo
