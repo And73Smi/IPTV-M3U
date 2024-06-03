@@ -1,4 +1,4 @@
-﻿﻿﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ert1"                tvg-logo="https://i.imgur.com/UKbCtC1.png",ERT1 HD 
 https://ertflix.s.llnwi.net/ertlive/ert1/default/playlist.m3u8
