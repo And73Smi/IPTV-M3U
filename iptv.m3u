@@ -216,7 +216,7 @@ https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="epirustv1"             tvg-logo="https://i.imgur.com/nYVqhu8.png",EPIRUS TV1 HD 
 https://til.pp.ua:3928/live/epiruslive.m3u8
 
-#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="etv"                   tvg-logo="https://i.imgur.com/zndEXrO.png",ETV
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="etv"                   tvg-logo="https://i.imgur.com/SOydnJ2.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="eurotv"                tvg-logo="https://i.imgur.com/vmAkHDM.png",EURO TV
