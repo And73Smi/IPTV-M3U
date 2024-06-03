@@ -12,12 +12,6 @@ https://ertflix.s.llnwi.net/ertlive/ert3/default/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ"                   tvg-name="ertnews"             tvg-logo="https://i.imgur.com/UlvUCFR.png",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="ertnews2"             tvg-logo="https://i.imgur.com/KrfOpoj.png",ERT NEWS 2
-http://ertflix.s.llnwi.net/ertlive/ERTNews2/default/playlist.m3u8
-
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="ertnews3"             tvg-logo="https://i.imgur.com/9jajpXM.png",ERT NEWS 3
-http://ertflix.s.llnwi.net/ertlive/ERTNews3/default/playlist.m3u8
-
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                     tvg-name="ertworld"            tvg-logo="https://i.imgur.com/3S8niux.png",ERT WORLD 
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 
