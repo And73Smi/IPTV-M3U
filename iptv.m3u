@@ -237,7 +237,7 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="tileepiloges"          tvg-logo="https://i.imgur.com/3S4P7ob.png",Epiloges TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/xIjd2wF.jpg",ELLADA TV
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://imgur.com/Bg6vtx3.png",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="farostv"               tvg-logo="https://i.imgur.com/0oOTe7I.png",Faros TV 
@@ -430,16 +430,16 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/h73oxu4.png",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/KVVrP2d.jpg",FIFA
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/oaRM776.png",FIFA
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/ORGdGXZ.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="Motorvision Channel HD" tvg-logo="https://i.imgur.com/x3X0M9C.png",Motorvision.TV
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="Motorvision Channel HD" tvg-logo="https://i.imgur.com/JOAmT1I.png",Motorvision.TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/934ECuq.jpg",motorsport tv
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://imgur.com/veMh7NI.png",motorsport tv
 https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/49777524-d597-4923-864f-5dd96f57f1fb/3.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/AkSYO7M.png",Motorbikes & Engines
@@ -448,37 +448,37 @@ https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/FA6JxYJ.png",Mountain Bike TV 
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/kEOqdBJ.png",OPAP TV
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/ORGdGXZ.png",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/n647VIC.png",ON TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/On_Tv_Greece.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 2
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/o54S1UD.png",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/pbRXN30.png",Barbie
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/yPmguC4.png",Barbie
 https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/SGBRA31.png",Big Channel
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/HpQX8cT.png",Big Channel
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/8vupi3M.png",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/grBcaOc.png",BOOBA TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/Fmqx7YH.png",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="Cartoon Network"        tvg-logo="https://i.imgur.com/l5GIgc6.png",CARTOON NETWORK
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/LWHavQs.png",CARTOON TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/htiltX0.png",CARTOON TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="ertkids"                tvg-logo="https://i.imgur.com/1pJNg5i.png",ERT KIDS TV     
@@ -496,7 +496,7 @@ https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
 #EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"               tvg-name="smiletvcy"              tvg-logo="https://i.imgur.com/Cjftwxs.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/DTjckrE.png",TOONS TV
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/rsGjXCB.png",TOONS TV
 https://ssh101-fl.bozztv.com/ssh101/tvtoons/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/DAc22jr.png",Retrô Cartoon 
