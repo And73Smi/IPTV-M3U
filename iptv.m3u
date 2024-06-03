@@ -288,7 +288,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/cDqU9xs.png",IME TV      
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"          tvg-name="kosmos"                tvg-logo="https://i.imgur.com/WtORgus.png",KOSMOS TV
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"          tvg-name="kosmos"                tvg-logo="https://i.imgur.com/rNwWVUH.png",KOSMOS TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
 
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"         tvg-name="kostv"                  tvg-logo="https://i.imgur.com/Dw1iXBn.png",KOS TV                  
