@@ -255,13 +255,13 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/AAQkrGh.png",GRD Channel Discovery
 https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV                
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/yPh5Pg4.png",GRECA TV                
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV  2
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/yPh5Pg4.png",GRECA TV  2
 http://alex9954094.ddns.net:2052/test/test/93
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/ZNqlIUv.png",GRECA TV  3
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/yPh5Pg4.png",GRECA TV  3
 http://alex9954094.ddns.net:2052/test/test/5
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/bxaTICH.png",GREEK USA TV
