@@ -195,7 +195,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"                tvg-name="corfutv"               tvg-logo="https://i.imgur.com/jUxwZKl.png",CORFU CHANNEL 
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="CYPRUS LIVE"           tvg-logo="https://i.imgur.com/8KodvhW.png",CYPRUS LIVE                          
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="CYPRUS LIVE"           tvg-logo="https://i.imgur.com/VKEK01z.png",CYPRUS LIVE                          
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="citychannel"           tvg-logo="https://i.imgur.com/QBNSKr9.png",CITY CHANNEL HD
