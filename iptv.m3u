@@ -399,13 +399,13 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="lychnos"                tvg-logo="https://i.imgur.com/vij5wou.png",LYCHNOS HD
 https://thor.mental-media.gr:19360/imp/imp.m3u8%20
 
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="   "                    tvg-logo="https://i.imgur.com/1X5Mapp.png",ORTHODOXIA TV  
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="   "                    tvg-logo="https://i.imgur.com/iCZWyu3.png",ORTHODOXIA TV  
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Orthodoxia_Radio_TV.m3u8
 
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="pistitv"                tvg-logo="https://i.imgur.com/OITNMJR.png",PISTI TV
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="pistitv"                tvg-logo="https://i.imgur.com/Z1adNuj.png",PISTI TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/8LZDvow.png",ARGOLIDA SPORT
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/l9IwKVU.png",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/5ckk8Mz.png",ALFA SPORTS CY
@@ -526,16 +526,16 @@ https://til.pp.ua:3653/live/blackmanlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/eONw4hu.png",BARAZA Greek hits  
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hh61pPz.png",BARAZA Greek Summer 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/eONw4hu.png",BARAZA Greek Summer 
 https://media2.streambrothers.com:19360/8106/8106.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hh61pPz.png",BARAZA Gold hits 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/eONw4hu.png",BARAZA Gold hits 
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hh61pPz.png",BARAZA Relaxing 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/eONw4hu.png",BARAZA Relaxing 
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hh61pPz.png",BARAZA TV DJ MUSIC
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/eONw4hu.png",BARAZA TV DJ MUSIC
 https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/4CpwZne.png",Classic Arts Showcase
