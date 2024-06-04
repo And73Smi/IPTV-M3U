@@ -517,9 +517,6 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/lt5YkQg.png",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="Zoo Moo"                tvg-logo="https://i.imgur.com/1GvBqe9.png",Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/ZFvHcxi.png",BLACKMAN RADIO
 https://til.pp.ua:3653/live/blackmanlive.m3u8
 
@@ -585,6 +582,9 @@ http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV 
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG91
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/d5491Kx.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
