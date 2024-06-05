@@ -396,7 +396,7 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="ekklisiatv"             tvg-logo="https://i.imgur.com/QQSSMZx.png",Εκκλησία 
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="lychnos"                tvg-logo="https://i.imgur.com/vij5wou.png",LYCHNOS HD
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="lychnos"                tvg-logo="https://i.imgur.com/EwOiGfq.png",LYCHNOS HD
 https://thor.mental-media.gr:19360/imp/imp.m3u8%20
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="   "                    tvg-logo="https://i.imgur.com/iCZWyu3.png",ORTHODOXIA TV  
