@@ -306,7 +306,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/marontvgr.m3u
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/PGgfOu4.png",MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
+#EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://imgur.com/vjMsTwm.png",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
 
 #EXTINF:-1  group-title="WEB TV"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/o15HjLr.jpg",NOTOS WEB 
@@ -357,7 +357,7 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="stevt"                  tvg-logo="https://i.imgur.com/EocwXoN.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"         tvg-name="samiakitv"              tvg-logo="https://i.imgur.com/9Pf1we6.png",SAMIAKI TV
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ"         tvg-name="samiakitv"              tvg-logo="https://i.imgur.com/zGz11BY.png",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 
 #EXTINF:5570 group-title="ΚΡΗΤΗ"                   tvg-name="thlekriti"              tvg-logo="https://imgur.com/7duYXGc.png",TELEKRHTH
