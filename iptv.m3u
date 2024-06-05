@@ -186,7 +186,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyp
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/t5wTA5x.png",BCI ADVENTURE
 https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 
-#EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="creta"                tvg-logo="https://i.imgur.com/CpIeJyt.png",CRETA 
+#EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="creta"                tvg-logo="https://i.imgur.com/d8WNVnf.png",CRETA 
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="centertv"              tvg-logo="https://i.imgur.com/dqFuzRb.png",CENTER TV
