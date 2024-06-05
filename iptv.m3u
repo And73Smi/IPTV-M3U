@@ -348,7 +348,7 @@ http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΥΤ. ΕΛΛΑΔΑ"               tvg-name="starttv"                tvg-logo="https://i.imgur.com/x9tQxWX.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"              tvg-name="starbe"                 tvg-logo="https://i.imgur.com/QFGGNAQ.png",STAR.B.E
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"              tvg-name="starbe"                 tvg-logo="https://i.imgur.com/ZgFaqLV.png",STAR.B.E
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
 
 #EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ"                  tvg-name="syrostv1"               tvg-logo="https://i.imgur.com/arQe5qS.png",SYROS TV1
