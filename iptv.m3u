@@ -665,13 +665,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                   tvg-name="1+1"                     tvg-logo="https://i.imgur.com/27fIher.png",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="   "                     tvg-logo="https://i.imgur.com/vEVPWBA.png",FASHION TV GR
+#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="   "                     tvg-logo="https://i.imgur.com/Lm4UuRo.png",FASHION TV GR
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/vEVPWBA.png",Fashion TV 
+#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/Lm4UuRo.png",Fashion TV 
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/vEVPWBA.png",Fashion TV UHD 
+#EXTINF:-1 group-title="LIFESTYLE"                tvg-name="Fashion"                 tvg-logo="https://i.imgur.com/Lm4UuRo.png",Fashion TV UHD 
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SHORTS"                   tvg-name="failarmy"                tvg-logo="https://i.imgur.com/4OrvTCk.png",FAIL ARMY
