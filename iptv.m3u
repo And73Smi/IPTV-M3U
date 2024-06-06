@@ -633,7 +633,7 @@ https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="ABC 6 News"             tvg-logo="https://i.imgur.com/PO9VWkQ.png",ABC 6 News 
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Bloomberg"              tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Bloomberg"              tvg-logo="https://i.imgur.com/k7tsBgq.png",Bloomberg 
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="CNN"                    tvg-logo="https://i.imgur.com/dfxefQw.png",CNN EU 
