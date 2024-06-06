@@ -198,7 +198,7 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="CYPRUS LIVE"           tvg-logo="https://i.imgur.com/VKEK01z.png",CYPRUS LIVE                          
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="citychannel"           tvg-logo="https://i.imgur.com/amgRh6Q.png",CITY CHANNEL HD
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="citychannel"           tvg-logo="https://i.imgur.com/QBNSKr9.png",CITY CHANNEL HD
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="deltatv"               tvg-logo="https://i.imgur.com/irSnax9.png",DELTA TV 
@@ -648,7 +648,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="DW"                     tvg-logo="https://i.imgur.com/EUlNCCQ.png",DW English
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://i.imgur.com/b9ju6sf.png",France 24 English      
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://imgur.com/i.iBquawE.png",France 24 English      
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="FOXNews"                tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
