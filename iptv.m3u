@@ -78,10 +78,10 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY 
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/KEYU68h.png",CINEMA TIME
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/u7ClCR9.png",CINEMA TIME
 https://s1.cystream.net/live/34100/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/qxZJvJJ.png",CINEMA TIME 2
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/x6s4P7G.png",CINEMA TIME 2
 https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/dLvRD4k.png",Netmax TV 
@@ -223,7 +223,7 @@ https://til.pp.ua:3365/live/enachannellive.m3u8
 https://til.pp.ua:3928/live/epiruslive.m3u8
 
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="etv"                   tvg-logo="https://i.imgur.com/SOydnJ2.png",ETV
-https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+https://neon.streams.gr:8081/epsilontv/index.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="eurotv"                tvg-logo="https://i.imgur.com/2EKLFWw.png",EURO TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8
@@ -568,7 +568,7 @@ https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/Z4mna52.png",GOHTEIA RADIO 
 https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/vf8WaNE.png",KLIK TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/hHbfSpy.png",KLIK TV
 https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/4C63733.png",MAGIC TV
@@ -601,10 +601,10 @@ https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/JWFOYuD.png",PLAY TV 
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/6rtrnWv.png",REAL MUSIC TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/LQX88u1.png",REAL MUSIC TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/RI2nNrY.jpg",Reload Play 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/wiQ4i2X.png",Reload Play 
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/DPpIc1K.png",RedMusic 
@@ -616,7 +616,7 @@ https://ssh101.bozztv.com/ssh101/tilemousiki/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/pmgpvDg.png",V2BEAT LIVE
 http://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/az86xEK.png",XALASTRA TV
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/JuragSH.png",XTVSION
