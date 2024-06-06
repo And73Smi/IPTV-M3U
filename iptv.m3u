@@ -129,7 +129,7 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="neatvcrete"           tvg-logo="https://i.imgur.com/L1c5TWL.png",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="netv"                 tvg-logo="https://i.imgur.com/aDT7kwl.png",NETV EUROPE HD 
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="netv"                 tvg-logo="https://i.imgur.com/Fyne7iz.png",NETV EUROPE HD 
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="netv"                 tvg-logo="https://i.imgur.com/aDT7kwl.png",NETV TORONTO HD
