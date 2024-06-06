@@ -642,13 +642,13 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/dfxefQw.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="cgtntv"                 tvg-logo="https://i.imgur.com/jZ7GyTn.png",CGTN
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="cgtntv"                 tvg-logo="https://i.imgur.com/hR5FTNT.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="DW"                     tvg-logo="https://i.imgur.com/EUlNCCQ.png",DW English
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://imgur.com/i.iBquawE.png",France 24 English      
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://i.imgur.com/2Bj6LOm.png",France 24 English      
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="FOXNews"                tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
