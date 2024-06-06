@@ -39,7 +39,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="onetv"                tvg-logo="https://i.imgur.com/O1khvkT.png",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="action24"             tvg-logo="https://i.imgur.com/TRRIn2d.png",ACTION 24 HD
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="action24"             tvg-logo="https://i.imgur.com/NNctRi8.png",ACTION 24 HD
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="atticatv"             tvg-logo="https://i.imgur.com/v86eIY5.png",ATTICA TV HD
@@ -48,7 +48,7 @@ http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="starke"               tvg-logo="https://i.imgur.com/ZBt6beo.png",STAR.K.E HD
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 
-#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="ionian"               tvg-logo="https://i.imgur.com/JILN3kS.png",IONIAN CHANNEL HD
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="ionian"               tvg-logo="https://i.imgur.com/NYEGCXm.png",IONIAN CHANNEL HD
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="bluesky"              tvg-logo="https://i.imgur.com/LcyU2ra.png",BLUE SKY
