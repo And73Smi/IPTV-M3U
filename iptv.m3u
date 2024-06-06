@@ -409,7 +409,7 @@ https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrz
 https://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"              tvg-name="   "                  tvg-logo="https://i.imgur.com/L6nuEhM.png",WORD OF GOD TV
-https://ythls-v2.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
+https://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/l9IwKVU.png",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
