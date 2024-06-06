@@ -198,7 +198,7 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="CYPRUS LIVE"           tvg-logo="https://i.imgur.com/VKEK01z.png",CYPRUS LIVE                          
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="citychannel"           tvg-logo="https://i.imgur.com/QBNSKr9.png",CITY CHANNEL HD
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="citychannel"           tvg-logo="https://i.imgur.com/amgRh6Q.png",CITY CHANNEL HD
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="deltatv"               tvg-logo="https://i.imgur.com/irSnax9.png",DELTA TV 
@@ -377,15 +377,14 @@ https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="voulitv"                tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI 
 https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
-
-#EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="ertvoulicy"             tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI TV CY
-https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-
 #EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="ertvouligr"             tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI TV 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 
 #EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="ertvouligr"             tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI TV 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
+
+#EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="ertvoulicy"             tvg-logo="https://i.imgur.com/jeYiFaZ.png",VOULI TV Cyprus
+https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"             tvg-name="4e"                     tvg-logo="https://i.imgur.com/Na0UCV7.png",4E 
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
