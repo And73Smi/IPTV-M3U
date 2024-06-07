@@ -108,13 +108,13 @@ https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
 https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8 
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/RTnwXsD.jpg",CINEMA CLASSICS           
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/T1kGcYa.png",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/hsK68yd.png",Diavata TV 
 https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/RM2lsis.png",DELTA TV SKG
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/HXEDBqh.png",DELTA TV SKG
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/pxoRAca.png",IONIA TV
@@ -129,7 +129,7 @@ https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/dvY3lJC.png",DIPOLO TV (DTV6)
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/MwX1GT6.png",VILLAGE WORLD        
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/vCJkVTw.png",VILLAGE WORLD        
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/yLq3hGm.jpg",ELLAS WORLD                                  
