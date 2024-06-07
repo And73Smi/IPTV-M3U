@@ -30,7 +30,7 @@ http://cdn1.smart-tv-data.com/live/star/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/y5tPwmN.png",ANT1 HD 
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/y5tPwmN.png",ANT1 HD SD TEST
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/y5tPwmN.png",ANT1 SD TEST
 http://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="ant1cy"               tvg-logo="https://i.imgur.com/2KAObBt.png",ANT1 CY
