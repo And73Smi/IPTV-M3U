@@ -102,7 +102,7 @@ https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/dLvRD4k.png",Netmax TV 
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/dEyQ4ia.png",LAMPSI TV
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/hrk8hr0.png",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
