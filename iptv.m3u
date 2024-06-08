@@ -34,7 +34,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="open"                 tvg-logo="https://i.imgur.com/tWaSjNr.png",OPEN BEYONT HD 
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/ncfmbsfx/720/chunklist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="onetv"                tvg-logo="https://i.imgur.com/O1khvkT.png",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
