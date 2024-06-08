@@ -339,7 +339,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 #EXTINF:4550 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"            tvg-name="rtpkentro"              tvg-logo="https://i.imgur.com/JzqUA4K.png",RTP KENTRO           
 https://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                    tvg-name="risetv"                 tvg-logo="https://i.imgur.com/iVMNFkw.png",Rise TV 
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ"                    tvg-name="risetv"                 tvg-logo="https://i.imgur.com/JVXhF13.png",Rise TV 
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                 tvg-name="sigma"                  tvg-logo="https://i.imgur.com/DXKx102.png",SIGMA CY
