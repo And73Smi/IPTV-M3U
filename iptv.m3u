@@ -228,7 +228,7 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="eurotv"                tvg-logo="https://i.imgur.com/2EKLFWw.png",EURO TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8
 
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="edamth"                tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="edamth"                tvg-logo="https://i.imgur.com/ZLYEVuZ.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="egnatia"               tvg-logo="https://i.imgur.com/zuyYIca.png",Εγνατία Τηλεόραση
@@ -276,7 +276,7 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="hlektra"               tvg-logo="http://i.imgur.com/jH6tcnu.png",ΗΛΕΚΤΡΑ TV
 https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/dGwnC8c.png",HELLENIC TV
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/RB2Hv5E.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                     tvg-name="hightv"                tvg-logo="https://i.imgur.com/8gHuwt7.png",HIGH TV
