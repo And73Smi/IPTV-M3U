@@ -210,7 +210,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrik
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/2fDYvmy.jpg",DTP
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DTP.m3u8
 
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="diktyotv"              tvg-logo="https://i.imgur.com/npqssgx.png",DIKTYO TV
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="diktyotv"              tvg-logo="https://i.imgur.com/h62wTVU.png",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                   tvg-logo="https://i.imgur.com/36MCbHy.png",DESTINATION TV
@@ -228,7 +228,7 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="eurotv"                tvg-logo="https://i.imgur.com/2EKLFWw.png",EURO TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8
 
-#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="edamth"                tvg-logo="https://i.imgur.com/ZLYEVuZ.png",ED TV
+#EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"               tvg-name="edamth"                tvg-logo="https://i.imgur.com/nSD0H3E.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="egnatia"               tvg-logo="https://i.imgur.com/zuyYIca.png",Εγνατία Τηλεόραση
