@@ -18,19 +18,19 @@ https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mega"                tvg-logo="https://i.imgur.com/9f5SlKC.png",MEGA HD  
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mega"                tvg-logo="https://i.imgur.com/9f5SlKC.png",MEGA SD TEST 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="mega"                tvg-logo="https://i.imgur.com/9f5SlKC.png",MEGA SD BUP 
 http://cdn1.smart-tv-data.com/live/mega/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="star"                 tvg-logo="https://i.imgur.com/dDVPwjc.png",STAR HD 
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="star"                 tvg-logo="https://i.imgur.com/dDVPwjc.png",STAR SD TEST
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="star"                 tvg-logo="https://i.imgur.com/dDVPwjc.png",STAR SD BUP 
 http://cdn1.smart-tv-data.com/live/star/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/y5tPwmN.png",ANT1 HD 
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/y5tPwmN.png",ANT1 SD TEST
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ant1"                 tvg-logo="https://i.imgur.com/y5tPwmN.png",ANT1 SD BUP 
 http://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="ant1cy"               tvg-logo="https://i.imgur.com/2KAObBt.png",ANT1 CY
@@ -39,13 +39,13 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="alpha"                tvg-logo="https://i.imgur.com/6twzd38.png",ALPHA HD 
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="alpha"                tvg-logo="https://i.imgur.com/6twzd38.png",ALPHA SD TEST
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="alpha"                tvg-logo="https://i.imgur.com/6twzd38.png",ALPHA SD BUP 
 http://cdn1.smart-tv-data.com/live/alpha/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="skai"                 tvg-logo="https://i.imgur.com/mrKRFnf.png",SKAI HD 
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="skai"                 tvg-logo="https://i.imgur.com/mrKRFnf.png",SKAI SD TEST 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="skai"                 tvg-logo="https://i.imgur.com/mrKRFnf.png",SKAI SD BUP  
 http://cdn1.smart-tv-data.com/live/skai/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="open"                 tvg-logo="https://i.imgur.com/tWaSjNr.png",OPEN BEYONT HD 
@@ -108,7 +108,7 @@ https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/YgGSEeT.png",Galaxy 
 https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8 
 
-#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/T1kGcYa.png",CINEMA CLASSICS           
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/j6RWKVQ.png",CINEMA CLASSICS           
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
 #EXTINF:-1 group-title="CINEMA"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/hsK68yd.png",Diavata TV 
@@ -153,7 +153,7 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/PmoBcSZ.png",PLUSTV GR
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
-#EXTINF:-1 group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ"           tvg-name="extracy"              tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
+#EXTINF:-1 group-title="CINEMA"                     tvg-name="extracy"              tvg-logo="https://i.imgur.com/BWiOpxB.png",EXTACY TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/extra_tv_cyprus.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                     tvg-name="Xplore"               tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore
