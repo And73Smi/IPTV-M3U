@@ -621,6 +621,9 @@ https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/JuragSH.png",XTVSION
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/XTV.m3u8
 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/cN9ANvy.png",XAMOS RADIO
+https://ssh101.bozztv.com/ssh101/xamos/playlist.m3u8
+
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/qB59ETL.png",Zougla TV 
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 
