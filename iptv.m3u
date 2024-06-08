@@ -183,7 +183,7 @@ https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                  tvg-name="berginacy"            tvg-logo="https://i.imgur.com/abQmFoH.png",BERGINA TV CY
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginatv_cyprus.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/t5wTA5x.png",BCI ADVENTURE
+#EXTINF:-1 group-title="WEB TV"                     tvg-name="   "                  tvg-logo="https://i.imgur.com/Q5Azypu.png",BCI ADVENTURE
 https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 
 #EXTINF:-1 group-title="ΚΡΗΤΗ"                      tvg-name="creta"                tvg-logo="https://i.imgur.com/d8WNVnf.png",CRETA 
@@ -309,7 +309,7 @@ http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://imgur.com/vjMsTwm.png",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
 
-#EXTINF:-1  group-title="WEB TV"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/o15HjLr.jpg",NOTOS WEB 
+#EXTINF:-1  group-title="WEB TV"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/2QfxKlQ.png",NOTOS WEB 
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/AdLb5f1.png",Notioi TV
@@ -318,7 +318,7 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"              tvg-name="opt"                    tvg-logo="https://i.imgur.com/RotckUS.png",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/AfiZezI.png",ΟLYMPOS TV
+#EXTINF:-1 group-title="WEB TV"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/gczyswt.png",ΟLYMPOS TV
 https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"                 tvg-name="   "                    tvg-logo="https://i.imgur.com/BcYaW10.png",PLUTON TV HD      
@@ -336,7 +336,7 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"              tvg-name="tvrodopi"               tvg-logo="https://i.imgur.com/DwxR9ra.png",RODOPI TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 
-#EXTINF:4550 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"            tvg-name="rtpkentro"              tvg-logo="https://i.imgur.com/OtpGwk2.png",RTP KENTRO           
+#EXTINF:4550 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"            tvg-name="rtpkentro"              tvg-logo="https://i.imgur.com/gANgkN8.png",RTP KENTRO           
 https://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                    tvg-name="risetv"                 tvg-logo="https://i.imgur.com/iVMNFkw.png",Rise TV 
@@ -425,7 +425,7 @@ http://cdn1.smart-tv-data.com/vid/ertplay2/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="ertsport3"              tvg-logo="https://i.imgur.com/HbXg3li.png",ERT SPORTS 3
 http://cdn1.smart-tv-data.com/vid/ertplay3/playlist.m3u8
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/wu9YrIU.png",Extreme Sports
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/R7QCujV.png",Extreme Sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o4/extremesport/playlist.m3u8 
 
@@ -549,7 +549,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/raxXELm.jpg",DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/sLMaV7s.jpg",DANCE TV
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/1noAaQC.png",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"                   tvg-name="ertmusic"               tvg-logo="https://i.imgur.com/Xmal51l.png",ERT MUSIC TV      
