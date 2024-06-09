@@ -337,7 +337,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"              tvg-name="tvrodopi"               tvg-logo="https://i.imgur.com/DwxR9ra.png",RODOPI TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
+https://raw.githubusercontent.com/And73Smi/strm2hls/main/streams/TVRodopi.m3u8
 
 #EXTINF:4550 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"            tvg-name="rtpkentro"              tvg-logo="https://i.imgur.com/JzqUA4K.png",RTP KENTRO           
 https://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
