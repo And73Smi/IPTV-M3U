@@ -370,7 +370,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ"            tvg-name="topchannel"             tvg-logo="https://i.imgur.com/SfV2gJg.png",TOP CHANNEL HD
-http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Top_Channel_Greece.m3u8
 
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                  tvg-name="trt"                    tvg-logo="https://i.imgur.com/GBtVLoT.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
