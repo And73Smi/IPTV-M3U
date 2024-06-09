@@ -48,6 +48,9 @@ http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="starke"               tvg-logo="https://i.imgur.com/ZBt6beo.png",STAR.K.E HD
 https://raw.githubusercontent.com/And73Smi/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ"              tvg-name="starke"               tvg-logo="https://i.imgur.com/ZBt6beo.png",STAR.K.E HD (TEST)
+https://live-c.cf.dmcdn.net/sec2(poMCyM7wjsR-VuvfVebUnPv-uY2Z-IN8L3BOLjRCXy-epDafMX7ux5knZ8dVTBksZM14eBEdtI8rYvDeBgFg4-1TgiGN5d07yGuiUxAOBIA)/dm/3/x8rkeb7/s/live-3.m3u8
+
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"               tvg-name="ionian"               tvg-logo="https://i.imgur.com/NYEGCXm.png",IONIAN CHANNEL HD
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 
