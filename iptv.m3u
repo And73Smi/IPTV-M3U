@@ -336,7 +336,7 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΑΝ.ΜΑΚ θΡΑΚΗ"              tvg-name="tvrodopi"               tvg-logo="https://i.imgur.com/DwxR9ra.png",RODOPI TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 
-#EXTINF:4550 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"            tvg-name="rtpkentro"              tvg-logo="https://i.imgur.com/JzqUA4K.png",RTP KENTRO           
+#EXTINF:4550 group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ"            tvg-name="rtpkentro"              tvg-logo="https://i.imgur.com/4pWkq4c.png",RTP KENTRO           
 https://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ"                    tvg-name="risetv"                 tvg-logo="https://i.imgur.com/JVXhF13.png",Rise TV 
@@ -476,6 +476,9 @@ https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/8vupi3M.png",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/uChePn5.png",BABY SHARK TV 2
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/Fmqx7YH.png",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
