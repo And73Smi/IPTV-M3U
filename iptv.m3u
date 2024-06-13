@@ -1,7 +1,7 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ert1"                tvg-logo="https://i.imgur.com/UKbCtC1.png",ERT1 HD 
-https://ertflix.s.llnwi.net/ertlive/ert1/default/playlist.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert1/encdef/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"                tvg-name="ert2"                tvg-logo="https://i.imgur.com/nMHKG3A.png",ERT2 HD 
 https://ertflix.s.llnwi.net/ertlive/ert2/default/playlist.m3u8
@@ -636,17 +636,11 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Arirang"                tvg-logo="https://i.imgur.com/GJrYy7F.png",Arirang      
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="ABC 6 News"             tvg-logo="https://i.imgur.com/PO9VWkQ.png",ABC 6 News 
-https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="Bloomberg"              tvg-logo="https://i.imgur.com/k7tsBgq.png",Bloomberg 
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="CNN"                    tvg-logo="https://i.imgur.com/dfxefQw.png",CNN EU 
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="CNN"                    tvg-logo="https://i.imgur.com/dfxefQw.png",CNN  
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="   "                    tvg-logo="https://i.imgur.com/dfxefQw.png",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="cgtntv"                 tvg-logo="https://i.imgur.com/hR5FTNT.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -656,9 +650,6 @@ https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="France24"               tvg-logo="https://i.imgur.com/2Bj6LOm.png",France 24 English      
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="FOXNews"                tvg-logo="https://i.imgur.com/JIoMC9g.png",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="NBCNOW"                 tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
