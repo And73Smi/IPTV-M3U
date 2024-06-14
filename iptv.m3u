@@ -507,6 +507,9 @@ https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch7.m3u8
 #EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"               tvg-name="smiletvcy"              tvg-logo="https://i.imgur.com/Cjftwxs.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 
+#EXTINF:561210 group-title="ΠΑΙΔΙΚΑ"               tvg-name="   "                    tvg-logo="https://i.imgur.com/uIYZnpo.png",Shaun the Sheep
+https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch8.m3u8 
+
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/rsGjXCB.png",TOONS TV
 https://ssh101-fl.bozztv.com/ssh101/tvtoons/tracks-v1a1/mono.m3u8
 
