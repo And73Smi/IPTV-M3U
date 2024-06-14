@@ -375,7 +375,7 @@ https://raw.githubusercontent.com/And73Smi/strm2hls/main/streams/Top_Channel_Gre
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ"                  tvg-name="trt"                    tvg-logo="https://i.imgur.com/GBtVLoT.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE"                 tvg-name="ert1"                   tvg-logo="https://i.imgur.com/tWaSjNr.png",TV Queen Live
+#EXTINF:-1 group-title="LIFESTYLE"                 tvg-name="   "                   tvg-logo="https://i.imgur.com/tWaSjNr.png",TV Queen Live
 https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch9.m3u8
 
 #EXTINF:-1 group-title="ΚΟΙΝΟΒΟΥΛΙΟ"               tvg-name="voulitv"                tvg-logo="https://i.imgur.com/o2cvqv3.png",VOULI 
