@@ -89,7 +89,7 @@ https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1  tvg-name="netv" tvg-logo="https://i.imgur.com/aDT7kwl.png" group-title="WEB TV" :http-referrer="" :http-user-agent="",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV" :http-referrer="" :http-user-agent="",PLUSTV GR
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV" :http-referrer="" :http-user-agent="",PLUS TV GR
 https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 #EXTINF:-1  tvg-name="extracy" tvg-logo="https://i.imgur.com/BWiOpxB.png" group-title="CINEMA" :http-referrer="" :http-user-agent="",EXTACY TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/extacytv.m3u8
@@ -375,7 +375,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1  tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Xmal51l.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",ERT MUSIC TV
 https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",Ellinikos FM
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/cKq5DsI.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",Ellinikos FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/8eGsUkO.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",Fox Greece
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
