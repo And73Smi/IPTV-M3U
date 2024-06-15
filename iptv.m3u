@@ -387,7 +387,7 @@ https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
 https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/4C63733.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/u0aj3wn.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" :http-referrer="" :http-user-agent="",MESSINIA TV
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/u0aj3wn.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/E3mV6Nk.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
