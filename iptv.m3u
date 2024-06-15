@@ -391,8 +391,6 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/E3mV6Nk.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",
-
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/W3sGgWd.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",MAD TV
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/mVylDbq.png" group-title="ΜΟΥΣΙΚΗ" :http-referrer="" :http-user-agent="",MAD RADIO
