@@ -249,8 +249,6 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Top_Channel_Greece.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://i.imgur.com/GBtVLoT.png" group-title="ΘΕΣΣΑΛΙΑ" :http-referrer="" :http-user-agent="",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/tWaSjNr.png" group-title="LIFESTYLE" :http-referrer="" :http-user-agent="",TV Queen Live
-https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch8.m3u8
 #EXTINF:-1  tvg-name="voulitv" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ" :http-referrer="" :http-user-agent="",VOULI
 https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ" :http-referrer="" :http-user-agent="",VOULI TV 2
