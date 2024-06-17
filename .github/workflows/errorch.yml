@@ -1,4 +1,4 @@
-name: Check run:iptv.m3u
+name: iptv.m3u
 
 on: [push]
 
