@@ -12,4 +12,4 @@ with open(m3u_file_path, 'r') as file:
 for channel in m3u_content.segments:
     response = requests.head(channel.uri)
     if response.status_code != 200:
-        print(f'Error: Channel {channel.uri} is not working')
+        print(f'Error: Channel {error.py} is not working')
