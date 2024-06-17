@@ -1,4 +1,4 @@
-name: Check M3U Channels
+name: Check run: iptv.m3u
 
 on: [push]
 
