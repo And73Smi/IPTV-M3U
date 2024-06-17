@@ -1,5 +1,5 @@
-name: iptv.m3u
-
+- name: Check channels
+  run: python ./check_m3u.py
 on: [push]
 
 jobs:
