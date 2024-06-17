@@ -1,4 +1,4 @@
-- name: Check channels
+name: Check channels
   run: python ./check_m3u.py
 on: [push]
 
