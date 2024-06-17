@@ -5,7 +5,7 @@ from m3u8 import M3U8
 m3u_file_path = 'iptv.m3u'
 
 # Φόρτωση και ανάλυση του αρχείου m3u
-with open(m3u_file_path, 'r') as file:
+with open(iptv.m3u, 'r') as file:
     m3u_content = M3U8(file.read())
 
 # Έλεγχος κάθε καναλιού
