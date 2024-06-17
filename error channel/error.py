@@ -2,7 +2,7 @@ import requests
 from m3u8 import M3U8
 
 # Αντικαταστήστε με τη διαδρομή του αρχείου m3u
-m3u_file_path = 'your_file.m3u'
+m3u_file_path = 'iptv.m3u'
 
 # Φόρτωση και ανάλυση του αρχείου m3u
 with open(m3u_file_path, 'r') as file:
