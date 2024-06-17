@@ -1,5 +1,5 @@
 import requests
-from m3u8 import M3U8
+from iptv.m3u import iptv.m3u
 
 # Αντικαταστήστε με τη διαδρομή του αρχείου m3u
 m3u_file_path = 'iptv.m3u'
