@@ -209,8 +209,7 @@ https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" :http-referrer="" :http-user-agent="",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/gczyswt.png" group-title="WEB TV" :http-referrer="" :http-user-agent="",ΟLYMPOS TV
-https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
+
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΠΑΓΚΥΠΡΙΑ" :http-referrer="" :http-user-agent="",PLUTON TV HD
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" :http-referrer="" :http-user-agent="",Pella TV
