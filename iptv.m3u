@@ -209,6 +209,8 @@ https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ" :http-referrer="" :http-user-agent="",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/7TfeSWZ.png" group-title="WEB TV" :http-referrer="" :http-user-agent="",ON TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/On_Tv_Greece.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΠΑΓΚΥΠΡΙΑ" :http-referrer="" :http-user-agent="",PLUTON TV HD
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" :http-referrer="" :http-user-agent="",Pella TV
@@ -288,13 +290,13 @@ https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch7.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/h73oxu4.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/oaRM776.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",FIFA
-https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/40f89267-0f00-4587-ae6c-79cb1b3f71eb/3.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/ORGdGXZ.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://i.imgur.com/JOAmT1I.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",Motorvision.TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://imgur.com/veMh7NI.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",motorsport tv
-https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/efbefa44-0e1f-4798-90f9-d8e1312ec9d1/3.m3u8
+https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/9ccb8193-9abf-4bed-8648-a9b0141d453c/3.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/jRKdbZu.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",Motorbikes & Engines
 https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/FA6JxYJ.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",Mountain Bike TV
