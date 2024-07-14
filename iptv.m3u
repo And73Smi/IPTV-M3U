@@ -20,7 +20,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://i.imgur.com/tWaSjNr.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",OPEN BEYONT HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/ncfmbsfx/720/chunklist.m3u8
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/vvbbffw2/720/chunklist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/O1khvkT.png" group-title="ΑΤΤΙΚΗ" :http-referrer="" :http-user-agent="",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://i.imgur.com/NNctRi8.png" group-title="ΑΤΤΙΚΗ" :http-referrer="" :http-user-agent="",ACTION 24 HD
@@ -447,7 +447,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="ΔΙΕΘΝΗ" :http-referrer="" :http-user-agent="",TV5Monde Europe
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
-
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://i.imgur.com/27fIher.png" group-title="ΔΙΕΘΝΗ" :http-referrer="" :http-user-agent="",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE" :http-referrer="" :http-user-agent="",FASHION TV 1
