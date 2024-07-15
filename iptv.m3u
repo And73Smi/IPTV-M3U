@@ -20,7 +20,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://i.imgur.com/tWaSjNr.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",OPEN BEYONT HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/vvbbffw2/720/chunklist.m3u8
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/O1khvkT.png" group-title="ΑΤΤΙΚΗ" :http-referrer="" :http-user-agent="",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://i.imgur.com/NNctRi8.png" group-title="ΑΤΤΙΚΗ" :http-referrer="" :http-user-agent="",ACTION 24 HD
@@ -100,7 +100,7 @@ https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="ΑΤΤΙΚΗ" :http-referrer="" :http-user-agent="",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1  tvg-name="art" tvg-logo="https://i.imgur.com/Dcg4jZz.png" group-title="ΑΤΤΙΚΗ" :http-referrer="" :http-user-agent="",APT TV
-https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-86/lvm3-0vsh/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-5/w1cj-gqw3/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://i.imgur.com/0ejDKQS.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ" :http-referrer="" :http-user-agent="",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="alfa" tvg-logo="https://i.imgur.com/8mlcV28.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ" :http-referrer="" :http-user-agent="",ALFA
