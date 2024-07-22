@@ -281,6 +281,8 @@ https://ertflix.s.llnwi.net/ertlive/ertsports1/default/playlist.m3u8
 http://cdn1.smart-tv-data.com/vid/ertplay2/playlist.m3u8
 #EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://i.imgur.com/HbXg3li.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
 http://cdn1.smart-tv-data.com/vid/ertplay3/playlist.m3u8
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/R7QCujV.png" group-title="ΑΘΛΗΤΙΚΑ",Extreme Sports
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/57132#checkedby:iptvlister.com
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/zePcYdh.png" group-title="ΑΘΛΗΤΙΚΑ",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/UMtExkf.png" group-title="ΑΘΛΗΤΙΚΑ",FishingTV
