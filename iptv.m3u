@@ -445,11 +445,11 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://i.imgur.com/27fIher.png" group-title="ΔΙΕΘΝΗ",1+1
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FTV Bikini
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 1
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Fashion" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 2
+#EXTINF:-1  tvg-name="Fashion" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 3
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Fashion" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
