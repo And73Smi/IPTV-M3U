@@ -7,9 +7,9 @@ https://kontaminis.kitsopoulos.xyz/ch1/index.m3u8
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
 #EXTINF:-1  tvg-name="ertnews" tvg-logo="https://i.imgur.com/UlvUCFR.png" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
-#EXTINF:-1  tvg-name="ertnews2" tvg-logo="https://i.imgur.com/1aPzLWm.png" group-title="WEB TV",ERT NEWS 2
+#EXTINF:-1  tvg-name="ertnews2" tvg-logo="https://i.imgur.com/YD9qYMA.png" group-title="WEB TV",ERT NEWS 2
 http://ertflix.s.llnwi.net/ertlive/ERTNews2/default/playlist.m3u8
-#EXTINF:-1  tvg-name="ertnews3" tvg-logo="https://i.imgur.com/ThgdoX4.jpg" group-title="WEB TV",ERT NEWS 3
+#EXTINF:-1  tvg-name="ertnews3" tvg-logo="https://i.imgur.com/nBrpyo9.png" group-title="WEB TV",ERT NEWS 3
 http://ertflix.s.llnwi.net/ertlive/ERTNews3/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://i.imgur.com/3S8niux.png" group-title="ΔΙΕΘΝΗ",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
@@ -413,7 +413,7 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="ΜΟΥΣΙΚΗ",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/KqjgCx5png" group-title="ΜΟΥΣΙΚΗ",RYTHMOS TV
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/KqjgCx5png.png" group-title="ΜΟΥΣΙΚΗ",RYTHMOS TV
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/LQX88u1.png" group-title="ΜΟΥΣΙΚΗ",REAL MUSIC TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
