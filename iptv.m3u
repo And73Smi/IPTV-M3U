@@ -1,10 +1,10 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 #EXTINF:-1  tvg-name="ert1" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24613/index.m3u8
-#EXTINF:-1  tvg-name="ert1" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD (test)
-https://kontaminis.kitsopoulos.xyz/ch1/index.m3u8
 #EXTINF:-1  tvg-name="ert2" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
+#EXTINF:-1  tvg-name="ert3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
+https://ertflix.s.llnwi.net/ertlive/ert3/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertnews" tvg-logo="https://i.imgur.com/UlvUCFR.png" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://i.imgur.com/3S8niux.png" group-title="ΔΙΕΘΝΗ",ERT WORLD
