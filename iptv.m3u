@@ -53,6 +53,8 @@ https://ssh101-fl.bozztv.com/ssh101/cinematimetv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="CINEMA",Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/YgGSEeT.png" group-title="CINEMA",Galaxy
+https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/hrk8hr0.png" group-title="CINEMA",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/j6RWKVQ.png" group-title="CINEMA",CINEMA CLASSICS
