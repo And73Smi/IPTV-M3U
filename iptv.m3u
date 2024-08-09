@@ -40,7 +40,7 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://i.imgur.com/JvkJ4Cr.png" group-title="ΚΡΗΤΗ",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch1.m3u8
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Euronews_Greece.m3u8
 #EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/4aKJREC.png" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKΙ TV HD
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/zBQualH.jpg" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
@@ -218,7 +218,7 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/DwxR9ra.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",RODOPI TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/TVRodopi.m3u8
 #EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/4pWkq4c.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
-https://ssh101.bozztv.com/ssh101/rtpkentro/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="risetv" tvg-logo="https://i.imgur.com/JVXhF13.png" group-title="ΑΤΤΙΚΗ",Rise TV
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1  tvg-name="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="ΠΑΓΚΥΠΡΙΑ",SIGMA CY
