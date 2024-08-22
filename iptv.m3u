@@ -46,7 +46,8 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://i.imgur.com/JvkJ4Cr.png" group-title="ΚΡΗΤΗ",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Euronews_Greece.m3u8
+https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
+
 #EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/4aKJREC.png" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKΙ TV HD
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/zBQualH.jpg" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
