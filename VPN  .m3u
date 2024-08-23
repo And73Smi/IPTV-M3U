@@ -1,0 +1,67 @@
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
+#EXTINF:-1  tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/7uF6DR3.png" group-title="ΑΘΛΗΤΙΚΑ",EUROSPORT 1
+https://dvrfl07.bozztv.com/astv-eurosport1uk/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/rnddldc.png" group-title="ΑΘΛΗΤΙΚΑ",EUROSPORT 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/139#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/VcErwwh.png" group-title="ΑΘΛΗΤΙΚΑ",ANT1 F1
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/VcErwwh.png" group-title="CINEMA",ANT1 DRAMA
+https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/VcErwwh.png" group-title="CINEMA",ANT1 COMEDY
+https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/HFSLeAR.png" group-title="ΜΟΥΣΙΚΗ",JUST MUSIC
+http://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
+#EXTINF:-1  tvg-name="cosmote_cinema_1" tvg-logo="https://i.imgur.com/bZ909Bu.png" group-title="CINEMA",COSMOTE CINEMA 1
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/31226#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="cosmote_cinema_2" tvg-logo="https://i.imgur.com/I6mzCM2.png" group-title="CINEMA",COSMOTE CINEMA 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291105#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="cosmote_cinema_3" tvg-logo="https://i.imgur.com/tXJq29Q.png" group-title="CINEMA",COSMOTE CINEMA 3
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/73306#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Hellenic
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73405#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Animation
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73401#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premie sci fi
+http://780941758672316505.ofk0601.xyz:80/play/mi1218154/u7u@3eet8wg/316505.ts#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Thriller
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73412#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Passion
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73409#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Fantasy
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73404#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Starz
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/31162#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Mythology
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/73408#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere History
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73406#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere Action
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73400#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 3
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73412#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 6
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73396#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 7
+http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36392#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 9
+http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/73399#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 10
+http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/73384#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 11
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73385#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 12
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/73386#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 13
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73387#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 14
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73388#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 15
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73389#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 16
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73390#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 17
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73391#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SfBbPs3.png" group-title="CINEMA",Nova Premiere 18
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73392#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="kino18plus-tviksel" tvg-logo="https://imgur.com/EV69F3o.png" group-title="ΑΚΑΤΑΛΗΛΟ",Кино 18+
+https://v2.catcast.tv/content/40381/index.m3u8
