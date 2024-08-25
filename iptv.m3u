@@ -43,6 +43,8 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/ZcLIEeG.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://i.imgur.com/JvkJ4Cr.png" group-title="ΚΡΗΤΗ",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
@@ -85,6 +87,8 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1  tvg-name="krititv1" tvg-logo="https://i.imgur.com/x5bhaLG.png" group-title="ΚΡΗΤΗ",KRHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
+#EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://imgur.com/7duYXGc.png" group-title="ΚΡΗΤΗ",TELEKRHTH
+https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/L1c5TWL.png" group-title="ΚΡΗΤΗ",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="netv" tvg-logo="https://i.imgur.com/Fyne7iz.png" group-title="WEB TV",NETV EUROPE HD
@@ -189,8 +193,6 @@ https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvkosmosgr.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://i.imgur.com/Dw1iXBn.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Kardamena_TV.m3u8
-#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/ZcLIEeG.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
 #EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/E6dMSBY.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://i.imgur.com/15KX94Y.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
@@ -233,8 +235,6 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://i.imgur.com/zGz11BY.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://imgur.com/7duYXGc.png" group-title="ΚΡΗΤΗ",TELEKRHTH
-https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1  tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/rk3UJy7.png" group-title="ΘΕΣΣΑΛΙΑ",THESSALIA TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/thessaliatv.m3u8
 #EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",THRAKINET HD
