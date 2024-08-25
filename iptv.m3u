@@ -31,14 +31,14 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://i.imgur.com/v86eIY5.png" group-title="ΑΤΤΙΚΗ",ATTICA TV HD
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="starke" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR.K.E HD
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
-#EXTINF:-1  tvg-name="ionian" tvg-logo="https://i.imgur.com/NYEGCXm.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL HD
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1  tvg-name="bluesky" tvg-logo="https://i.imgur.com/LcyU2ra.png" group-title="ΑΤΤΙΚΗ",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1  tvg-name="kontra" tvg-logo="https://i.imgur.com/ZAebBPR.png" group-title="ΑΤΤΙΚΗ",KONTRA HD
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1  tvg-name="ionian" tvg-logo="https://i.imgur.com/NYEGCXm.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL HD
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1  tvg-name="starke" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR.K.E HD
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://i.imgur.com/wRKeaaW.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MAK TV HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
@@ -89,6 +89,8 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://imgur.com/7duYXGc.png" group-title="ΚΡΗΤΗ",TELEKRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1  tvg-name="creta" tvg-logo="https://i.imgur.com/d8WNVnf.png" group-title="ΚΡΗΤΗ",CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/L1c5TWL.png" group-title="ΚΡΗΤΗ",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="netv" tvg-logo="https://i.imgur.com/Fyne7iz.png" group-title="WEB TV",NETV EUROPE HD
@@ -121,8 +123,6 @@ https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="ΠΑΓΚΥΠΡΙΑ",BERGINA TV cyprus
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/verginatv_cyprus.m3u8
-#EXTINF:-1  tvg-name="creta" tvg-logo="https://i.imgur.com/d8WNVnf.png" group-title="ΚΡΗΤΗ",CRETA
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="centertv" tvg-logo="https://i.imgur.com/dqFuzRb.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",CENTER TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/centertv.m3u8
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://i.imgur.com/7laGB9K.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
