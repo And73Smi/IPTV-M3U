@@ -173,6 +173,8 @@ http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 http://alex9954094.ddns.net:2052/test/test/93
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/yPh5Pg4.png" group-title="WEB TV",GRECA TV  3
 http://alex9954094.ddns.net:2052/test/test/5
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/APUl47A.png" group-title="WEB TV",GREECE 24
+https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/bxaTICH.png" group-title="WEB TV",GREEK USA TV
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/bBe1rZf.png" group-title="WEB TV",GREEK VOICE
