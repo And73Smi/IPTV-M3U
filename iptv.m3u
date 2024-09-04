@@ -387,8 +387,8 @@ https://til.pp.ua:3303/live/messiniatvlive.m3u8
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/W3sGgWd.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SLACE6A.png" group-title="ΜΟΥΣΙΚΗ",NASOS TV FM
-https://nasos.24hosting.gr:3580/live/nasoslive.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SLACE6A.png" group-title="ΜΟΥΣΙΚΗ",NASOS TV RADIO
+https://nl.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG91
