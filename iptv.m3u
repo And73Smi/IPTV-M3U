@@ -2,9 +2,9 @@
 #EXTINF:-1  tvg-name="ert1" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1  tvg-name="ert2" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/playlist.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1  tvg-name="ert3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/playlist.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1  tvg-name="ertnews" tvg-logo="https://i.imgur.com/UlvUCFR.png" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://i.imgur.com/3S8niux.png" group-title="ΔΙΕΘΝΗ",ERT WORLD
@@ -153,8 +153,10 @@ https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1  tvg-name="tileepiloges" tvg-logo="https://i.imgur.com/3S4P7ob.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",Epiloges TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://imgur.com/Bg6vtx3.png" group-title="WEB TV",ELLADA TV
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Bg6vtx3.png" group-title="WEB TV",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/yH3TjT5.png" group-title="WEB TV",Exploring Greece
+https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
 #EXTINF:-1  tvg-name="farostv" tvg-logo="https://i.imgur.com/0oOTe7I.png" group-title="ΠΑΓΚΥΠΡΙΑ",Faros TV
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="farostv2" tvg-logo="https://i.imgur.com/0oOTe7I.png" group-title="ΠΑΓΚΥΠΡΙΑ",Faros TV2
@@ -325,6 +327,8 @@ https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/ywkJvnT.png" group-title="ΠΑΙΔΙΚΑ",mondotvkids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="nickelodeon" tvg-logo="https://i.imgur.com/HSriq5i.png" group-title="ΠΑΙΔΙΚΑ",NICKELODEON
+http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Qc7fygu.png" group-title="ΠΑΙΔΙΚΑ",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/NgzFHpA.png" group-title="ΠΑΙΔΙΚΑ",PBS
