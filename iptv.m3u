@@ -325,8 +325,6 @@ https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/ywkJvnT.png" group-title="ΠΑΙΔΙΚΑ",mondotvkids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="nickelodeon" tvg-logo="https://i.imgur.com/HSriq5i.png" group-title="ΠΑΙΔΙΚΑ",NICKELODEON
-http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/Qc7fygu.png" group-title="ΠΑΙΔΙΚΑ",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/NgzFHpA.png" group-title="ΠΑΙΔΙΚΑ",PBS
