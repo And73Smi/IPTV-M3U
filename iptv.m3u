@@ -331,6 +331,8 @@ https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/N7HQjcr.png" group-title="ΠΑΙΔΙΚΑ",WATCH Kids TV
 https://pocketwatch-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/FmswjM0.png" group-title="ΠΑΙΔΙΚΑ",PBS KIDS
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
 #EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/GunurVk.png" group-title="ΠΑΙΔΙΚΑ",Retrô Cartoon
