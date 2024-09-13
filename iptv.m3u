@@ -117,6 +117,8 @@ https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/crbFs17.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/nuB57K5.png" group-title="WEB TV",APOKALIPTIKA NEWS
+https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",BERGINA TV GR
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="ΠΑΓΚΥΠΡΙΑ",BERGINA TV cyprus
