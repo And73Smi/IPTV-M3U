@@ -23,7 +23,7 @@ https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/an
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="alphacy" tvg-logo="https://i.imgur.com/No45vwk.png" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CY
+#EXTINF:-1  tvg-name="alphacy" tvg-logo="https://i.imgur.com/No45vwk.png" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CYPRUS
 https://ln3.cloudskep.com/alphacyp/acy/l4/hd/chunks.m3u8?nimblesessionid=38306581&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDc6MzY6NTkgUE0maGFzaF92YWx1ZT1uOTNSRUovUERGVXREOFZUcW1wZklRPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
@@ -229,7 +229,7 @@ https://s1.cystream.net/live/extra/chunks.m3u8?nimblesessionid=86351409&wmsAuthS
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΠΑΓΚΥΠΡΙΑ",PLUTON TV HD
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV",PLUS CYPRUS
+#EXTINF:-1  tvg-name="plustv" tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV",PLUS CYPRUS
 https://s1.cystream.net/live/plus/chunks.m3u8?nimblesessionid=86351199&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDc6Mzk6MjcgUE0maGFzaF92YWx1ZT1BeWVkUUhwZDdhMTNQSG91aU9DUmxBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
