@@ -10,7 +10,9 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://i.imgur.com/3S8niux.png" group-title="ΔΙΕΘΝΗ",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/SzAGLRo.png" group-title="WEB TV",ERT FIRST GLOBAL CHALLENGE
-https://ertflix.s.llnwi.net/ertlive/ertsports4/default/playlist.m3u8     
+https://ertflix.s.llnwi.net/ertlive/ertsports4/default/playlist.m3u8 
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/9f5SlKC.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=7649867&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDY6Mzg6NTggUE0maGFzaF92YWx1ZT1SRThxZ1ZLcnp2NDN4UTFCeWpaNmZRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1  tvg-name="star" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR INTERNATIONAL HD
