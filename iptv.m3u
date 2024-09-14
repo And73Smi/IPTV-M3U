@@ -169,7 +169,7 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/FlashTV.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/lmuw8ff.png" group-title="WEB TV",FILOPOLI TV
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/GvIAhPl.png" group-title="WEB TV",GRD CHANNEL DISCOVERY
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/GvIAhPl.png" group-title="WEB TV",GRD CHANNEL 
 https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/yPh5Pg4.png" group-title="WEB TV",GRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
@@ -223,7 +223,7 @@ https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://i.imgur.com/vMohImJ.png" group-title="WEB TV",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
-#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="ΔΙΕΘΝΗ",RIK SAT CY
+#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="ΔΙΕΘΝΗ",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/DwxR9ra.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",RODOPI TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/TVRodopi.m3u8
@@ -231,7 +231,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/TVRodopi.m3u8
 https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="risetv" tvg-logo="https://i.imgur.com/JVXhF13.png" group-title="ΑΤΤΙΚΗ",RISE TV
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
-#EXTINF:-1  tvg-name="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="ΠΑΓΚΥΠΡΙΑ",SIGMA CY
+#EXTINF:-1  tvg-name="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="ΠΑΓΚΥΠΡΙΑ",SIGMA CYPRUS
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 #EXTINF:-1  tvg-name="starttv" tvg-logo="https://i.imgur.com/x9tQxWX.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
@@ -257,7 +257,7 @@ https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI TV 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://i.imgur.com/jeYiFaZ.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI TV cyprus
+#EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://i.imgur.com/jeYiFaZ.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI TV CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
@@ -277,7 +277,7 @@ https://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/l9IwKVU.png" group-title="ΑΘΛΗΤΙΚΑ",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/5ckk8Mz.png" group-title="ΑΘΛΗΤΙΚΑ",ALFA SPORTS CY
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/5ckk8Mz.png" group-title="ΑΘΛΗΤΙΚΑ",ALFA SPORTS CYPRUS
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
@@ -337,7 +337,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Rbq9VVq.png" group-title="ΠΑΙΔΙΚΑ",RETRO CRUSH
 https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
+#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CYPRUS
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/ZH8YFQq.png" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
@@ -445,11 +445,11 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://i.imgur.com/27fIher.png" group-title="ΔΙΕΘΝΗ",1+1
 https://live-k2302-kbp.1plus1.video/live/1726887840/5gjQTHhG3qC3i1euzVFYNQ/184723/smil:184723.smil/chunklist_b2128000.m3u8
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 3
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
