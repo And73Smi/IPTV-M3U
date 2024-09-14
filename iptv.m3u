@@ -207,9 +207,9 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/marontvgr.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://imgur.com/vjMsTwm.png" group-title="WEB TV",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/2QfxKlQ.png" group-title="WEB TV",NOTOS WEB
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/2QfxKlQ.png" group-title="WEB TV",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/AdLb5f1.png" group-title="WEB TV",Notioi TV
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/AdLb5f1.png" group-title="WEB TV",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
@@ -303,7 +303,7 @@ https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/ORGdGXZ.png" group-title="ΑΘΛΗΤΙΚΑ",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV 1
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/o54S1UD.png" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
@@ -323,7 +323,7 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
 #EXTINF:-1  tvg-name="ducktv" tvg-logo="https://i.imgur.com/ag1VARW.png" group-title="ΠΑΙΔΙΚΑ",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/1pJNg5i.png" group-title="ΠΑΙΔΙΚΑ",ERT KIDS TV
+#EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/1pJNg5i.png" group-title="ΠΑΙΔΙΚΑ",ERT KIDS 
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/4oQGwly.png" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -375,7 +375,7 @@ https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/8eGsUkO.png" group-title="ΜΟΥΣΙΚΗ",FOX GREECE
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/az8KGAl.png" group-title="ΜΟΥΣΙΚΗ",GREEK TV LONDON
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/az8KGAl.png" group-title="ΜΟΥΣΙΚΗ",GREEK TV LONDON RADIO
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Z4mna52.png" group-title="ΜΟΥΣΙΚΗ",GOHTEIA RADIO
 https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
