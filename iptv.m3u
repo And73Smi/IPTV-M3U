@@ -213,7 +213,7 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/AdLb5f1.png" group-title="WEB TV",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1  tvg-name="omega" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA
+#EXTINF:-1  tvg-name="omega" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA CYPRUS
 https://s1.cystream.net/live/omega/chunks.m3u8?nimblesessionid=86349885&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDc6MTg6MTggUE0maGFzaF92YWx1ZT1OejFxZ3BWSDBrbVhzUmFsNDBWTWF3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
@@ -229,9 +229,9 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1  tvg-name="rikhd" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="ΔΙΕΘΝΗ",RIK SAT CYPRUS
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1  tvg-name="rik1" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK 1 CY
+#EXTINF:-1  tvg-name="rik1" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK 1 CYPRUS
 https://s1.cystream.net/live/rik1/chunks.m3u8?nimblesessionid=86350020&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDc6MjA6MzUgUE0maGFzaF92YWx1ZT1DcU5Nc2FoT2J6eGREQm95dGhiS3l3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1  tvg-name="rik2" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK 2 CY
+#EXTINF:-1  tvg-name="rik2" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK 2 CYPRUS
 https://s1.cystream.net/live/rik2/chunks.m3u8?nimblesessionid=86350109&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDc6MjI6MDIgUE0maGFzaF92YWx1ZT02MzFKSEpJM0VpdXF0dlgvZEVtSm5BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/DwxR9ra.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",RODOPI TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/TVRodopi.m3u8
