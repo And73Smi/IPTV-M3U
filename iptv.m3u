@@ -77,7 +77,7 @@ https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/az8KGAl.png" group-title="CINEMA",GREEK TV LONDON MOVIES
 https://vdo3.alphaserver.gr:3466/stream/play.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/eG3nsWC.png" group-title="CINEMA",DIPOLO TV (DTV6)
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/eG3nsWC.png" group-title="CINEMA",DIPOLO TV 
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/vCJkVTw.png" group-title="CINEMA",VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
@@ -303,7 +303,7 @@ https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/ORGdGXZ.png" group-title="ΑΘΛΗΤΙΚΑ",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV 
+#EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/o54S1UD.png" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
@@ -323,7 +323,7 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
 #EXTINF:-1  tvg-name="ducktv" tvg-logo="https://i.imgur.com/ag1VARW.png" group-title="ΠΑΙΔΙΚΑ",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/1pJNg5i.png" group-title="ΠΑΙΔΙΚΑ",ERT KIDS 
+#EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/1pJNg5i.png" group-title="ΠΑΙΔΙΚΑ",ERT KIDS
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/4oQGwly.png" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
