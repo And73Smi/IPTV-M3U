@@ -284,8 +284,6 @@ https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1 (test)
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1  tvg-name="ertsport2" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
-https://ertflix.s.llnwi.net/ertlive/ertsports2/default/playlist.m3u8
-#EXTINF:-1  tvg-name="ertsport2" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2 (test)
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://i.imgur.com/HbXg3li.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
 https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
@@ -446,7 +444,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="ΔΙΕΘΝΗ",TV5 MONDE EUROPE
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://i.imgur.com/27fIher.png" group-title="ΔΙΕΘΝΗ",1+1
-https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+https://live-k2302-kbp.1plus1.video/live/1726887840/5gjQTHhG3qC3i1euzVFYNQ/184723/smil:184723.smil/chunklist_b2128000.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="?????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 2
