@@ -161,6 +161,8 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/yH3TjT5.png" group-title="WEB TV",EXPLORING GREECE
 https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/zePcYdh.png" group-title="WEB TV",EVRIPOS TV
+https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="farostv" tvg-logo="https://i.imgur.com/0oOTe7I.png" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS WEBTV
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="farostv2" tvg-logo="https://i.imgur.com/0oOTe7I.png" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS LIVE
@@ -263,7 +265,7 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWz
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
 #EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://i.imgur.com/tPePDB7.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΕΚΚΛΗΣΙΑ
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1  tvg-name="lychnos" tvg-logo="https://i.imgur.com/EwOiGfq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LYCHNOS HD
 https://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
@@ -281,20 +283,12 @@ https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
-#EXTINF:-1  tvg-name="ertspors" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1 (test)
-http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1  tvg-name="ertsport2" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://i.imgur.com/HbXg3li.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
 https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
-#EXTINF:-1  tvg-name="Extreme Sports" tvg-logo="https://i.imgur.com/R7QCujV.png" group-title="ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
-http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/57132#checkedby:iptvlister.com
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/zePcYdh.png" group-title="ΑΘΛΗΤΙΚΑ",EVRIPOS TV
-https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/h73oxu4.png" group-title="ΑΘΛΗΤΙΚΑ",FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/ORGdGXZ.png" group-title="ΑΘΛΗΤΙΚΑ",HORSE RACES
-https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://i.imgur.com/JOAmT1I.png" group-title="ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/jRKdbZu.png" group-title="ΑΘΛΗΤΙΚΑ",MOTORBIKES & ENGINES
