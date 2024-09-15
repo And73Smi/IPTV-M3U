@@ -151,7 +151,7 @@ https://til.pp.ua:3928/live/epiruslive.m3u8
 https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1  tvg-name="eurotv" tvg-logo="https://i.imgur.com/2EKLFWw.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EURO TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/EuroTV.m3u8
-#EXTINF:-1  tvg-name="edamth" tvg-logo="https://i.imgur.com/SKK61OK.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ED TV
+#EXTINF:-1  tvg-name="edamth" tvg-logo="https://i.imgur.com/SKK61OK.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΕΔ TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1  tvg-name="egnatia" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΕΓΝΑΤΙΑ ΤΗΛΕΟΡΑΣΗ
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
@@ -161,7 +161,7 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/yH3TjT5.png" group-title="WEB TV",EXPLORING GREECE
 https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/zePcYdh.png" group-title="WEB TV",EVRIPOS TV
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/xRBjlF6.png" group-title="WEB TV",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="farostv" tvg-logo="https://i.imgur.com/0oOTe7I.png" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS WEBTV
 https://s1.cystream.net/live/faros1/playlist.m3u8
