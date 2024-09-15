@@ -51,7 +51,7 @@ https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
-#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/4aKJREC.png" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKΙ TV HD
+#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/4aKJREC.png" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKΙ HD
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
