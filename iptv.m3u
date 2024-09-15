@@ -419,6 +419,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/XTV.m3u8
 https://ssh101.bozztv.com/ssh101/xamos/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/qB59ETL.png" group-title="ΜΟΥΣΙΚΗ",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/PvHO425.png" group-title="ΜΟΥΣΙΚΗ",24 SERVER
+https://nasos.24hosting.gr:3580/stream/play.m3u8
 #EXTINF:-1  tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/iJYlsnp.png" group-title="ΔΙΕΘΝΗ",AL JAZEERA ENGLISH
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1  tvg-name="Arirang" tvg-logo="https://i.imgur.com/GJrYy7F.png" group-title="ΔΙΕΘΝΗ",ARIRANG
