@@ -179,7 +179,7 @@ https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/bBe1rZf.png" group-title="WEB TV",GREEK VOICE
 https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
-#EXTINF:-1  tvg-name="gnomitv" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΓΝΩΜΗ TV
+#EXTINF:-1  tvg-name="gnomitv" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1  tvg-name="epirustv1" tvg-logo="https://i.imgur.com/nYVqhu8.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ΗΠΕΙΡΟΣ TV1 HD
 https://til.pp.ua:3928/live/epiruslive.m3u8
@@ -253,7 +253,7 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Top_Channel_Greece.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://i.imgur.com/GBtVLoT.png" group-title="ΘΕΣΣΑΛΙΑ",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
-#EXTINF:-1  tvg-name="voulitv" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",ΒΟΥΛΗ 
+#EXTINF:-1  tvg-name="voulitv" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",ΒΟΥΛΗ
 https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",ΒΟΥΛΗ 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
