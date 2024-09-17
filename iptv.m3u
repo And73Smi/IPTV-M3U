@@ -273,7 +273,7 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1  tvg-name="lychnos" tvg-logo="https://i.imgur.com/EwOiGfq.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΛΥΧΝΟΣ HD
 https://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/iCZWyu3.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΟΡΘΟΔΟΞΙΑ TV
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/iCZWyu3.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΟΡΘΟΔΟΞΗ ΤΗΛΕΟΡΑΣΗ
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Orthodoxia_Radio_TV.m3u8
 #EXTINF:-1  tvg-name="pistitv" tvg-logo="https://i.imgur.com/Z1adNuj.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΠΙΣΤΗ TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
