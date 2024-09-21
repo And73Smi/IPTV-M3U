@@ -213,10 +213,6 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/AdLb5f1.png" group-title="WEB TV",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
-https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/7TfeSWZ.png" group-title="WEB TV",ON TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/On_Tv_Greece.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/zBQualH.jpg" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV HD
@@ -455,3 +451,5 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 3
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 4
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
