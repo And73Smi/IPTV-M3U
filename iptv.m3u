@@ -389,8 +389,6 @@ http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/SLACE6A.png" group-title="ΜΟΥΣΙΚΗ",NASOS TV RADIO
 https://nasos.24hosting.gr:3580/stream/play.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1  tvg-name="PanikTV" tvg-logo="https://i.imgur.com/d5491Kx.png" group-title="ΜΟΥΣΙΚΗ",PANIK TV
