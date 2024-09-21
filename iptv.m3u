@@ -199,9 +199,9 @@ https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/iviewtvgr.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://i.imgur.com/rNwWVUH.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvkosmosgr.m3u8
-#EXTINF:-1  tvg-name="kostv" tvg-logo="https://i.imgur.com/Dw1iXBn.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",ΚΩΣ TV
+#EXTINF:-1  tvg-name="kostv" tvg-logo="https://i.imgur.com/Dw1iXBn.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Kardamena_TV.m3u8
-#EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/E6dMSBY.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",ΜΕΣΟΓΕΙΟΣ TV
+#EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/E6dMSBY.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://i.imgur.com/15KX94Y.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/marontvgr.m3u8
@@ -217,7 +217,7 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV HD
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
-#EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΠΕΛΛΑ TV
+#EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://i.imgur.com/vMohImJ.png" group-title="WEB TV",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
@@ -263,9 +263,9 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
-#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://i.imgur.com/tPePDB7.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΔΙΨΩ TV
+#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://i.imgur.com/tPePDB7.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΕΚΚΛΗΣΙΑ TV
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1  tvg-name="lychnos" tvg-logo="https://i.imgur.com/EwOiGfq.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΛΥΧΝΟΣ HD
 https://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
