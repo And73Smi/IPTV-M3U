@@ -45,7 +45,7 @@ http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/makt
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1  tvg-name="patratv" tvg-logo="https://i.imgur.com/WRlTNOh.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",ΠΑΤΡΑ TV
+#EXTINF:-1  tvg-name="patratv" tvg-logo="https://i.imgur.com/WRlTNOh.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
 https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/ZcLIEeG.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
@@ -113,7 +113,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://i.imgur.com/DS84RCZ.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ΑΧΕΛΩΟΣ TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/crbFs17.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",ΑΙΓΑΙΟ TV
+#EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/crbFs17.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/Cn3yLSV.png" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
@@ -271,7 +271,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/iCZWyu3.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΟΡΘΟΔΟΞΗ ΤΗΛΕΟΡΑΣΗ
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Orthodoxia_Radio_TV.m3u8
-#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://i.imgur.com/Z1adNuj.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΠΙΣΤΗ TV
+#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://i.imgur.com/Z1adNuj.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ΠICTH TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://i.imgur.com/4bFszV7.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",VOICE OF GOD TV
 https://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
