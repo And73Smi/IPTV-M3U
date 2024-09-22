@@ -105,7 +105,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/rxUeK1Z.png" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/7oMeNXi.png" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/alithiatv.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="ΑΤΤΙΚΗ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
