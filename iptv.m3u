@@ -13,7 +13,7 @@ https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 https://ertflix.s.llnwi.net/ertlive/ertsports4/default/playlist.m3u8 
 #EXTINF:-1  tvg-name="star" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
-#EXTINF:-1  tvg-name="star" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD BUP
+#EXTINF:-1  tvg-name="star" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD (BUP)
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2662
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΔΙΕΘΝΗ",STAR INTERNATIONAL HD
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
