@@ -105,6 +105,8 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/rxUeK1Z.png" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/alithiatv.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="ΑΤΤΙΚΗ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1  tvg-name="art" tvg-logo="https://i.imgur.com/Dcg4jZz.png" group-title="ΑΤΤΙΚΗ",APT TV
@@ -305,6 +307,8 @@ https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/o54S1UD.png" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/o54S1UD.png" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL 2
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/yPmguC4.png" group-title="ΠΑΙΔΙΚΑ",BARBIE
 https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/HpQX8cT.png" group-title="ΠΑΙΔΙΚΑ",BIG CHANNEL
