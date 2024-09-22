@@ -1,5 +1,4 @@
-
-#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/OfpmvL7.png" group-title="WEB TV",10 CHANNEL
 https://
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/2sBTnIn.png" group-title="ΜΟΥΣΙΚΗ",AKTINA TV
