@@ -237,7 +237,7 @@ https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1  tvg-name="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="ΚΥΠΡΙΑΚΑ",SIGMA ΚΥΠΡΟΣ
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
-#EXTINF:-1  tvg-name="starttv" tvg-logo="https://i.imgur.com/x9tQxWX.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",START TV
+#EXTINF:-1  tvg-name="starttv" tvg-logo="https://i.imgur.com/qdcyq4g.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1  tvg-name="starbe" tvg-logo="https://i.imgur.com/ZgFaqLV.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvstarfm.m3u8
