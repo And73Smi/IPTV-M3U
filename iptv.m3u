@@ -107,7 +107,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://i.imgur.com/7oMeNXi.png" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV (ΜΕΤΑ ΤΙΣ 17 00 )
+#EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://i.imgur.com/7oMeNXi.png" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV (μετά τίς 17 00 )
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/alithiatv.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="ΑΤΤΙΚΗ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
@@ -141,7 +141,7 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
 #EXTINF:-1  tvg-name="diktyotv" tvg-logo="https://i.imgur.com/9VHbF1a.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΔΙΚΤΥΟ TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
-#EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://i.imgur.com/FYwpEZl.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1
+#EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://i.imgur.com/FYwpEZl.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1  tvg-name="diontv" tvg-logo="https://i.imgur.com/QAF7dZS.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",DION TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/DionTvKentrikisMakedonias.m3u8
