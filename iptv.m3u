@@ -383,6 +383,8 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Z4mna52.png" group-title="ΜΟΥΣΙΚΗ",GOHTEIA RADIO
 https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/VdTQ6sJ.png" group-title="ΜΟΥΣΙΚΗ",HOTBEATS TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/hotbeatstv.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/WPHWJ1h.png" group-title="ΜΟΥΣΙΚΗ",KISS TV
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/hHbfSpy.png" group-title="ΜΟΥΣΙΚΗ",KLIK TV
