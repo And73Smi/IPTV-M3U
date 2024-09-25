@@ -297,6 +297,8 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/h73oxu4.png" group-title="ΑΘΛΗΤΙΚΑ",FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ORGdGXZ.png" group-title="ΑΘΛΗΤΙΚΑ",HORSE RACES
+https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://i.imgur.com/JOAmT1I.png" group-title="ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/jRKdbZu.png" group-title="ΑΘΛΗΤΙΚΑ",MOTORBIKES & ENGINES
