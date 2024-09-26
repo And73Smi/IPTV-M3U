@@ -1,4 +1,6 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
+#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="ERROR",ERROR
+https://i.imgur.com/RnZVe9D.png
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/y5tPwmN.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/9f5SlKC.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
