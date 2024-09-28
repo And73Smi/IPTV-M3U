@@ -31,6 +31,8 @@ https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
 https://lnc-cinevault-westerns.tubi.video/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/HM2cnvF.jpg" group-title="ΜΟΥΣΙΚΗ",DIAMOND TV
 https://
+#EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://i.imgur.com/FYwpEZl.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
+https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://i.imgur.com/0hfoxmu.png" group-title="ΑΤΤΙΚΗ",EPSILON TV
 https://
 #EXTINF:-1  tvg-name="ertnews2" tvg-logo="https://i.imgur.com/YD9qYMA.png" group-title="WEB TV",ERT NEWS 2
@@ -47,8 +49,12 @@ https://eu5cdn.overotm.com/abr_amd10/ert1/playlist.m3u8
 https://
 #EXTINF:-1  tvg-name="Extreme Sports" tvg-logo="https://i.imgur.com/R7QCujV.png" group-title="ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
 http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/57132#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 4
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/APUl47A.png" group-title="WEB TV",GREECE 24
+https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/bBe1rZf.png" group-title="WEB TV",GREEK VOICE
 https://ssh101-fl.bozztv.com/ssh101/greek/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/RB2Hv5E.png" group-title="WEB TV",HELLENIC TV
@@ -69,6 +75,8 @@ https://
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
 https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/FA6JxYJ.png" group-title="ΑΘΛΗΤΙΚΑ",MOUNTAIN BIKE TV
+https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/NkRVi1T.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",NEXT TV
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ACUz1jm.png" group-title="ΜΟΥΣΙΚΗ",NG
@@ -111,5 +119,7 @@ http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 https://
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/1GvBqe9.png" group-title="ΠΑΙΔΙΚΑ",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Cn3yLSV.png" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
+https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gczyswt.png" group-title="WEB TV",ΟLYMPOS TV
 https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
