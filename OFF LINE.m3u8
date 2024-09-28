@@ -111,6 +111,8 @@ https://
 https://
 #EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1  tvg-name="starke" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ HD
+https://live-c2.cf.dmcdn.net/sec2(FSVp0aKDVZ51ZW12el8t8lsZ3h0mkvqt0MHfiDdSSp2sjog01rFab152waBpvsyh-ojYb7wpOQ3ZdZNk5yjBRv5oUikIhYimroe_jhO6tA8)/cloud/3/x8rkeb7/s/live-720.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://i.imgur.com/AVHD21i.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
 https://
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL HD
