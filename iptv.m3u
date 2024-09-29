@@ -29,7 +29,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HYBRID
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gOH2gGX.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://i.imgur.com/tWaSjNr.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
