@@ -19,7 +19,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/9f5SlKC.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/13
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/l4bL63u.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY HYBRID HD
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/l4bL63u.png" group-title="WEB TV",MEGA PLAY HYBRID HD
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/y5tPwmN.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
@@ -29,7 +29,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gOH2gGX.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HYBRID
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gOH2gGX.png" group-title="WEB TV",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://i.imgur.com/tWaSjNr.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
