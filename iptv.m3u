@@ -1,37 +1,37 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 1
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="1",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 2
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="2",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 3
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="3",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 4
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="4",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 5
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="5",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 6
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="6",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 7
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="7",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 8
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="8",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 9
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="9",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 10
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="10",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 11
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="11",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 12
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="12",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 13
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="13",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 14
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="14",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 15
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="15",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 16
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR
 https://
-#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR 17
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR
 https://
 #EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR
 https://
