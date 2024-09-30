@@ -1,2 +1,3 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",error
+#EXTINF:-1  tvg-name="ERROR" tvg-logo="ERROR" group-title="ERROR",ERROR
+https://
