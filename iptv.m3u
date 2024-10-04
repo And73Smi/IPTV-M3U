@@ -16,7 +16,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/9f5SlKC.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/y5tPwmN.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
-https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
+http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΣ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
@@ -40,7 +40,7 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://i.imgur.com/wRKeaaW.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ΜΑΚΕΔΟΝΙΑ TV HD
-https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
+http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://i.imgur.com/JvkJ4Cr.png" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
