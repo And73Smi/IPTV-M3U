@@ -69,7 +69,7 @@ https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1  tvg-name="netv" tvg-logo="https://i.imgur.com/aDT7kwl.png" group-title="WEB TV",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
-#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/sJKVdj6.png" group-title="CINEMA",EXTACY TV
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/2EeqrmG.png" group-title="CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/j6RWKVQ.png" group-title="CINEMA",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
