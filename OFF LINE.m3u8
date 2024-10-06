@@ -81,6 +81,8 @@ https://
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://i.imgur.com/0hfoxmu.png" group-title="ΑΤΤΙΚΗ",EPSILON TV
 https://
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/gG5yH8A.png" group-title="ΑΤΤΙΚΗ",EXTRA TV
+https://
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/EKLp1yy.png" group-title="ΜΟΥΣΙΚΗ",EUROVISION CHANNEL
 https://
 #EXTINF:-1  tvg-name="Extreme Sports" tvg-logo="https://i.imgur.com/R7QCujV.png" group-title="ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
@@ -123,6 +125,8 @@ https://
 https://
 #EXTINF:-1  tvg-name="RT" tvg-logo="https://i.imgur.com/YvckXYy.png" group-title="ΔΙΕΘΝΗ",Russia Today News
 https://
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/gOH2gGX.png" group-title="WEB TV",SKAI HYBRID
+https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://i.imgur.com/AVHD21i.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
 https://
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/az86xEK.png" group-title="ΜΟΥΣΙΚΗ",XALASTRA TV
