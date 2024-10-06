@@ -11,6 +11,12 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2662
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/y5tPwmN.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1  tvg-name="astratv" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="ΘΕΣΣΑΛΙΑ",ASTRA TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV.m3u8
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/hsK68yd.png" group-title="CINEMA",ΔΙΑΒΑΤΑ TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/diabatatv.m3u8
+#EXTINF:-1  tvg-name="iview" tvg-logo="https://i.imgur.com/A0CSyoq.png" group-title="WEB TV",IVIEW TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/iviewtvgr.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://i.imgur.com/wRKeaaW.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ΜΑΚΕΔΟΝΙΑ TV HD
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/sJKVdj6.png" group-title="CINEMA",EXTACY TV
@@ -57,6 +63,8 @@ https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 https://ssh101-fl.bozztv.com/ssh101/greek/playlist.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA
 https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
+https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/OfpmvL7.png" group-title="WEB TV",10 CHANNEL
 https://
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/2sBTnIn.png" group-title="ΜΟΥΣΙΚΗ",AKTINA TV
@@ -101,8 +109,6 @@ https://
 https://
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/Y0AhJTU.png" group-title="ΜΟΥΣΙΚΗ",MGR TV TRAVEL
 https://
-#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
-https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/FA6JxYJ.png" group-title="ΑΘΛΗΤΙΚΑ",MOUNTAIN BIKE TV
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/NkRVi1T.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",NEXT TV
