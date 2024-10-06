@@ -3,10 +3,6 @@
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/9f5SlKC.png" group-title="WEB TV",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/9f5SlKC.png" group-title="WEB TV",MEGA HD
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/13
-#EXTINF:-1  tvg-name="star" tvg-logo="https://i.imgur.com/dDVPwjc.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2662
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/y5tPwmN.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/y5tPwmN.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
@@ -36,6 +32,8 @@ http://ertflix.s.llnwi.net/ertlive/ERTNews3/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1 (test)
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euronews_Greece.m3u8
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://www.youtube.com/c/euronewsGreek/live
@@ -51,8 +49,12 @@ http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/dCvbRuo.png" group-title="ΜΟΥΣΙΚΗ",SUPER STAR FM
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/superstarfm.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/7TfeSWZ.png" group-title="WEB TV",ON TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/On_Tv_Greece.m3u8
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/hHbfSpy.png" group-title="ΜΟΥΣΙΚΗ",KLIK TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/tvctklive.m3u8
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/1GvBqe9.png" group-title="ΠΑΙΔΙΚΑ",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="CINEMA",Paramount Movies
@@ -63,10 +65,12 @@ https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 https://ssh101-fl.bozztv.com/ssh101/greek/playlist.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA
 https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
-#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
-https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/gG5yH8A.png" group-title="ΚΥΠΡΙΑΚΑ",EXTRA TV CYPRUS
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/OfpmvL7.png" group-title="WEB TV",10 CHANNEL
 https://
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
+https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/2sBTnIn.png" group-title="ΜΟΥΣΙΚΗ",AKTINA TV
 https://  
 #EXTINF:-1  tvg-name="alphacy" tvg-logo="https://i.imgur.com/No45vwk.png" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CYPRUS
@@ -79,7 +83,7 @@ https://
 https://
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="WEB TV",BEST HYBRID 2 HD
 https://
-#EXTINF:-1  tvg-name="capitaltv" tvg-logo="https://i.imgur.com/h51mzUD.png" group-title="ΠΑΓΚΥΠΡΙΑ",CAPITAL TV CYPRUS
+#EXTINF:-1  tvg-name="capitaltv" tvg-logo="https://i.imgur.com/h51mzUD.png" group-title="ΚΥΠΡΙΑΚΑ",CAPITAL TV CYPRUS
 https://
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/6Yr0Axp.png" group-title="ΜΟΥΣΙΚΗ",CHOICE
 https://
@@ -117,7 +121,7 @@ https://
 https://
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://i.imgur.com/LaOsqxt.jpg" group-title="ΚΡΗΤΗ",NOTOS TV
 https://
-#EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/O1khvkT.png" group-title="ΠΑΓΚΥΠΡΙΑ",ONE CYPRUS
+#EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/O1khvkT.png" group-title="ΚΥΠΡΙΑΚΑ",ONE CYPRUS
 https://
 #EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
@@ -125,9 +129,9 @@ https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 https://
 #EXTINF:-1  tvg-name="plustv" tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV",PLUS CYPRUS
 https://
-#EXTINF:-1  tvg-name="rik1" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK 1 CYPRUS
+#EXTINF:-1  tvg-name="rik1" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
 https://
-#EXTINF:-1  tvg-name="rik2" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK 2 CYPRUS
+#EXTINF:-1  tvg-name="rik2" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="ΚΥΠΡΙΑΚΑ",RIK 2 CYPRUS
 https://
 #EXTINF:-1  tvg-name="RT" tvg-logo="https://i.imgur.com/YvckXYy.png" group-title="ΔΙΕΘΝΗ",Russia Today News
 https://
