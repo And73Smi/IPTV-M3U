@@ -191,13 +191,15 @@ https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1  tvg-name="hightv" tvg-logo="https://i.imgur.com/8gHuwt7.png" group-title="ΑΤΤΙΚΗ",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/eOLivHv.png" group-title="WEB TV",Η ΞΥΛΑΓΑΝΗ
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/xylagany_paradosi.m3u8
+#EXTINF:-1  tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/rk3UJy7.png" group-title="ΘΕΣΣΑΛΙΑ",ΘΕΣΣΑΛΙΑ TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/thessaliatv.m3u8
+#EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΘΡΑΚΗ NET HD
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="iridatv" tvg-logo="https://i.imgur.com/f2X0H7z.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",IRIDA TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/cDqU9xs.png" group-title="WEB TV",IME TV
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
-#EXTINF:-1  tvg-name="iview" tvg-logo="https://i.imgur.com/A0CSyoq.png" group-title="WEB TV",IVIEW TV GREECE
+#EXTINF:-1  tvg-name="iview" tvg-logo="https://i.imgur.com/A0CSyoq.png" group-title="WEB TV",IVIEW TV
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://i.imgur.com/rNwWVUH.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvkosmosgr.m3u8
@@ -215,16 +217,18 @@ https://til.pp.ua:3262/live/nstv7live.m3u8
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/AdLb5f1.png" group-title="WEB TV",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/eOLivHv.png" group-title="WEB TV",ΞΥΛΑΓΑΝΗ
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/xylagany_paradosi.m3u8
 #EXTINF:-1  tvg-name="???Δεν έχει???" tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV HD
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://i.imgur.com/vMohImJ.png" group-title="WEB TV",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
-#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="ΔΙΕΘΝΗ",RIK SAT ΚΥΠΡΟΣ
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://i.imgur.com/DwxR9ra.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΡΟΔΟΠΗ TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/TVRodopi.m3u8
+#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="ΔΙΕΘΝΗ",RIK SAT ΚΥΠΡΟΣ
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://i.imgur.com/4pWkq4c.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
 https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="risetv" tvg-logo="https://i.imgur.com/JVXhF13.png" group-title="ΑΤΤΙΚΗ",RISE TV
@@ -241,10 +245,6 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://i.imgur.com/zGz11BY.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1  tvg-name="thessaliatv" tvg-logo="https://i.imgur.com/rk3UJy7.png" group-title="ΘΕΣΣΑΛΙΑ",ΘΕΣΣΑΛΙΑ TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/thessaliatv.m3u8
-#EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΘΡΑΚΗ NET HD
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Top_Channel_Greece.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://i.imgur.com/GBtVLoT.png" group-title="ΘΕΣΣΑΛΙΑ",TRT TV
