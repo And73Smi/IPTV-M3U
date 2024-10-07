@@ -103,6 +103,8 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/L1c5TWL.png" group-title="ΚΡΗΤΗ",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/az86xEK.png" group-title="WEB TV",XALASTRA TV
+https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://i.imgur.com/7oMeNXi.png" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV (μετά τίς 17 00 )
