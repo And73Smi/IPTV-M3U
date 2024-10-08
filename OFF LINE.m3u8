@@ -128,7 +128,7 @@ http://213.7.193.54:4000/play/a008/index.m3u8
 #EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/KhEjZ4R.png" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PEMPTOUSIA TV
-https://
+stream.workers.dev/stream/UCYjyS5OIpeVoOoXRxpzaKDg/live.m3u8
 #EXTINF:-1  tvg-name="plustv" tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV",PLUS CYPRUS
 http://94.130.21.210:8888/PLUSTV/manifest.m3u8
 #EXTINF:-1  tvg-name="rik1" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
