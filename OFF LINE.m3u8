@@ -9,6 +9,8 @@ https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="ΘΕΣΣΑΛΙΑ",ASTRA TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV.m3u8
+#EXTINF:-1  tvg-name="astratv" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="ΘΕΣΣΑΛΙΑ",ASTRA TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV_bup.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/hsK68yd.png" group-title="CINEMA",ΔΙΑΒΑΤΑ TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/diabatatv.m3u8
 #EXTINF:-1  tvg-name="iview" tvg-logo="https://i.imgur.com/A0CSyoq.png" group-title="WEB TV",IVIEW TV
