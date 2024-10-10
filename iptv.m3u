@@ -47,16 +47,10 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://i.imgur.com/wRKeaaW.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ΜΑΚΕΔΟΝΙΑ TV HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
-http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1  tvg-name="patratv" tvg-logo="https://i.imgur.com/WRlTNOh.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
-https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
-#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/ZcLIEeG.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
-https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/4aKJREC.png" group-title="ΕΙΔΗΣΕΙΣ",ΝΑΥΤΕΜΠΟΡΙΚΗ HD
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
+https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/sH35tww.png" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA",GROOVY
@@ -121,6 +115,8 @@ https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/crbFs17.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΒΕΡΓΙΝΑ TV GR
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="ΚΥΠΡΙΑΚΑ",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΣ
@@ -205,6 +201,8 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvkosmosgr.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://i.imgur.com/Dw1iXBn.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Kardamena_TV.m3u8
+#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/ZcLIEeG.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
 #EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/E6dMSBY.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://i.imgur.com/15KX94Y.png" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
@@ -219,6 +217,8 @@ https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/eOLivHv.png" group-title="WEB TV",ΞΥΛΑΓΑΝΗ
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/xylagany_paradosi.m3u8
+#EXTINF:-1  tvg-name="patratv" tvg-logo="https://i.imgur.com/WRlTNOh.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
+https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/BcYaW10.png" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV HD
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",PELLA TV
