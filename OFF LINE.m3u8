@@ -34,13 +34,9 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euronews_Greece.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/RB2Hv5E.png" group-title="WEB TV",HELLENIC TV
 http://188.227.164.31/tsstreamer/Hellenic_SD.ts
-#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
-https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/sH35tww.png" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/ProNews.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL HD
@@ -59,8 +55,6 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/tvc
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="CINEMA",Paramount Movies
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gczyswt.png" group-title="WEB TV",ΟLYMPOS TV
-https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/bBe1rZf.png" group-title="WEB TV",GREEK VOICE
 https://ssh101-fl.bozztv.com/ssh101/greek/playlist.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA
@@ -69,6 +63,8 @@ https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/OfpmvL7.png" group-title="WEB TV",10 CHANNEL
 https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gczyswt.png" group-title="WEB TV",ΟLYMPOS TV
+https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
 https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/2sBTnIn.png" group-title="ΜΟΥΣΙΚΗ",AKTINA TV
@@ -133,6 +129,8 @@ http://94.130.21.210:8888/RIK1/manifest.m3u8
 http://94.130.21.210:8888/RIK2/manifest.m3u8
 #EXTINF:-1  tvg-name="RT" tvg-logo="https://i.imgur.com/YvckXYy.png" group-title="ΔΙΕΘΝΗ",Russia Today News
 https://
+#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gOH2gGX.png" group-title="WEB TV",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://i.imgur.com/AVHD21i.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
