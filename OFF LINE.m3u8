@@ -31,10 +31,6 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 http://ertflix.s.llnwi.net/ertlive/ERTNews3/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1 (test)
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euronews_Greece.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/RB2Hv5E.png" group-title="WEB TV",HELLENIC TV
 http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/sH35tww.png" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
@@ -43,8 +39,6 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Pro
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1  tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
-https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/dCvbRuo.png" group-title="ΜΟΥΣΙΚΗ",SUPER STAR FM
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/superstarfm.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/7TfeSWZ.png" group-title="WEB TV",ON TV
@@ -62,7 +56,15 @@ https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gG5yH8A.png" group-title="ΚΥΠΡΙΑΚΑ",EXTRA TV CYPRUS
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/OfpmvL7.png" group-title="WEB TV",10 CHANNEL
-https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
+https://castor.streamthatvideo.co:8081/10channel/index.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/hRXsFv2.png" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/zeystv.m3u8
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euronews_Greece.m3u8
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
+https://www.youtube.com/c/euronewsGreek/live
+#EXTINF:-1  tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
+https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gczyswt.png" group-title="WEB TV",ΟLYMPOS TV
 https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/GblLpUA.png" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
@@ -119,8 +121,6 @@ https://
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/O1khvkT.png" group-title="ΚΥΠΡΙΑΚΑ",ONE CYPRUS
 http://213.7.193.54:4000/play/a008/index.m3u8
-#EXTINF:-1  tvg-name="opt" tvg-logo="https://i.imgur.com/RotckUS.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
-https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="plustv" tvg-logo="https://i.imgur.com/PmoBcSZ.png" group-title="WEB TV",PLUS CYPRUS
 http://94.130.21.210:8888/PLUSTV/manifest.m3u8
 #EXTINF:-1  tvg-name="rik1" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
