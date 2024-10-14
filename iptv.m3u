@@ -145,7 +145,7 @@ https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
 https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:-1  tvg-name="etv" tvg-logo="https://i.imgur.com/o3lXFM1.png" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",E TV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
-#EXTINF:-1  tvg-name="europeone" tvg-logo="https://i.imgur.com/jztKpqo.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
+#EXTINF:-1  tvg-name="europeone" tvg-logo="https://i.imgur.com/p9cHzNI.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
 https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
 #EXTINF:-1  tvg-name="eurotv" tvg-logo="https://i.imgur.com/2EKLFWw.png" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EURO TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/EuroTV.m3u8
