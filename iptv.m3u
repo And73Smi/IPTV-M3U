@@ -329,6 +329,8 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
 #EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/1pJNg5i.png" group-title="ΠΑΙΔΙΚΑ",ERT KIDS
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/B3zuM3P.png" group-title="ΠΑΙΔΙΚΑ",GOGO PLAY TV
+https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/4oQGwly.png" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ywkJvnT.png" group-title="ΠΑΙΔΙΚΑ",MONDO TV KIDS
