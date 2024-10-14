@@ -53,8 +53,6 @@ https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/vvVZUyq.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1  tvg-name="patratv" tvg-logo="https://i.imgur.com/WRlTNOh.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
-https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/ZcLIEeG.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA",GROOVY

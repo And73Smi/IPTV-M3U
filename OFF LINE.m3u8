@@ -35,6 +35,8 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://i.imgur.com/sH35tww.png" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/ProNews.m3u8
+#EXTINF:-1  tvg-name="patratv" tvg-logo="https://i.imgur.com/WRlTNOh.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
+https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL HD
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
