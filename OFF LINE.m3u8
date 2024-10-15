@@ -58,11 +58,11 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/ext
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/OfpmvL7.png" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/hRXsFv2.png" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/zeystv.m3u8
+https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euronews_Greece.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/qSr4hii.png" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://www.youtube.com/c/euronewsGreek/live
+http://195.226.218.163/vid/euronewsgr/mpeg.2ts
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://i.imgur.com/KzMe2CX.jpg" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/gczyswt.png" group-title="WEB TV",ΟLYMPOS TV
