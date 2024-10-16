@@ -258,7 +258,7 @@ https://til.pp.ua:3613/live/volcanotvslive.m3u8
 #EXTINF:-1  tvg-name="Xplore" tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="WEB TV",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/az86xEK.png" group-title="WEB TV",XALASTRA TV
-https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
+https://samson.streamerr.co:8081/xtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/qB59ETL.png" group-title="WEB TV",ΖΟΥΓΚΛΑ TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/hRXsFv2.png" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
@@ -297,8 +297,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1  tvg-name="ertsport2" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://i.imgur.com/HbXg3li.png" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
-https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/h73oxu4.png" group-title="ΑΘΛΗΤΙΚΑ",FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ORGdGXZ.png" group-title="ΑΘΛΗΤΙΚΑ",HORSE RACES
