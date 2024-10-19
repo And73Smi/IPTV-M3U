@@ -5,7 +5,7 @@ https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1  tvg-name="ert3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
-#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://i.imgur.com/UlvUCFR.png" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
+#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/LOGO/ert-news.png" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://i.imgur.com/3S8niux.png" group-title="ΔΙΕΘΝΗ",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
