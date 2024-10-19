@@ -207,7 +207,7 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvkosmosgr.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://i.imgur.com/Dw1iXBn.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Kardamena_TV.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/mvaDynE.png" group-title="WEB TV",KONITSA TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/mvaDynE.png" group-title="ΔΥΤ. ΕΛΛΑΔΑ",KONITSA TV
 https://ssh101-fl.bozztv.com/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/l4bL63u.png" group-title="WEB TV",MEGA  HYBRID
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
