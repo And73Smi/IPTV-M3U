@@ -207,6 +207,8 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvkosmosgr.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://i.imgur.com/Dw1iXBn.png" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Kardamena_TV.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/mvaDynE.png" group-title="WEB TV",KONITSA TV
+https://ssh101-fl.bozztv.com/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/l4bL63u.png" group-title="WEB TV",MEGA  HYBRID
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/E6dMSBY.png" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
@@ -316,7 +318,7 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/yPmguC4.png" group-title="ΠΑΙΔΙΚΑ",BARBIE
 https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/HpQX8cT.png" group-title="ΠΑΙΔΙΚΑ",BIG CHANNEL
-https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/8vupi3M.png" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/uChePn5.png" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV 2
@@ -332,7 +334,7 @@ https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/1pJNg5i.png" group-title="ΠΑΙΔΙΚΑ",ERT KIDS
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/B3zuM3P.png" group-title="ΠΑΙΔΙΚΑ",GOGO PLAY TV
-https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/4oQGwly.png" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ywkJvnT.png" group-title="ΠΑΙΔΙΚΑ",MONDO TV KIDS
@@ -350,7 +352,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ZH8YFQq.png" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/rsGjXCB.png" group-title="ΠΑΙΔΙΚΑ",TOONS TV
-https://ssh101-fl.bozztv.com/ssh101/tvtoons/tracks-v1a1/mono.m3u8
+https://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/N7HQjcr.png" group-title="ΠΑΙΔΙΚΑ",WATCH KIDS TV
 https://pocketwatch-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/cpGzMD3.png" group-title="ΠΑΙΔΙΚΑ",ZOO MOO KIDS
