@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Star_Kentrikis
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETE_TV.png?raw=true" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONTRA_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ",ΚΟΝΤΡΑ HD
+#EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONTRA.png?raw=true" group-title="ΑΤΤΙΚΗ",ΚΟΝΤΡΑ HD
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1  tvg-name="bluesky" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLUE_SKY.png?raw=true" group-title="ΑΤΤΙΚΗ",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
