@@ -1,45 +1,45 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
-#EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
+#EXTINF:-1  tvg-name="ert1" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
-#EXTINF:-1  tvg-name="ert2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
+#EXTINF:-1  tvg-name="ert2" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/playlist.m3u8
-#EXTINF:-1  tvg-name="ert3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
+#EXTINF:-1  tvg-name="ert3" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
-#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
+#EXTINF:-1  tvg-name="ertnews" tvg-logo="" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
-#EXTINF:-1  tvg-name="ertworld" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true" group-title="ΔΙΕΘΝΗ",ERT WORLD
+#EXTINF:-1  tvg-name="ertworld" tvg-logo="" group-title="ΔΙΕΘΝΗ",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
-#EXTINF:-1  tvg-name="star" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/Star.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
+#EXTINF:-1  tvg-name="star" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/Star.png?raw=true" group-title="ΔΙΕΘΝΗ",STAR INTERNATIONAL HD
+#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="ΔΙΕΘΝΗ",STAR INTERNATIONAL HD
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
+#EXTINF:-1  tvg-name="mega" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
+#EXTINF:-1  tvg-name="ant1" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΣ
+#EXTINF:-1  tvg-name="ant1cy" tvg-logo="" group-title="ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΣ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
+#EXTINF:-1  tvg-name="alpha" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="skai" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
+#EXTINF:-1  tvg-name="skai" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT HD
+#EXTINF:-1  tvg-name="open" tvg-logo="" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/One_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ",ONE CHANNEL HD
+#EXTINF:-1  tvg-name="onetv" tvg-logo="" group-title="ΑΤΤΙΚΗ",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
-#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
+#EXTINF:-1  tvg-name="action24" tvg-logo="" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ",ATTICA TV HD
+#EXTINF:-1  tvg-name="atticatv" tvg-logo="" group-title="ΑΤΤΙΚΗ",ATTICA TV HD
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 SKG
+#EXTINF:-1  tvg-name="tv100" tvg-logo="" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 SKG
 https://live.fm100.gr/hls/tv100/index.m3u8
-#EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR%20K%20E.png?raw=true" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ HD
+#EXTINF:-1  tvg-name="starke" tvg-logo="" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
-#EXTINF:-1  tvg-name="ionian" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL HD
+#EXTINF:-1  tvg-name="ionian" tvg-logo="" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL HD
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETE_TV.png?raw=true" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ TV
+#EXTINF:-1  tvg-name="krhthtv" tvg-logo="" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KontraChannel.png?raw=true" group-title="ΑΤΤΙΚΗ",ΚΟΝΤΡΑ HD
+#EXTINF:-1  tvg-name="kontra" tvg-logo="" group-title="ΑΤΤΙΚΗ",ΚΟΝΤΡΑ HD
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1  tvg-name="bluesky" tvg-logo="https://i.imgur.com/LcyU2ra.png" group-title="ΑΤΤΙΚΗ",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
