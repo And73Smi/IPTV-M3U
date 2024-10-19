@@ -27,7 +27,7 @@ https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/O1khvkT.png" group-title="ΑΤΤΙΚΗ",ONE CHANNEL HD
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
-#EXTINF:-1  tvg-name="action24" tvg-logo="https://i.imgur.com/NNctRi8.png" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
+#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/LOGO/ACTION_24.png" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://i.imgur.com/v86eIY5.png" group-title="ΑΤΤΙΚΗ",ATTICA TV HD
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
