@@ -1,9 +1,9 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
-#EXTINF:-1  tvg-name="ert1" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
+#EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/LOGO/ERT_1.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
-#EXTINF:-1  tvg-name="ert2" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
+#EXTINF:-1  tvg-name="ert2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/LOGO/ERT_2.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/playlist.m3u8
-#EXTINF:-1  tvg-name="ert3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
+#EXTINF:-1  tvg-name="ert3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/LOGO/ERT_3.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/LOGO/ERT_NEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS HD
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
