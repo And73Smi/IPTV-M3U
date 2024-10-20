@@ -37,7 +37,7 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 #EXTINF:-1  tvg-name="ionian" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL HD
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETE_TV.png?raw=true" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ TV
+#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONTRA_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ",ΚΟΝΤΡΑ HD
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
@@ -95,7 +95,7 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TELE_KRHTH.png?raw=true" group-title="ΚΡΗΤΗ",tele KRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA.png?raw=true" group-title="ΚΡΗΤΗ",CRETA
+#EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA_TV.png?raw=true" group-title="ΚΡΗΤΗ",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
