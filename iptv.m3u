@@ -323,7 +323,7 @@ https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/uChePn5.png" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV 2
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Fmqx7YH.png" group-title="ΠΑΙΔΙΚΑ",BOOBA TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOOBA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/l5GIgc6.png" group-title="ΠΑΙΔΙΚΑ",CARTOON NETWORK
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
@@ -339,7 +339,7 @@ https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ywkJvnT.png" group-title="ΠΑΙΔΙΚΑ",MONDO TV KIDS
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Qc7fygu.png" group-title="ΠΑΙΔΙΚΑ",ODDBODS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ODDBODS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/NgzFHpA.png" group-title="ΠΑΙΔΙΚΑ",PBS KIDS
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
@@ -351,7 +351,7 @@ https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ZH8YFQq.png" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/rsGjXCB.png" group-title="ΠΑΙΔΙΚΑ",TOONS TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOONS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TOONS TV
 https://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/N7HQjcr.png" group-title="ΠΑΙΔΙΚΑ",WATCH KIDS TV
 https://pocketwatch-redbox.amagi.tv/playlist.m3u8
@@ -379,7 +379,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/1noAaQC.png" group-title="ΜΟΥΣΙΚΗ",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1  tvg-name="ertmusic" tvg-logo="https://i.imgur.com/Xmal51l.png" group-title="ΜΟΥΣΙΚΗ",ERT MUSIC TV
+#EXTINF:-1  tvg-name="ertmusic" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_MUSIC.png?raw=true" group-title="ΜΟΥΣΙΚΗ",ERT MUSIC TV
 https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/cKq5DsI.png" group-title="ΜΟΥΣΙΚΗ",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
@@ -439,7 +439,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1  tvg-name="BBC News" tvg-logo="https://i.imgur.com/neknkh8.png" group-title="ΔΙΕΘΝΗ",BBC WORLD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1  tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/k7tsBgq.png" group-title="ΔΙΕΘΝΗ",BLOOMBERG
+#EXTINF:-1  tvg-name="Bloomberg" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLOOMBERG.png?raw=true" group-title="ΔΙΕΘΝΗ",BLOOMBERG
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1  tvg-name="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="ΔΙΕΘΝΗ",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -459,11 +459,11 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://i.imgur.com/27fIher.png" group-title="ΔΙΕΘΝΗ",1+1
 https://live-k2302-kbp.1plus1.video/live/1729220640/UbUapjqeq82WqYoWm1VJxw/184723/smil:184723.smil/chunklist_b2128000.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV UHD
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 1
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 2
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 2
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Lm4UuRo.png" group-title="LIFESTYLE",FASHION TV 3
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 3
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
