@@ -249,7 +249,7 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/tvstarfm.m3u8
 #EXTINF:-1  tvg-name="syrostv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SYROS_TV_1.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1  tvg-name="stevt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STENT.png?raw=true" group-title="WEB TV",STENT TV
+#EXTINF:-1  tvg-name="stevt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STENT_TV.png?raw=true" group-title="WEB TV",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
