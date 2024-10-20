@@ -305,7 +305,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/jRKdbZu.png" group-title="ΑΘΛΗΤΙΚΑ",MOTORBIKES & ENGINES
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTO&BIKE.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTORBIKES & ENGINES
 https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ΟΠΑΠ TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
@@ -317,17 +317,17 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARBIE.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BARBIE
 https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/HpQX8cT.png" group-title="ΠΑΙΔΙΚΑ",BIG CHANNEL
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BIG_CHANNEL.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BIG CHANNEL
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/8vupi3M.png" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_SHARK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/uChePn5.png" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV 2
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_SHARK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV 2
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOOBA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
-#EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/l5GIgc6.png" group-title="ΠΑΙΔΙΚΑ",CARTOON NETWORK
+#EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_NETWORK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON NETWORK
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/htiltX0.png" group-title="ΠΑΙΔΙΚΑ",CARTOON TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
 #EXTINF:-1  tvg-name="ducktv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DUK_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
@@ -335,29 +335,29 @@ https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOGOPLAY.png?raw=true" group-title="ΠΑΙΔΙΚΑ",GOGO PLAY TV
 https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/4oQGwly.png" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOONBUG_KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ywkJvnT.png" group-title="ΠΑΙΔΙΚΑ",MONDO TV KIDS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONDO_KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",MONDO TV KIDS
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ODDBODS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ODDBODS
 https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/NgzFHpA.png" group-title="ΠΑΙΔΙΚΑ",PBS KIDS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PBS_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",PBS KIDS
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/GunurVk.png" group-title="ΠΑΙΔΙΚΑ",RETRO CARTOON
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RETRO_CARTOON.png?raw=true" group-title="ΠΑΙΔΙΚΑ",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Rbq9VVq.png" group-title="ΠΑΙΔΙΚΑ",RETRO CRUSH
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RETRO_CRUSH.png?raw=true" group-title="ΠΑΙΔΙΚΑ",RETRO CRUSH
 https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/Cjftwxs.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CYPRUS
+#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",SMILE TV CYPRUS
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ZH8YFQq.png" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TALKING_TOM.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOONS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TOONS TV
 https://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/N7HQjcr.png" group-title="ΠΑΙΔΙΚΑ", KIDS TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 https://pocketwatch-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/cpGzMD3.png" group-title="ΠΑΙΔΙΚΑ",ZOO MOO KIDS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOO MOO KIDS
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/lt5YkQg.png" group-title="ΠΑΙΔΙΚΑ",ZOUZOUNIA
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOUZOUNIA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ZFvHcxi.png" group-title="ΜΟΥΣΙΚΗ",BLACKMAN RADIO
 https://til.pp.ua:3653/live/blackmanlive.m3u8
