@@ -93,7 +93,7 @@ http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1  tvg-name="krititv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRITI_1.png?raw=true" group-title="ΚΡΗΤΗ",ΚΡΗΤΗ 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
-#EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://imgur.com/7duYXGc.png" group-title="ΚΡΗΤΗ",tele KRHTH
+#EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TELE_KRHTH.png?raw=true" group-title="ΚΡΗΤΗ",tele KRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1  tvg-name="creta" tvg-logo="https://i.imgur.com/d8WNVnf.png" group-title="ΚΡΗΤΗ",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
