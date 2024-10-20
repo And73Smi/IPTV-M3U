@@ -353,7 +353,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOONS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TOONS TV
 https://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/N7HQjcr.png" group-title="ΠΑΙΔΙΚΑ",WATCH KIDS TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/N7HQjcr.png" group-title="ΠΑΙΔΙΚΑ", KIDS TV
 https://pocketwatch-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/cpGzMD3.png" group-title="ΠΑΙΔΙΚΑ",ZOO MOO KIDS
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
