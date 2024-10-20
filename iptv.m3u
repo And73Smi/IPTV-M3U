@@ -87,7 +87,7 @@ https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="CINEMA",XALASTRA TV
 https://samson.streamerr.co:8081/xtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VILAGE_WORLD.png?raw=true" group-title="CINEMA",VILLAGE WORLD
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VILAGE_WORLD%20.png?raw=true" group-title="CINEMA",VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://imgur.com/PDu9d5f.png" group-title="CINEMA",ELLAS WORLD
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
