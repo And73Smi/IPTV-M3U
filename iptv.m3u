@@ -359,45 +359,45 @@ https://pocketwatch-redbox.amagi.tv/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOUZOUNIA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/ZFvHcxi.png" group-title="ΜΟΥΣΙΚΗ",BLACKMAN RADIO
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLACK_MAN_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BLACKMAN RADIO
 https://til.pp.ua:3653/live/blackmanlive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/eONw4hu.png" group-title="ΜΟΥΣΙΚΗ",BARAZA GREEK HITS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GREEK HITS
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/eONw4hu.png" group-title="ΜΟΥΣΙΚΗ",BARAZA GREEK SUMMER
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GREEK SUMMER
 https://glb.bozztv.com/glb/ssh101/music/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/eONw4hu.png" group-title="ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/eONw4hu.png" group-title="ΜΟΥΣΙΚΗ",BARAZA RELAXING
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/eONw4hu.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV DJ MUSIC
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA TV DJ MUSIC
 https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/4CpwZne.png" group-title="ΜΟΥΣΙΚΗ",CLASSIC ARTS SHOWCASE
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CLASSIC_ARTS_SHOWCASE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CLASSIC ARTS SHOWCASE
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/RJzorVx.png" group-title="ΜΟΥΣΙΚΗ",CLUBBING TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CLUBBING_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/raxXELm.jpg" group-title="ΜΟΥΣΙΚΗ",DEEJAY TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DEEJAY_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/1noAaQC.png" group-title="ΜΟΥΣΙΚΗ",DANCE TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DANCE_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1  tvg-name="ertmusic" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_MUSIC.png?raw=true" group-title="ΜΟΥΣΙΚΗ",ERT MUSIC TV
 https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/cKq5DsI.png" group-title="ΜΟΥΣΙΚΗ",ELLINIKOS FM
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLINIKOS_FM.png?raw=true" group-title="ΜΟΥΣΙΚΗ",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/8eGsUkO.png" group-title="ΜΟΥΣΙΚΗ",FOX GREECE
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FOX_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",FOX RADIO GREECE
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.jpeg?raw=true" group-title="ΜΟΥΣΙΚΗ",GREEK TV LONDON RADIO
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/Z4mna52.png" group-title="ΜΟΥΣΙΚΗ",GOHTEIA RADIO
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOHTEIA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",GOHTEIA RADIO
 https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/VdTQ6sJ.png" group-title="ΜΟΥΣΙΚΗ",HOTBEATS TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HOTBEATS_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",HOTBEATS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/hotbeatstv.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/WPHWJ1h.png" group-title="ΜΟΥΣΙΚΗ",KISS TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KISS_HD.png?raw=true" group-title="ΜΟΥΣΙΚΗ",KISS TV
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/hHbfSpy.png" group-title="ΜΟΥΣΙΚΗ",KLIK TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KLIK_FM.png?raw=true" group-title="ΜΟΥΣΙΚΗ",KLIK TV
 https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/4C63733.png" group-title="ΜΟΥΣΙΚΗ",MAGIC TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAGIC_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/u0aj3wn.png" group-title="ΜΟΥΣΙΚΗ",ΜΕΣΣΗΝΙΑ WEB TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MESSINIA_WEB_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",ΜΕΣΣΗΝΙΑ WEB TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/E3mV6Nk.png" group-title="ΜΟΥΣΙΚΗ",MAD WORLD
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
