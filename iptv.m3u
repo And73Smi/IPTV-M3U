@@ -99,9 +99,9 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-#EXTINF:-1  tvg-name="netv" tvg-logo="https://i.imgur.com/Fyne7iz.png" group-title="WEB TV",NETV EUROPE HD
+#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_EUROPE.png?raw=true" group-title="WEB TV",NETV EUROPE HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1  tvg-name="netv" tvg-logo="https://i.imgur.com/aDT7kwl.png" group-title="WEB TV",NETV TORONTO HD
+#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_TORONTO.png?raw=true" group-title="WEB TV",NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
@@ -129,9 +129,9 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/verginatv_cypr
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/centertv.m3u8
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1  tvg-name="CYPRUS LIVE" tvg-logo="https://i.imgur.com/VKEK01z.png" group-title="ΚΥΠΡΙΑΚΑ",CYPRUS LIVE
+#EXTINF:-1  tvg-name="CYPRUS LIVE" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CYPRUS_LIVE.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CYPRUS LIVE
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
-#EXTINF:-1  tvg-name="citychannel" tvg-logo="https://i.imgur.com/QBNSKr9.png" group-title="ΚΥΠΡΙΑΚΑ",CITY CHANNEL HD
+#EXTINF:-1  tvg-name="citychannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CITY_CHANNEL.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CITY CHANNEL HD
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="deltatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΔΕΛΤΑ TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
@@ -141,7 +141,7 @@ https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/DionTvKentrikisMakedonias.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/2fDYvmy.jpg" group-title="WEB TV",DTP
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/DTP.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://i.imgur.com/36MCbHy.png" group-title="WEB TV",DESTINATION TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DESTINATION_GREECE.png?raw=true" group-title="WEB TV",DESTINATION TV
 https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
 #EXTINF:-1  tvg-name="enachannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ENA_channel.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ENA CHANNEL HD
 https://til.pp.ua:3365/live/enachannellive.m3u8
