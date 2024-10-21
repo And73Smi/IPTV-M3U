@@ -449,10 +449,6 @@ https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1  tvg-name="NBC" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NBC_NOW.png?raw=true" group-title="ΔΙΕΘΝΗ",NBC NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASA_TV.png?raw=true" group-title="ΔΙΕΘΝΗ",NASA TV PUBLIC
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASA_TV.png?raw=true" group-title="ΔΙΕΘΝΗ",NASA TV MEDIA
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="ΔΙΕΘΝΗ",TV5 MONDE EUROPE
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/1+1.png?raw=true" group-title="ΔΙΕΘΝΗ",1+1

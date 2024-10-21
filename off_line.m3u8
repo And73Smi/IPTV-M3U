@@ -125,6 +125,10 @@ https://
 https://
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTOS_TV.png?raw=true" group-title="ΚΡΗΤΗ",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASA_TV.png?raw=true" group-title="ΔΙΕΘΝΗ",NASA TV PUBLIC
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASA_TV.png?raw=true" group-title="ΔΙΕΘΝΗ",NASA TV MEDIA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ONE CYPRUS
 http://213.7.193.54:4000/play/a008/index.m3u8
 #EXTINF:-1  tvg-name="plustv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUS_CY.png?raw=true" group-title="WEB TV",PLUS CYPRUS
