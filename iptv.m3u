@@ -13,7 +13,7 @@ https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR.png?raw=true" group-title="ΔΙΕΘΝΗ",STAR INTERNATIONAL HD
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_CHANNEL.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
