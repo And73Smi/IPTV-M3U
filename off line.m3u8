@@ -29,8 +29,6 @@ http://195.226.218.163/vid/euronewsgr/mpeg.2ts
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extacytv.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTRA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",EXTRA TV CYPRUS
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
-#EXTINF:-1  tvg-name="farostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS WEBTV
-https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_VOICE.png?raw=true" group-title="WEB TV",GREEK VOICE

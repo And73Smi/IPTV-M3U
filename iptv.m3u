@@ -163,6 +163,8 @@ https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="farostv2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS LIVE
 https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1  tvg-name="farostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS WEBTV
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="flashtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FLASH_TV.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",FLASH TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/FlashTV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="WEB TV",FILOPOLI TV
