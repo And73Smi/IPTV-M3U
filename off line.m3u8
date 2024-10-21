@@ -59,6 +59,8 @@ https://
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
 #EXTINF:-1  tvg-name="Extreme Sports" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTREME_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
 http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/57132#checkedby:iptvlister.com
+#EXTINF:-1  tvg-name="farostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS WEBTV
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 4
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
@@ -129,6 +131,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/sup
 https://
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL HD
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="CINEMA",XALASTRA TV
+https://samson.streamerr.co:8081/xtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
 https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
