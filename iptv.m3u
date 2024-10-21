@@ -73,7 +73,7 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="CINEMA",ΛΑΜΨΗ TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIABATA.png?raw=true" group-title="CINEMA",ΔΙΑΒΑΤΑ TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIABATA(2).png?raw=true" group-title="CINEMA",ΔΙΑΒΑΤΑ TV
 https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_SKG.png?raw=true" group-title="CINEMA",ΔΕΛΤΑ TV SKG
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
