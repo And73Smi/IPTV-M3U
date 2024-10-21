@@ -103,7 +103,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALITHIA.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV (μετά τίς 17 00 )
+#EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALITHIA.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",ΑΛΗΘΕΙΑ TV (μετά τίς 17:00 )
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/alithiatv.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALERT_TV.png?raw=true" group-title="ΑΤΤΙΚΗ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
@@ -119,7 +119,7 @@ https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
-#EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΒΕΡΓΙΝΑ TV GR
+#EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΒΕΡΓΙΝΑ TV GREECE
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΣ
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/verginatv_cyprus.m3u8
@@ -167,8 +167,6 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/FlashTV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="WEB TV",FILOPOLI TV
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRD_CHANNEL.png?raw=true" group-title="WEB TV",GRD CHANNEL
-https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRECA_TV.png?raw=true" group-title="WEB TV",GRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRECA_TV.png?raw=true" group-title="WEB TV",GRECA TV  2
@@ -343,7 +341,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RETRO_CRUSH.png?raw=true" group-title="ΠΑΙΔΙΚΑ",RETRO CRUSH
 https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",SMILE TV CYPRUS
+#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",SMILE TV
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TALKING_TOM.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCNlAox6aLNlE3M6QP2nzv7w/live.m3u8
@@ -454,7 +452,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="ΔΙΕΘΝΗ",TV5 MONDE EUROPE
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/1+1.png?raw=true" group-title="ΔΙΕΘΝΗ",1+1
-https://live-k2302-kbp.1plus1.video/live/1729220640/UbUapjqeq82WqYoWm1VJxw/184723/smil:184723.smil/chunklist_b2128000.m3u8
+https://live-k2303-kbp.1plus1.video/live/1730088240/su3UGYWRMhrz7lvmOn1e3A/184723/smil:184723.smil/chunklist_b2128000.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 1
