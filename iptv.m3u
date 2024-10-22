@@ -43,18 +43,18 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ΜΑΚΕΔΟΝΙΑ TV HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",ΝΑΥΤΕΜΠΟΡΙΚΗ HD
-https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
-https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
-#EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
-https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV HD
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
 #EXTINF:-1  tvg-name="patratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PATRA_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
 https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
+#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",ΝΑΥΤΕΜΠΟΡΙΚΗ HD
+https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
+https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
+#EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
+https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GROOVY.png?raw=true" group-title="CINEMA",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="CINEMA",CINEMA TIME
