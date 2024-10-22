@@ -1,1 +1,3 @@
-﻿
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
+#EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
+https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
