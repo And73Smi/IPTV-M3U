@@ -47,11 +47,9 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO HD
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/LePanto.m3u8
-#EXTINF:-1  tvg-name="patratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PATRA_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
-https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",ΝΑΥΤΕΜΠΟΡΙΚΗ HD
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS(3).png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS(2).png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS ΕΛΛΗΝΙΚΑ
 https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
 https://pro.free.hr:3887/live/pronewslive.m3u8
@@ -115,8 +113,6 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ΑΧΕΛΩΟΣ TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
-https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΒΕΡΓΙΝΑ TV
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ΒΕΡΓΙΝΑ TV ΚΥΠΡΟΣ

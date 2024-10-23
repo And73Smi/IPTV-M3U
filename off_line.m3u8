@@ -1,6 +1,8 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
+https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
@@ -41,12 +43,6 @@ http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/iviewtvgr.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KLIK_FM.png?raw=true" group-title="ΜΟΥΣΙΚΗ",KLIK TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/tvctklive.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
-https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NRG91.png?raw=true" group-title="ΜΟΥΣΙΚΗ",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA
@@ -77,6 +73,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO TV
 https://
+#EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
+https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="alphacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_CYPRUS.png?raw=true" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CYPRUS
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANIME_STATION.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ANIME STATION
@@ -135,6 +133,8 @@ https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 http://213.7.193.54:4000/play/a008/index.m3u8
 #EXTINF:-1  tvg-name="plustv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUS_CYPRUS.png?raw=true" group-title="WEB TV",PLUS CYPRUS
 http://94.130.21.210:8888/PLUSTV/manifest.m3u8
+#EXTINF:-1  tvg-name="patratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PATRA_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
+https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="rik1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_1.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
 http://94.130.21.210:8888/RIK1/manifest.m3u8
 #EXTINF:-1  tvg-name="rik2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_2.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",RIK 2 CYPRUS
