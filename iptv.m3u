@@ -285,6 +285,8 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1  tvg-name="ertsport2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_2.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1  tvg-name="Extreme Sports" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTREME_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
+https://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIGHT_NETWORK.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",HORSE RACES
