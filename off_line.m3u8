@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Eur
 http://195.226.218.163/vid/euronewsgr/mpeg.2ts
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extacytv.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTRA_channel.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",EXTRA TV CYPRUS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTRA_channel(2).png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",EXTRA TV CYPRUS
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
