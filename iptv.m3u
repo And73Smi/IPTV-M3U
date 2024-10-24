@@ -299,7 +299,7 @@ https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED_BUL_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED_BUL_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED_BUL_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV 2
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TENNIS_CHANNEL.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
