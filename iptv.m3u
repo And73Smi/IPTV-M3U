@@ -367,6 +367,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DEEJAY_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELUXE_MUSIC.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DANCE_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1  tvg-name="ertmusic" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_MUSIC.png?raw=true" group-title="ΜΟΥΣΙΚΗ",ERT MUSIC TV

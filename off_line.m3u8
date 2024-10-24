@@ -1,7 +1,5 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
-https://glb.bozztv.com/glb/ssh101/mgrchlea/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
@@ -29,6 +27,46 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 https://eu5cdn.overotm.com/abr_amd10/ert1/playlist.m3u8
+#EXTINF:-1  tvg-name="tileepiloges" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPILOGES_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΕΠΙΛΟΓΕΣ TV
+http://cdn5.smart-tv-data.com/local/epiloges/playlist.m3u8
+#EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAKI_NET.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΘΡΑΚΗ NET HD
+http://cdn5.smart-tv-data.com/local/thrakinettv/playlist.m3u8
+#EXTINF:-1  tvg-name="diktyotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ΔΙΚΤΥΟ TV
+http://cdn5.smart-tv-data.com/local/diktyo/playlist.m3u8
+#EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΒΕΡΓΙΝΑ TV
+http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
+#EXTINF:-1  tvg-name="gnomitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GNOMI_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",GNOMI TV
+http://cdn5.smart-tv-data.com/local/gnomitv/playlist.m3u8
+#EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 SKG
+http://cdn5.smart-tv-data.com/local/fm100/playlist.m3u8
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
+http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
+#EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
+http://cdn5.smart-tv-data.com/local/corfutv/playlist.m3u8
+#EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
+http://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
+#EXTINF:-1  tvg-name="etv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/E_TV.png?raw=true" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",E TV
+http://cdn5.smart-tv-data.com/local/epsilontv/playlist.m3u8
+#EXTINF:-1  tvg-name="alert" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALERT_TV.png?raw=true" group-title="ΑΤΤΙΚΗ",ALERT
+http://cdn5.smart-tv-data.com/local/alert/playlist.m3u8
+#EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ",ATTICA TV HD
+http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
+#EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ",ONE CHANNEL HD
+http://cdn5.smart-tv-data.com/local/onechannel/playlist.m3u8
+#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
+http://cdn5.smart-tv-data.com/local/action24/playlist.m3u8
+#EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",NEA TV
+http://cdn5.smart-tv-data.com/local/neatv/playlist.m3u8
+#EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA_TV.png?raw=true" group-title="ΚΡΗΤΗ",CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TELE_KRHTH.png?raw=true" group-title="ΚΡΗΤΗ",tele KRHTH
+http://cdn5.smart-tv-data.com/local/telekriti/playlist.m3u8
+#EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
+http://cdn5.smart-tv-data.com/local/samiaki/playlist.m3u8
+#EXTINF:-1  tvg-name="syrostv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SYROS_TV_1.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",SYROS TV1
+http://cdn5.smart-tv-data.com/local/syrostv1/playlist.m3u8
+#EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
+http://cdn5.smart-tv-data.com/local/aeolostv/playlist.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS(2).png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euronews_Greece.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS(2).png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
@@ -47,6 +85,8 @@ http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/iviewtvgr.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KLIK_FM.png?raw=true" group-title="ΜΟΥΣΙΚΗ",KLIK TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/tvctklive.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",KONITSA TV
+https://glb.bozztv.com/glb/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NRG91.png?raw=true" group-title="ΜΟΥΣΙΚΗ",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MARON_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
@@ -147,10 +187,11 @@ http://94.130.21.210:8888/RIK2/manifest.m3u8
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="WEB TV",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="WEB TV",SKAI HYBRID
+https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
 https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
-
