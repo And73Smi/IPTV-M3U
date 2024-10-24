@@ -153,7 +153,9 @@ https://
 https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV" :http-referrer="" :http-user-agent="",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
-#EXTINF:-1  tvg-name="RT" tvg-logo="https://i.imgur.com/YvckXYy.png" group-title="ΔΙΕΘΝΗ" :http-referrer="https://odysee.com/" :http-user-agent="",Russia Today News
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="RT"                     tvg-logo="https://i.imgur.com/lBWMtYi.png",Russia Today News
+#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
-#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/R7QCujV.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="https://edge02.odtv.az/o4/extremesport/playlist.m3u8 ",Extreme Sports
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/wu9YrIU.png",Extreme Sports
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o4/extremesport/playlist.m3u8 
