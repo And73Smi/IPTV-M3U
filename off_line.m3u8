@@ -1,9 +1,9 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",MEGA HD
 https://glb.bozztv.com/glb/ssh101/mgrchlea/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="https://www.megatv.com/live/" :http-user-agent="",MEGA HD
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="https://www.megatv.com/live/" :http-user-agent="",MEGA HD
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" :http-referrer="" :http-user-agent="",MEGA HD
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA-Play.png?raw=true" group-title="WEB TV" :http-referrer="" :http-user-agent="",MEGA  HYBRID
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
@@ -153,9 +153,7 @@ https://
 https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV" :http-referrer="" :http-user-agent="",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ"                    tvg-name="RT"                     tvg-logo="https://i.imgur.com/lBWMtYi.png",Russia Today News
-#EXTVLCOPT:http-referrer=https://odysee.com/
+#EXTINF:-1  tvg-name="RT" tvg-logo="https://i.imgur.com/lBWMtYi.png" group-title="ΔΙΕΘΝΗ" :http-referrer="" :http-user-agent="",Russia Today News
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"                  tvg-name="   "                    tvg-logo="https://i.imgur.com/wu9YrIU.png",Extreme Sports
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/wu9YrIU.png" group-title="ΑΘΛΗΤΙΚΑ" :http-referrer="" :http-user-agent="",Extreme Sports
 https://edge02.odtv.az/o4/extremesport/playlist.m3u8 
