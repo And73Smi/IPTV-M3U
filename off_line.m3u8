@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Ast
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ",ATTICA TV HD
 http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
-#EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",ΒΕΡΓΙΝΑ TV
-http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
+https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="CINEMA",CINEMA TIME
 https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
@@ -117,6 +117,8 @@ https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASA_TV.png?raw=true" group-title="ΔΙΕΘΝΗ",NASA TV MEDIA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV
+http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO TV
 https://
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
@@ -149,8 +151,6 @@ https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 4
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRD_CHANNEL.png?raw=true" group-title="WEB TV",GRD CHANNEL
-https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREECE_24.png?raw=true" group-title="WEB TV",GREECE 24
 https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",KIDS TV
