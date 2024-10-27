@@ -95,6 +95,8 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
+https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ACHELWOS TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
@@ -349,8 +351,6 @@ http://65.108.62.57:8080/live2/greekmusic.m3u8
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/V2BEAT_LIVE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",V2BEAT LIVE
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",XALASTRA TV
-https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MUSIC_WEB_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",XAMOS RADIO
 https://ssh101.bozztv.com/ssh101/xamos/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XTV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",XTVSION
