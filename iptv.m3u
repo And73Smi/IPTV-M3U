@@ -98,7 +98,7 @@ https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
 https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################          ΑΛΦΑΒΗΤΙΚΑ        #####################################################################################################
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ACHELWOS TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV HD
@@ -260,7 +260,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/xylagany_parad
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOYGLA.png?raw=true" group-title="WEB TV",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################            ΕΚΚΛΗΣΙΑΣΤΙΚΑ          ###################################################################################################       
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
 #EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPSO.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
@@ -280,7 +280,7 @@ https://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
 #EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PISTI TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################          ΜΟΥΣΙΚΑ          ###########################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/24SERVER.png?raw=true" group-title="ΜΟΥΣΙΚΗ",24 SERVER
 https://nasos.24hosting.gr:3580/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
@@ -358,7 +358,7 @@ https://ssh101.bozztv.com/ssh101/xamos/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XTV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",XTVSION
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/XTV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################          ΑΘΛΗΤΙΚΑ          ##########################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ALFA SPORTS CYPRUS
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ARGOLIDA SPORT
@@ -384,7 +384,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TENNIS_CHANNEL.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL 2
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################          ΠΑΙΔΙΚΑ          ###########################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_SHARK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARBIE.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BARBIE
@@ -430,7 +430,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOUZOUNIA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################          ΔΙΕΘΝΗ          ############################################################################################################
 #EXTINF:-1  tvg-name="1+1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/1+1.png?raw=true" group-title="ΔΙΕΘΝΗ",1+1
 https://live-k2303-kbp.1plus1.video/live/1730088240/su3UGYWRMhrz7lvmOn1e3A/184723/smil:184723.smil/chunklist_b2128000.m3u8
 #EXTINF:-1  tvg-name="Al Jazeera" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AL_JAZEERA.png?raw=true" group-title="ΔΙΕΘΝΗ",AL JAZEERA ENGLISH
@@ -454,7 +454,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="ΔΙΕΘΝΗ",TV5 MONDE EUROPE
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-############################################################################################################################################################################################################################################
+######################################################################################################          LIFESTYLE          #########################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 2
