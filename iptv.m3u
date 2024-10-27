@@ -143,7 +143,7 @@ https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:-1  tvg-name="tileepiloges" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPILOGES_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",EPILOGES TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1  tvg-name="epirustv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPIRUS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",EPIRUS TV1 HD
+#EXTINF:-1  tvg-name="epirustv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPIROS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",EPIRUS TV1 HD
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1  tvg-name="eurotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURO_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EURO TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/EuroTV.m3u8
