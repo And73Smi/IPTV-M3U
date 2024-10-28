@@ -259,7 +259,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="Xplore" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XPLORE.png?raw=true" group-title="WEB TV",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KSILAGANI.png?raw=true" group-title="WEB TV",XYLAGANI TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XYLAGANI_TV.png?raw=true" group-title="WEB TV",XYLAGANI TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/xylagany_paradosi.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOYGLA.png?raw=true" group-title="WEB TV",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
