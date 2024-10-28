@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/On_Tv_Greece.m
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PARAMOUNT_MOVIES.png?raw=true" group-title="CINEMA",Paramount Movies
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS HD
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/ProNews.m3u8
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/pronewstvgr.m3u8
 #EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ HD
