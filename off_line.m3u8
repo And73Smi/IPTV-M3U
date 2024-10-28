@@ -115,10 +115,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO TV
-https://
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO TV
+https://
 #EXTINF:-1  tvg-name="alphacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_CYPRUS.png?raw=true" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CYPRUS
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANIME_STATION.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ANIME STATION
@@ -127,6 +127,24 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_ADNENTURE.png?raw=true" group-title="WEB TV",BCI ADVENTURE
 https://
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_CINEMA.png?raw=true" group-title="WEB TV",BCI CINEMA
+https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8" group-title="WEB TV",BCI GREEK
+https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_NEWS.png?raw=true" group-title="WEB TV",BCI NEWS
+https://
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_TRAVEL.png?raw=true" group-title="WEB TV",BCI TRAVEL
+https://
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_FOOD.png?raw=true" group-title="WEB TV",BCI FOOD
+https://
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_DOCUMENTARY.png?raw=true" group-title="WEB TV",BCI DOCUMENTARY
+https://
+#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="WEB TV",BCI MUSIC
+https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="WEB TV",BCI NEWS
+https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="WEB TV",BCI TRAVEL
+https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="WEB TV",BEST HYBRID 1 HD
 http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="WEB TV",BEST HYBRID 2 HD
@@ -173,10 +191,10 @@ https://
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ONE CYPRUS
 http://213.7.193.54:4000/play/a008/index.m3u8
-#EXTINF:-1  tvg-name="plustv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUS_CYPRUS.png?raw=true" group-title="WEB TV",PLUS CYPRUS
-http://94.130.21.210:8888/PLUSTV/manifest.m3u8
 #EXTINF:-1  tvg-name="patratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PATRA_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
 https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
+#EXTINF:-1  tvg-name="plustv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUS_CYPRUS.png?raw=true" group-title="WEB TV",PLUS CYPRUS
+http://94.130.21.210:8888/PLUSTV/manifest.m3u8
 #EXTINF:-1  tvg-name="rik1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_1.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
 http://94.130.21.210:8888/RIK1/manifest.m3u8
 #EXTINF:-1  tvg-name="rik2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_2.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",RIK 2 CYPRUS
@@ -193,7 +211,7 @@ https://
 https://til.pp.ua:3613/live/volcanotvslive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
 https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
-https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
 https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
+https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
