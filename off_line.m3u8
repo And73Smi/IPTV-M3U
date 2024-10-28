@@ -21,8 +21,6 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Ast
 http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="CINEMA",CINEMA TIME
 https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
-https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
 http://cdn5.smart-tv-data.com/local/corfutv/playlist.m3u8
 #EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA_TV.png?raw=true" group-title="ΚΡΗΤΗ",CRETA
