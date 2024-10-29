@@ -129,17 +129,15 @@ https://
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_CINEMA.png?raw=true" group-title="WEB TV",BCI CINEMA
 https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_CLASSIC.png?raw=true" group-title="WEB TV",BCI CLLASIC
-https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_DOCUMENTARY.png?raw=true" group-title="WEB TV",BCI DOCUMENTARY
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_FOOD.png?raw=true" group-title="WEB TV",BCI FOOD
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_GREEK.png?raw=true" group-title="WEB TV",BCI GREEK
 https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_GREEK.png?raw=true" group-title="WEB TV",BCI KIDS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_KIDS.png?raw=true" group-title="WEB TV",BCI KIDS
 https://
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_MEDIA.png?raw=true" group-title="WEB TV",BCI MEDIA
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_MUSIC.png?raw=true" group-title="WEB TV",BCI MUSIC
 https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BCI_NEWS.png?raw=true" group-title="WEB TV",BCI NEWS
 https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
