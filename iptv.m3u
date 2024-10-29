@@ -87,7 +87,7 @@ https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPOLO_D6.png?raw=true" group-title="CINEMA",DIPOLO TV
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VILAGE_WORLD.png?raw=true?raw=true" group-title="CINEMA",VILLAGE WORLD
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VILAGE_WORLD.png?raw=true" group-title="CINEMA",VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLAS_WORD.png?raw=true" group-title="CINEMA",ELLAS WORLD
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
@@ -291,7 +291,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/Orthodoxia_Rad
 https://new.cache-stream.workers.dev/stream/UCYjyS5OIpeVoOoXRxpzaKDg/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOICE_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",VOICE OF GOD TV
 https://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/THE_WORLD%20OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",WORD OF GOD TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",WORD OF GOD TV
 https://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
 #EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PISTI TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
