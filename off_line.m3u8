@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
