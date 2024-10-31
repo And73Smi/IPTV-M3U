@@ -1,4 +1,6 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
+#####################################################################>>>>>>>>>>BACK_UP<<<<<<<<<<###############################################################################
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ",ACTION 24 HD
@@ -49,6 +51,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/ext
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/extra_tv_cyprus.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
+#EXTINF:-1  tvg-name="flashtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FLASH_TV.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",FLASH TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/FlashTV.m3u8
 #EXTINF:-1  tvg-name="gnomitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GNOMI_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",GNOMI TV
 http://cdn5.smart-tv-data.com/local/gnomitv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_VOICE.png?raw=true" group-title="WEB TV",GREEK VOICE
@@ -115,10 +119,10 @@ http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/zeystv.m3u8
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
+#####################################################################>>>>>>>>>>NO WORK<<<<<<<<<<###############################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
-#EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
-https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO TV
 https://
 #EXTINF:-1  tvg-name="alphacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_CYPRUS.png?raw=true" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CYPRUS
