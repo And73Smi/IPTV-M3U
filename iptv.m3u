@@ -105,6 +105,8 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
 https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="CINEMA",34100 TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/34100tv.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 #######################################################################################################################################################################  
