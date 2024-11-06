@@ -489,8 +489,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CGTN.png?raw=true" group-title="ΔΙΕΘΝΗ",CGTN ENGLISH
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1  tvg-name="CNN" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CNN.png?raw=true" group-title="ΔΙΕΘΝΗ",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DW.png?raw=true" group-title="ΔΙΕΘΝΗ",DW ENGLISH
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 #EXTINF:-1  tvg-name="France24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FRANCE_24.png?raw=true" group-title="ΔΙΕΘΝΗ",FRANCE 24 ENGLISH
