@@ -391,6 +391,10 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/XTV.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOAT_SHOW.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",BOAT SHOW
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/ee563918-5f12-4456-9969-0e185d2aa3c0/2.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOXING_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",BOXING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/feff81c1-5835-4d5d-be0d-92a5cac4775a/3.m3u8
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_1.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1  tvg-name="ertsport2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_2.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
