@@ -123,6 +123,8 @@ https://
 http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="WEB TV",BEST HYBRID 2 HD
 http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
+https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="capitaltv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CAPITAL_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CAPITAL TV CYPRUS
 http://213.7.193.54:4000/play/a009/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CHOICE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CHOICE
