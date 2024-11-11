@@ -161,6 +161,10 @@ https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONOBALA.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR
 https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONOBALA.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR 2
+https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONOBALA.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR 3
+https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOUNTAIN_BIKE_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOUNTAIN BIKE TV
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEXT_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",NEXT TV
