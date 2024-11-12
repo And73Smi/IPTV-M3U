@@ -291,6 +291,10 @@ https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrz
 ########################################################################>>>>>>>>>>ΜΟΥΣΙΚΑ<<<<<<<<<<#################################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/24SERVER.png?raw=true" group-title="ΜΟΥΣΙΚΗ",24 SERVER
 https://nasos.24hosting.gr:3580/stream/play.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA 80s 90s
+https://media2.streambrothers.com:19360/8106/8106.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA DJ MUSIC
+https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GREEK HITS
@@ -299,8 +303,6 @@ https://eco.streams.ovh:8081/barazatv/playlist.m3u8
 https://glb.bozztv.com/glb/ssh101/music/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA TV DJ MUSIC
-https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLACK_MAN_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BLACKMAN RADIO
 https://til.pp.ua:3653/live/blackmanlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CLASSIC_ARTS_SHOWCASE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CLASSIC ARTS SHOWCASE
