@@ -123,6 +123,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/On_Tv_Greece.m
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/verginatv_cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/zeystv.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GAGS.png?raw=true" group-title="COMENTY",GAGS
+https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OLYMPOS_TV.png?raw=true" group-title="WEB TV",OLYMPOS TV
@@ -161,6 +163,8 @@ https://
 https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
+#EXTINF:-1  tvg-name="madtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAD TV
+http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAD RADIO
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAX_TV.png?raw=true" group-title="WEB TV",MAX TV
@@ -177,6 +181,8 @@ https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOUNTAIN_BIKE_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOUNTAIN BIKE TV
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1&checkedby:iptvcat.com
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTOS_TV.png?raw=true" group-title="ΚΡΗΤΗ",NOTOS TV
+https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEXT_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",NEXT TV
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NG_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",NG RADIO
@@ -203,5 +209,9 @@ https://
 https://til.pp.ua:3613/live/volcanotvslive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="WEB TV",XALASTRA TV
 https://glb.bozztv.com/glb/ssh101/xalastratv/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MUSIC_WEB_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",XAMOS RADIO
+https://ssh101.bozztv.com/ssh101/xamos/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
+https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
