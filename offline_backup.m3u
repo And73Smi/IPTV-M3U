@@ -105,7 +105,7 @@ http://cdn5.smart-tv-data.com/local/fm100/playlist.m3u8
 http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/YELLOW.jpg?raw=true" group-title="",OFF LINE
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/YELLOW.jpg?raw=true" group-title="",AND73SMI
 https://########################################################################>>>>>>>>>>AND73SMI<<<<<<<<<<#########################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="CINEMA",34100 TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/34100tv.m3u8
@@ -122,6 +122,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/On_Tv_Greece.m
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",VERGINA TV CYPRUS
 https://raw.githubusercontent.com/And73Smi/twi-daily/main/streams/verginatv_cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/zeystv.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED.jpg?raw=true" group-title="",OFF LINE
 https://########################################################################>>>>>>>>>>OFF_LINE<<<<<<<<<<#########################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
