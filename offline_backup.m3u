@@ -141,8 +141,6 @@ http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 http://213.7.193.54:4000/play/a009/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CHOICE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CHOICE
 https://
-#EXTINF:-1  tvg-name="CNN" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CNN.png?raw=true" group-title="ΔΙΕΘΝΗ",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIAMONT_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DIAMOND TV
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_1.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
@@ -155,8 +153,6 @@ https://ertflix.s.llnwi.net/ertlive/ertsports3/default/playlist.m3u8
 https://
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GAGS.png?raw=true" group-title="COMENTY",GAGS
-https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREECE_24.png?raw=true" group-title="WEB TV",GREECE 24
 https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",KIDS TV
