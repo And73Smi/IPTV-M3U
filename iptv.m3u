@@ -159,9 +159,9 @@ https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXPLORING_GREECE.png?raw=true" group-title="WEB TV",EXPLORING GREECE
 https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
-#EXTINF:-1  tvg-name="farostv2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS LIVE
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS LIVE
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1  tvg-name="farostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS WEBTV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS WEB TV
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="WEB TV",FILOPOLI TV
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
