@@ -209,6 +209,8 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1  tvg-name="ort" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORT.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PAKOE.png?raw=true" group-title="WEB TV",ΠΑ.Κ.Ο.Ε
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Pakoestream_TV.m3u8
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PELLA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLP.png?raw=true" group-title="WEB TV",PLP
