@@ -11,7 +11,7 @@ https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true" group-title="ΔΙΕΘΝΗ",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
-#EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA
+#EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",OMEGA
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1  tvg-name="star" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
@@ -19,11 +19,11 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ANT1 CYPRUS
+#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΥ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="alphacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_CYPRUS.png?raw=true" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CYPRUS
+#EXTINF:-1  tvg-name="alphacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ALPHA ΚΥΠΡΟΥ
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
@@ -233,7 +233,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Rod
 https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",SIGMA CYPRUS
+#EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",SIGMA ΚΥΠΡΟΥ
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 #EXTINF:-1  tvg-name="starbe" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_B_E.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Star_Boreiou_Elladas.m3u8
@@ -253,7 +253,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Top
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
-#EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",VERGINA TV CYPRUS
+#EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",VERGINA TV ΚΥΠΡΟΥ
 https://fl1002.bozztv.com/ssh101/vecy32423jk/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI
 https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
