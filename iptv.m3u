@@ -69,7 +69,7 @@ https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY TV CYPRUS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY TV ΚΥΠΡΟΥ
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Extacy_TV_Cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="CINEMA",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
@@ -371,7 +371,7 @@ https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/XTV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 ######################################################>>>>>>>>>>ΑΘΛΗΤΙΚΑ<<<<<<<<<<####################################################################################################################################
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ALFA SPORTS CYPRUS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ALFA SPORTS ΚΥΠΡΟΥ
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
