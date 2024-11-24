@@ -143,8 +143,6 @@ http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 http://213.7.193.54:4000/play/a009/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CHOICE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CHOICE
 https://
-#EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_CLASSICS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON CLASSICS
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st=1716944483~exp=1716948083~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/payload/yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/*~hmac=a06f52adb102561f049ef1e699ba1146af13ddbaf0d52574327c257f504b2c8a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=ENT&ads.channel=6591&ads.channel_name=CARTOONTVCLASSICS&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIAMONT_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DIAMOND TV
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_1.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)

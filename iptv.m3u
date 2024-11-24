@@ -423,6 +423,8 @@ https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_NETWORK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON NETWORK
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_CLASSICS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON CLASSICS
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st=1716944483~exp=1716948083~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/payload/yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/*~hmac=a06f52adb102561f049ef1e699ba1146af13ddbaf0d52574327c257f504b2c8a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=ENT&ads.channel=6591&ads.channel_name=CARTOONTVCLASSICS&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DISNEY_CHANNEL.png?raw=true" group-title="ΠΑΙΔΙΚΑ",DISNEY CHANNEL
