@@ -65,14 +65,10 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="CINEMA",CINEMA TIME
 https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
-https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="CINEMA",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY TV ΚΥΠΡΟΥ
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Extacy_TV_Cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="CINEMA",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GALAXY.png?raw=true" group-title="CINEMA",GALAXY
@@ -412,8 +408,6 @@ https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUMO.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",SUMO
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Sumo_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TENNIS_CHANNEL.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TENNIS_CHANNEL.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",TENNIS CHANNEL 2
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WWE_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",WWE TV
 https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
@@ -427,8 +421,6 @@ https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/li
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOOBA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
-#EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_CLASSICS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON CLASSICS
-https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8?nimblesessionid=490618466
 #EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_NETWORK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON NETWORK
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON TV

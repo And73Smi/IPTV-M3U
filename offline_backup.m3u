@@ -27,6 +27,8 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Ast
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ",ATTICA TV
 http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
+https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
 http://cdn5.smart-tv-data.com/local/corfutv/playlist.m3u8
 #EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA_TV.png?raw=true" group-title="ΚΡΗΤΗ",CRETA
@@ -141,10 +143,14 @@ http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
 http://213.7.193.54:4000/play/a009/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CHOICE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",CHOICE
 https://
+#EXTINF:-1  tvg-name="Cartoon Network" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_CLASSICS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON CLASSICS
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8?nimblesessionid=492044819
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIAMONT_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",DIAMOND TV
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_1.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY TV ΚΥΠΡΟΥ
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Extacy_TV_Cyprus.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPSILON.png?raw=true" group-title="ΑΤΤΙΚΗ",EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORT_3.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
