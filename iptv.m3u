@@ -159,8 +159,6 @@ https://til.pp.ua:3928/live/epiruslive.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euro_TV.m3u8
 #EXTINF:-1  tvg-name="europeone" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EUROPE_1.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
 https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
-#EXTINF:-1  tvg-name="marontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MARON_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Maron_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EVRIPOS_TV.png?raw=true" group-title="WEB TV",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXPLORING_GREECE.png?raw=true" group-title="WEB TV",EXPLORING GREECE
@@ -205,6 +203,8 @@ https://ssh101-fl.bozztv.com/ssh101/konitsalivetv/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Kos_TV.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOSMOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Kosmos_TV.m3u8
+#EXTINF:-1  tvg-name="marontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MARON_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Maron_TV.m3u8
 #EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MESOGEIOS_TV.jpg?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONTREAL_TV.png?raw=true" group-title="WEB TV",MONTREAL GREEK TV
