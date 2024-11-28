@@ -201,7 +201,5 @@ https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 https://
 #EXTINF:-1  tvg-name="volcano" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOLCANO.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",VOLCANO TV
 https://til.pp.ua:3613/live/volcanotvslive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
-https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
