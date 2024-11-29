@@ -122,7 +122,7 @@ https://1a-1791.com/live/r31jzt5k/slot-125/w9mm-7ol3/chunklist.m3u8
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ART.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",ASTRA TV
-https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV.m3u8
 #EXTINF:-1  tvg-name="centertv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CENTER.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",CENTER TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Center_TV.m3u8
 #EXTINF:-1  tvg-name="citychannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CITY_CHANNEL.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CITY CHANNEL
