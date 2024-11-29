@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",NO SINGAL
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SINGAL.png?raw=true" group-title="",NO SINGAL
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.m3u8.mp4
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEN.jpg?raw=true" group-title="",BACK UP
 https://####################################################>>>>>>>>>>BACK_UP<<<<<<<<<<##################################################################################################################
