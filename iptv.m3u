@@ -399,7 +399,7 @@ https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX0
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/0742fa36-d224-4fe3-85f8-da4522a2054a/2.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTO&BIKE.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTORBIKES & ENGINES
 https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTORVISION TV
+#EXTINF:-1  tvg-name="MotorvisionTV.de" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETO_SPORTS.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",NETO SPORTS
 https://netohls.wns.live/hls/stream.m3u8
