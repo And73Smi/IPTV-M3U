@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEN.jpg?raw=true" group-title="",_______________________________BACK UP___________________________________
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEN.jpg?raw=true" group-title="",______________BACK UP___________________________________
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -109,7 +109,7 @@ http://cdn5.smart-tv-data.com/local/fm100/playlist.m3u8
 http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/YELLOW.jpg?raw=true" group-title="",_______________________________AND73SMI___________________________________
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/YELLOW.jpg?raw=true" group-title="",______________AND73SMI___________________________________
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="CINEMA",34100 TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/34100_TV.m3u8
@@ -125,7 +125,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Sup
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Verginatv_Cyprus.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",ZEYS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Zeys_TV.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED.jpg?raw=true" group-title="",_______________________________OFF LINE___________________________________
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED.jpg?raw=true" group-title="",______________OFF LINE___________________________________
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
