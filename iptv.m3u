@@ -223,7 +223,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
-#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_SAT.png?raw=true" group-title="ΔΙΕΘΝΗ",RIK SAT ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_SAT.png?raw=true" group-title="ΔΙΕΘΝΗ",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="risetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RISE_TV.png?raw=true" group-title="ΑΤΤΙΚΗ",RISE TV
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
@@ -233,7 +233,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Rod
 https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",SIGMA ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",SIGMA TV
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 #EXTINF:-1  tvg-name="starbe" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_B_E.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Star_Boreiou_Elladas.m3u8
