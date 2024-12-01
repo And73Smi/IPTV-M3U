@@ -483,8 +483,8 @@ https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DW.png?raw=true" group-title="ΔΙΕΘΝΗ",DW ENGLISH
 https://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1  tvg-name="France24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FRANCE_24.png?raw=true" group-title="ΔΙΕΘΝΗ",FRANCE 24 ENGLISH
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733110433/ei/QdZMZ9rrDPjl6dsPxqmEoAc/ip/193.92.152.41/id/Ap-UM1O9RBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAez2eaRDHuLxjuDZOBuX7uZHNjhAiRLk22xD8ok9Zzb4-a-2Qahy7I8U74Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIdI5dsUv1CqEp204_EG4Q_616nJ8rnZOTxeCvqiUQ75AiAmrQjZqkpwLFJzfeRwc_TnAcrxzCZ9MQVoainbdJ3NdQ%3D%3D/file/index.m3u8
+#EXTINF:-1  tvg-name="France24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FRANCE_24.png?raw=true" group-title="ΔΙΕΘΝΗ",FRANCE 24 
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1  tvg-name="NBC" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NBC_NOW.png?raw=true" group-title="ΔΙΕΘΝΗ",NBC NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1  tvg-name="RT" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RT.png?raw=true" group-title="ΔΙΕΘΝΗ",RUSSIA TODAY NEWS
