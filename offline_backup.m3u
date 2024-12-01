@@ -77,7 +77,7 @@ http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Iview_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",KONITSA TV
 https://glb.bozztv.com/glb/ssh101/konitsalivetv/playlist.m3u8
-#EXTINF:-1  tvg-name="MotorvisionTV.de" tvg-logo="" group-title="Sport",Motorvision TV (720p)
+#EXTINF:-1  tvg-name="MotorvisionTV.de" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASA_TV.png?raw=true" group-title="ΔΙΕΘΝΗ",NASA TV MEDIA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
