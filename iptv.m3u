@@ -79,8 +79,8 @@ https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN_TV.png?raw=true" group-title="CINEMA",IONIA TV
 https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON.png?raw=true" group-title="CINEMA",PLUTON 
-https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON.png?raw=true" group-title="CINEMA",PLUTON
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Pluton.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="CINEMA",GREEK TV LONDON CINEMA
 https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONTAZ_TV.png?raw=true" group-title="CINEMA",MONTAZ TV
