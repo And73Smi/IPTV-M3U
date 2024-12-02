@@ -79,7 +79,7 @@ https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN_TV.png?raw=true" group-title="CINEMA",IONIA TV
 https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON.png?raw=true" group-title="CINEMA",PLUTON
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON.png?raw=true" group-title="CINEMA",PLUTON TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Pluton.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="CINEMA",GREEK TV LONDON CINEMA
 https://vdo3.alphaserver.gr:3466/stream/play.m3u8
@@ -221,7 +221,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Pak
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLP.png?raw=true" group-title="WEB TV",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",PLUTON TV ΚΥΠΡΟΥ
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_SAT.png?raw=true" group-title="ΔΙΕΘΝΗ",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
