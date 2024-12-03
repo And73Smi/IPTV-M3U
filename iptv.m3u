@@ -127,7 +127,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Cen
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1  tvg-name="CYPRUS LIVE" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CYPRUS_LIVE.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CYPRUS LIVE
+#EXTINF:-1  tvg-name="CYPRUS LIVE" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CYPRUS_MEDIA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CYPRUS MEDIA
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1  tvg-name="deltatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
