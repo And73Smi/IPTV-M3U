@@ -189,7 +189,7 @@ https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d4
 https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HELLENIC_TV.png?raw=true" group-title="WEB TV",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLECTRA_TV.png?raw=true" group-title="WEB TV",HLEKTRA TV
+#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="WEB TV",HLEKTRA TV
 https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1  tvg-name="hightv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HIGH.png?raw=true" group-title="ΑΤΤΙΚΗ",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
