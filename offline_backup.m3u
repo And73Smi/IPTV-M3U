@@ -8,7 +8,7 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/p
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
-http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
+https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ",ACTION 24
@@ -177,6 +177,8 @@ https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
 https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONOBALA.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MONOBALA GR 3
 https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA-Play.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
+http://vid1.megatv-ctv.com/mega/megasport/mpeg.2ts
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEXT_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",NEXT TV
 https://
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NG_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",NG RADIO
@@ -197,8 +199,6 @@ http://94.130.21.210:8888/RIK1/manifest.m3u8
 http://94.130.21.210:8888/RIK2/manifest.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="WEB TV",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="WEB TV",SKAI HYBRID
-https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
 https://
 #EXTINF:-1  tvg-name="volcano" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOLCANO.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",VOLCANO TV
