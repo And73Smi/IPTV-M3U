@@ -197,6 +197,8 @@ http://94.130.21.210:8888/RIK1/manifest.m3u8
 http://94.130.21.210:8888/RIK2/manifest.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="WEB TV",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",SKAI HYBRID
+https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",SKAI HYBRID 2
 https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
