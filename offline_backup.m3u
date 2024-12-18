@@ -19,10 +19,6 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Ast
 https://ssh101-fl.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ",ATTICA TV
 http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="CINEMA",CINEMA TIME
-https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
-https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL
 http://cdn5.smart-tv-data.com/local/corfutv/playlist.m3u8
 #EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA_TV.png?raw=true" group-title="ΚΡΗΤΗ",CRETA
@@ -115,6 +111,8 @@ http://cdn5.smart-tv-data.com/local/fm100/playlist.m3u8
 http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/YELLOW.jpg?raw=true" group-title="",___________AND73SMI______________________________________________
+https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="CINEMA",34100 TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/34100_TV.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS(2).png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS ΕΛΛΗΝΙΚΑ
