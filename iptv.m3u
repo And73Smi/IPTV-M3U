@@ -111,7 +111,7 @@ https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 https://####################################################>>>>>>>>>>ΑΛΦΑΒΗΤΙΚΑ<<<<<<<<<<######################################################################################################################
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ACHELWOS TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEGEAN_LIVE.png?raw=true" group-title="WEB TV",AEGEAN LIVE
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEGEAN_LIVE.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AEGEAN LIVE
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
@@ -223,6 +223,8 @@ http://live.greektv.ca/hls1/greektv.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NS_TV.png?raw=true" group-title="WEB TV",NS TV
 https://til.pp.ua:3262/live/nstv7live.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMIKRON_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",OMIKRON TV
+https://media.kubikhost.com/first/index.m3u8
 #EXTINF:-1  tvg-name="ort" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORT.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",OPT
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PAKOE.png?raw=true" group-title="WEB TV",PA.K.O.E
