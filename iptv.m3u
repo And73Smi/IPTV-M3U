@@ -292,19 +292,17 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ECCLESIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1  tvg-name="lychnos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LYXNOS.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
-https://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
+https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORTHODOX_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ORTHODOXI TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Orthodoxia_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PEMTOUSIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PEMPTOUSIA TV
-https://new.cache-stream.workers.dev/stream/UCYjyS5OIpeVoOoXRxpzaKDg/live.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PEMTOUSIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PEMPTOUSIA TV
-https://www.youtube.com/watch?v=j_-JkS0JfuQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735187836/ei/HIlsZ4oc-eDp2w-xpeiQDg/ip/193.92.152.41/id/j_-JkS0JfuQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/x-caUFTPwCAcF7NbKp5nJaKDWPxVADVtoYglIMmUKzV_mQUKa4_4H-oaYzwQn1j05q6xBn8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMF_n_UK2ujWTjJuyk79JYHdro8kECndTAGmMSDZ7awgAiEAwdyKrhMSVXcWYUGhqfj9-NlgX4rjP3AhwiCUoddK8qo%3D/file/index.m3u8
 #EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PISTI TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOICE_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",VOICE OF GOD TV
-https://new.cache-stream.workers.dev/stream/UC8KnlXI3YAkOZfwMgxb1lOg/live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735188803/ei/44xsZ-m7H57f6dsPx8zokA4/ip/193.92.152.41/id/aTWz_fP6FNQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUBG1UWA2NGC3RM1LE6hxDJIlW52FY79iCjRQswY-B9NRo5LMVjIoXN1u87s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBcTCfM_00kCRZzqlb9LUgbzUD5LEw_oPYspEoLOnAcwCIE-ZLzOV4iOc_LkpyN-n0j3mrHid-GAepDUTHQKAIoW5/file/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",WORD OF GOD TV
-https://new.cache-stream.workers.dev/stream/UCc3hweSOwmGb6hdQrPFc_cw/live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735188717/ei/jYxsZ76WGNO66dsPy7S9kQE/ip/193.92.152.41/id/FBoZqmZ_1KY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUCNQXjsPzJe-Xgw1ytRoxgo8i6MBmwqAjnrzOxXXxXiPd3wAFRQ_Oo-OCzUpurpi5Pw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgK70TwhaVcCpAYWf5CJ1dR00XkETnUaf7wICEKO3OUCkCIFm8_6vD1EZszMRrtQ-qamr8tMVSr0-xR3dVlq040qBU/file/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://#################################################>>>>>>>>>>ΜΟΥΣΙΚΑ<<<<<<<<<<#####################################################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/24SERVER.png?raw=true" group-title="ΜΟΥΣΙΚΗ",24 SERVER
@@ -466,7 +464,7 @@ https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",SMILE TV
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TALKING_TOM.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
-https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735188993/ei/oY1sZ46vLv3Xi9oPs5LfQA/ip/193.92.152.41/id/JxVK4DzTk_o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUEatT5pHBU_NCXt6pGe2bDSk2-6E8iueM8-Dw0Nu-B2m6yC2V7D1KWWzj90/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO3IKd6ILviQR586MGSRc9EHb3an12zrkex4Y07phhrkAiBOS_wU-zF3BMPmKrKViLBkNGabxcREUOi5xn_i03u93A%3D%3D/file/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOM&JERRY.png?raw=true" group-title="ΠΑΙΔΙΚΑ",Tom & Jerry
 http://xtv.ooo:8080/52882216/581881255/329247
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOONS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TOONS TV
@@ -474,7 +472,7 @@ https://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOO MOO KIDS
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOUZOUNIA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOUZOUNIA
-https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735188875/ei/K41sZ_F85IOL2g-_qtrpDA/ip/193.92.152.41/id/or1Bqp6s1ec.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUNENTA4zHd2DDzDXl_qQvlh0zBeVZeGhuL2c2XBhkGRYQ0rs0W_Ycg5nEr8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKxSlV4Vru6dVT6VXDk91dRsH76-9sh88B23ZW5eD_Z0CIEsOZi3koPWiOyu4e298QuAFpa00uu00lIV9B6nqiB8i/file/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://#################################################>>>>>>>>>>ΔΙΕΘΝΗ<<<<<<<<<<#####################################################################################################################################
 #EXTINF:-1  tvg-name="Al Jazeera" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AL_JAZEERA.png?raw=true" group-title="ΔΙΕΘΝΗ",AL JAZEERA ENGLISH
