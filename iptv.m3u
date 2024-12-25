@@ -71,6 +71,8 @@ https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY CYPRUS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/extacytvcy/chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="CINEMA",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GALAXY.png?raw=true" group-title="CINEMA",GALAXY
@@ -295,6 +297,8 @@ https://new.cache-stream.workers.dev/stream/UC8WYI1OlMaNQiGmi8yFtGZg/live.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Orthodoxia_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PEMTOUSIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PEMPTOUSIA TV
 https://new.cache-stream.workers.dev/stream/UCYjyS5OIpeVoOoXRxpzaKDg/live.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PEMTOUSIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PEMPTOUSIA TV
+https://www.youtube.com/watch?v=j_-JkS0JfuQ
 #EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PISTI TV
 https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOICE_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",VOICE OF GOD TV
