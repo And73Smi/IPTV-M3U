@@ -69,9 +69,9 @@ https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="CINEMA",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV
+#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV SKG
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY CYPRUS
+#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY TV CYPRUS
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/extacytvcy/chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="CINEMA",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
@@ -210,7 +210,7 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",KONITSA TV
 https://ssh101-fl.bozztv.com/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Kos_TV.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/chunks.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOSMOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Kosmos_TV.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
