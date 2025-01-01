@@ -13,8 +13,6 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/playlist.m3u8
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_CHRISTMANS.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT Christmans
 https://ertflix.s.llnwi.net/ertlive/seasonal/default/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA-Play.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MEGA PLAY
-https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",OMEGA
