@@ -62,9 +62,9 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GROOVY.png?raw=true" group-title="CINEMA",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="CINEMA",CINEMA TIME
-https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="CINEMA",CINEMA TIME 2
-https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="CINEMA",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="CINEMA",EXTACY TV SKG
@@ -74,17 +74,17 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/extacytvcy/chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="CINEMA",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GALAXY.png?raw=true" group-title="CINEMA",GALAXY
-https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="CINEMA",LAMSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="CINEMA",ZEYS TV
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Zeys_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIABATA(2).png?raw=true" group-title="CINEMA",DIABATA TV
-https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_SKG.png?raw=true" group-title="CINEMA",DELTA TV SKG
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN_TV.png?raw=true" group-title="CINEMA",IONIA TV
-https://ssh101.bozztv.com/ssh101/tvioniathess/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="CINEMA",GREEK TV LONDON CINEMA
 https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONTAZ_TV.png?raw=true" group-title="CINEMA",MONTAZ TV
@@ -120,7 +120,7 @@ https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALERT_TV.png?raw=true" group-title="ΑΤΤΙΚΗ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1  tvg-name="alfa" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALFA_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ALFA
-https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/alf/playlist.m3u8
 #EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALITHIA.png?raw=true" group-title="Β.Α ΑΙΓΑΙΟΥ",ALITHIA TV (μετά τίς 17:00 )
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Alithia_TV.m3u8
 #EXTINF:-1  tvg-name="art" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APT_TV.png?raw=true" group-title="ΑΤΤΙΚΗ",APT TV
@@ -128,7 +128,7 @@ https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-17/bqam-oqlw_1080p/chunklist.m3
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ART.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",ASTRA TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Astra_TV.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="centertv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CENTER.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",CENTER TV
@@ -162,7 +162,7 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1  tvg-name="epirustv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPIRUS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1  tvg-name="eurotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURO_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EURO TV
-https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Euro_TV.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
 #EXTINF:-1  tvg-name="europeone" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EUROPE_1.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
 https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EVRIPOS_TV.png?raw=true" group-title="WEB TV",EVRIPOS TV
@@ -200,11 +200,11 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IME_WEB_TV.png?raw=true" group-title="WEB TV",IME TV
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="iridatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IRIDA.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",IRIDA TV
-https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
 #EXTINF:-1  tvg-name="iview" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IVIEW.png?raw=true" group-title="WEB TV",IVIEW TV
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",KONITSA TV
-https://ssh101-fl.bozztv.com/ssh101/konitsalivetv/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOS TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/chunks.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOSMOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
@@ -240,7 +240,7 @@ http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORI
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RODOPI_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",RODOPI TV
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
-https://ssh101-fl.bozztv.com/ssh101/rtpkentro/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",SIGMA TV
@@ -260,9 +260,9 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL
 http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",TRT TV
-https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV
-https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",VERGINA TV ΚΥΠΡΟΥ
 https://fl1002.bozztv.com/ssh101/vecy32423jk/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI
@@ -330,7 +330,7 @@ https://ertflix.s.llnwi.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FOX_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",FOX RADIO GREECE
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOHTEIA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",GOHTEIA RADIO
-https://ssh101.bozztv.com/ssh101/radiogohteia/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/radiogohteia/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="ΜΟΥΣΙΚΗ",GREEK TV LONDON RADIO
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HOTBEATS_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",HOTBEATS TV
