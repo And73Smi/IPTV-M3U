@@ -93,6 +93,8 @@ http://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TELE_KRHTH.png?raw=true" group-title="ΚΡΗΤΗ",Tele KRHTH
 http://cdn5.smart-tv-data.com/local/telekriti/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/THLEMOUSIKI.png?raw=true" group-title="ΜΟΥΣΙΚΗ",TELEMOUSIKI
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8
 #EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAKI_NET.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",THRAKI NET
 http://cdn5.smart-tv-data.com/local/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL
