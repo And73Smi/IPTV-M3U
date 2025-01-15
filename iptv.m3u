@@ -143,8 +143,6 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1  tvg-name="egnatia" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EGNATIA.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLADA_WEB_TV.png?raw=true" group-title="WEB TV",ELLADA  TV
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="enachannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ENA_channel.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ENA CHANNEL
 https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8
 #EXTINF:-1  tvg-name="tileepiloges" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPILOGES_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",EPILOGES TV
@@ -165,8 +163,6 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Flash_TV.m3u8
 #EXTINF:-1  tvg-name="gnomitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GNOMI_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRD_CHANNEL.png?raw=true" group-title="WEB TV",GRD CHANNEL
-https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRECA_TV.png?raw=true" group-title="WEB TV",GRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRECA_TV.png?raw=true" group-title="WEB TV",GRECA TV  2
@@ -236,7 +232,7 @@ https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/The
 #EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAKI_NET.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL
-http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+https://raw.githubusercontent.com/And73Smi/twi-daily/refs/heads/main/streams/Top_Channel.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",TRT TV
 https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV
