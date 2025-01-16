@@ -56,7 +56,7 @@ jobs:
             python3 twitch.py tvstarfm > ../../streams/Star_Boreiou_Elladas.m3u8
             python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/Star_Kentrikis_Elladas.m3u8
             python3 twitch.py superstarfm > ../../streams/Superstar_TV.m3u8
-            python3 twitch.py livethess2020 > ../../streams/Thessalia_TV.m3u8
+            python3 twitch.py livethess02 > ../../streams/Thessalia_TV.m3u8
             python3 twitch.py topchannelkozani > ../../streams/Top_Channel.m3u8
             python3 twitch.py verginacy > ../../streams/Verginatv_Cyprus.m3u8
             python3 twitch.py xtvision > ../../streams/XTV.m3u8
