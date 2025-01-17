@@ -69,6 +69,8 @@ https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GALAXY.png?raw=true" group-title="CINEMA",GALAXY
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANEMOS_RADIO.png?raw=true" group-title="CINEMA",ANEMOS RADIO
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Anemos_radio.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="CINEMA",LAMSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIABATA(2).png?raw=true" group-title="CINEMA",DIABATA TV
