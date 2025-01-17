@@ -4,7 +4,7 @@ import json
 
 def get_access_token(channel_name:str):
     """
-    Retrieves the access token and signature required to access the stream.
+    
 
     Args:
         channel_name (str): The name of the Twitch channel.
