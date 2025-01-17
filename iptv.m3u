@@ -461,8 +461,10 @@ https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 https://######################################################>>>>>>>>>>LIFESTYLE<<<<<<<<<<##########################################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4K_TRAVEL_TV.png?raw=true" group-title="LIFESTYLE",4K TRAVEL TV
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANIMAL_NATURE.png?raw=true" group-title="LIFESTYLE",ANIMALS NATURE
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Animals_Nature.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURE_ANIMALS.png?raw=true" group-title="LIFESTYLE",NATURE ANIMALS
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Nature_Animals.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURA.png?raw=true" group-title="LIFESTYLE",NATURE
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Nature.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 2
