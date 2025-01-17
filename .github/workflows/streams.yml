@@ -27,6 +27,7 @@ jobs:
             cd ./core/platforms/
             python3 twitch.py 34100tv > ../../streams/34100_TV.m3u8
             python3 twitch.py alithiavideo > ../../streams/Alithia_TV.m3u8
+            python3 twitch.py radiotvanemosgr > ../../streams/Anemos_radio.m3u8
             python3 twitch.py astratv2021 > ../../streams/Astra_TV.m3u8
             python3 twitch.py astratv2019 > ../../streams/Astra_TV_2.m3u8
             python3 twitch.py centertv > ../../streams/Center_TV.m3u8
