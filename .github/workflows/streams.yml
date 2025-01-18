@@ -25,6 +25,8 @@ jobs:
         run: |
             pwd
             cd ./core/platforms/
+            python3 dailymotion.py x2j7kha > ../../streams/Euronews_Greece.m3u8
+            python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/Star_Kentrikis_Elladas.m3u8
             python3 twitch.py 34100tv > ../../streams/34100_TV.m3u8
             python3 twitch.py alithiavideo > ../../streams/Alithia_TV.m3u8
             python3 twitch.py radiotvanemosgr > ../../streams/Anemos_radio.m3u8
@@ -35,7 +37,6 @@ jobs:
             python3 twitch.py diabatatv > ../../streams/Diabata_TV.m3u8
             python3 twitch.py dionthleorash > ../../streams/Dion_TV.m3u8
             python3 twitch.py eurotvgreece  > ../../streams/Euro_TV.m3u8
-            python3 dailymotion.py x2j7kha > ../../streams/Euronews_Greece.m3u8
             python3 twitch.py extacy_tv > ../../streams/Extacy_TV.m3u8
             python3 twitch.py extacy_tv_cy > ../../streams/Extacy_TV_Cyprus.m3u8          
             python3 twitch.py failarmy > ../../streams/Failarmy.m3u8
@@ -56,7 +57,6 @@ jobs:
             python3 twitch.py pronewstvgr > ../../streams/Pronews_TV.m3u8
             python3 twitch.py rodopitv > ../../streams/Rodopi_TV.m3u8
             python3 twitch.py tvstarfm > ../../streams/Star_Boreiou_Elladas.m3u8
-            python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/Star_Kentrikis_Elladas.m3u8
             python3 twitch.py superstarfm > ../../streams/Superstar_TV.m3u8
             python3 twitch.py livethess02 > ../../streams/Thessalia_TV.m3u8
             python3 twitch.py topchannelkozani > ../../streams/Top_Channel.m3u8
