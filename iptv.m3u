@@ -133,8 +133,6 @@ http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b6596
 https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
 #EXTINF:-1  tvg-name="diontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DION_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",DION TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/diontv/chunks.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DTP.png?raw=true" group-title="WEB TV",DTP
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/DTP.m3u8
 #EXTINF:-1  tvg-name="etv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/E_TV.png?raw=true" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",E TV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1  tvg-name="edamth" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ED_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ED TV
@@ -271,8 +269,6 @@ https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Orth
 https://dev.aftermind.xyz/hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://#################################################>>>>>>>>>>ΜΟΥΣΙΚΑ<<<<<<<<<<#####################################################################################################################################
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/24SERVER.png?raw=true" group-title="ΜΟΥΣΙΚΗ",24 SERVER
-https://nasos.24hosting.gr:3580/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
@@ -385,8 +381,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 https://######################################################>>>>>>>>>>ΠΑΙΔΙΚΑ<<<<<<<<<<############################################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_SHARK.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY SHARK TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BIG_CHANNEL.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BIG CHANNEL
-https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOOBA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_CLASSICS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",CARTOON CLASSICS
@@ -403,10 +397,6 @@ https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOGOPLAY.png?raw=true" group-title="ΠΑΙΔΙΚΑ",GOGO PLAY TV
 https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",KIDS TV
-https://pocketwatch-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONDO_KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",MONDO TV KIDS
-https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOONBUG_KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MR_BEEN.png?raw=true" group-title="ΠΑΙΔΙΚΑ",MR BEAN ANIMATED
@@ -423,12 +413,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
 #EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",SMILE TV
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TALKING_TOM.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
-https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOM&JERRY.png?raw=true" group-title="ΠΑΙΔΙΚΑ",Tom & Jerry
 http://xtv.ooo:8080/52882216/581881255/329247
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOONS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TOONS TV
-https://ssh101-fl.bozztv.com/ssh101/tvtoons/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOO_MOO_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ZOO MOO KIDS
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
@@ -443,12 +429,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CGTN.png?raw=true" group-title="ΔΙΕΘΝΗ",CGTN ENGLISH
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1  tvg-name="CNN" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CNN.png?raw=true" group-title="ΔΙΕΘΝΗ",CNN
-https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DW.png?raw=true" group-title="ΔΙΕΘΝΗ",DW ENGLISH
 https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1  tvg-name="NBC" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NBC_NOW.png?raw=true" group-title="ΔΙΕΘΝΗ",NBC NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1  tvg-name="RT" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RT.png?raw=true" group-title="ΔΙΕΘΝΗ",RUSSIA TODAY NEWS
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="ΔΙΕΘΝΗ",TV5 MONDE EUROPE
