@@ -230,7 +230,7 @@ https://raw.githubusercontent.com/And73Smi/Hunter/refs/heads/main/streams/THESSA
 #EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAKI_NET.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL
-https://raw.githubusercontent.com/And73Smi/Hunters/refs/heads/main/streams/TOP_CHANNEL.m3u8
+https://raw.githubusercontent.com/And73Smi/Hunter/refs/heads/main/streams/TOP_CHANNEL.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",TRT TV
 https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV
