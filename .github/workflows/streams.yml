@@ -46,7 +46,7 @@ jobs:
             python3 twitch.py iviewtvgr > ../../streams/Iview_TV.m3u8
             python3 twitch.py kostv2024 > ../../streams/Kos_TV.m3u8
             python3 twitch.py tvkosmosgr > ../../streams/Kosmos_TV.m3u8
-            python3 twitch.py lepantotv2 > ../../streams/LePanto_TV.m3u8
+            python3 twitch.py lepantotv2 > ../../streams/LEPANTO_TV.m3u8
             python3 twitch.py maron_tv > ../../streams/Maron_TV.m3u8
             python3 twitch.py animals_nature > ../../streams/Nature_Animals.m3u8
             python3 twitch.py naturerelax_24h > ../../streams/Nature.m3u8
