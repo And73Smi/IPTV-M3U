@@ -3,6 +3,8 @@
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANEMOS_RADIO.png?raw=true" group-title="CINEMA",ANEMOS TV
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Anemos_radio.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO
 https://5f06d0924ebcd.streamlock.net:444/live/aktinaradio/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_FIRST.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY FIRST TV
@@ -37,8 +39,6 @@ https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="CINEMA",EXTACY TV CYPRUS
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GRD_CHANNEL.png?raw=true" group-title="WEB TV",GRD CHANNEL
@@ -59,8 +59,6 @@ http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAGIC_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA-Play.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
 http://vid1.megatv-ctv.com/mega/megasport/mpeg.2ts
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MGR_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MGR TV
@@ -75,8 +73,6 @@ https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEXT_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",NEXT TV
 https://new.cache-stream.workers.dev/stream/UCNOhkH_rCIj8KiVrlGpga7Q/live.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTOS_TV.png?raw=true" group-title="ΚΡΗΤΗ",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OLYMPOS_TV.png?raw=true" group-title="WEB TV",OLYMPOS TV
