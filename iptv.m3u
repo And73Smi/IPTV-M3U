@@ -439,10 +439,6 @@ https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 https://######################################################>>>>>>>>>>LIFE STYLE<<<<<<<<<<##########################################################################################################################
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4K_TRAVEL_TV.png?raw=true" group-title="LIFESTYLE",4K TRAVEL TV
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURE_ANIMALS.png?raw=true" group-title="LIFESTYLE",NATURE ANIMALS
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/NATURE_ANIMALS.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURA.png?raw=true" group-title="LIFESTYLE",NATURE
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/NATURE.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",FASHION TV 2
@@ -467,3 +463,11 @@ https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/FAIL
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TAKESHIS_CASTLE.png?raw=true" group-title="COMENTY",Takeshi's Castle
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213441-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=621a6d64-aa90-4bb5-9cb4-9d6dd56346f0
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
+https://################################################>>>>>>>>>>NATURE & ANIMALS<<<<<<<<<<######################################################################################################################################
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANIMALS.png?raw=true" group-title="LIFESTYLE",ANIMALS
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/ANIMALS.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURE_ANIMALS.png?raw=true" group-title="LIFESTYLE",NATURE ANIMALS
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/NATURE_ANIMALS.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURA.png?raw=true" group-title="LIFESTYLE",NATURE
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/NATURE.m3u8
