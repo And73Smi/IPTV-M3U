@@ -6,7 +6,7 @@ https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/24SERVER.png?raw=true" group-title="ΜΟΥΣΙΚΗ",24 SERVER
 https://nasos.24hosting.gr:3580/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANEMOS_RADIO.png?raw=true" group-title="CINEMA",ANEMOS RADIO TV
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/Anemos_Radio_TV.m3u8
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/ANEMOS_RADIO_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",AKTINA RADIO
 https://5f06d0924ebcd.streamlock.net:444/live/aktinaradio/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_FIRST.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY FIRST TV
@@ -58,7 +58,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KIDS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/LePanto_TV.m3u8
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/LEPANTO_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAD RADIO
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1  tvg-name="madtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAD TV
@@ -83,6 +83,8 @@ https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCNOhkH_rCIj8KiVrlGpga7Q/live.m3u8
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTOS_TV.png?raw=true" group-title="ΚΡΗΤΗ",NOTOS TV
 https://eco.streams.ovh:1936/notos/notos/playlist.m3u8
+#EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ON.TV.png?raw=true" group-title="WEB TV",ON TV
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/ON_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OLYMPOS_TV.png?raw=true" group-title="WEB TV",OLYMPOS TV
 https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",ONE CYPRUS
@@ -109,6 +111,8 @@ https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",SUPER TV
 https://new.cache-stream.workers.dev/stream/UC4OD3anBwEt0N_gYmkmrtJQ/live.m3u8
+#EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER_STAR_FM.png?raw=true" group-title="ΜΟΥΣΙΚΗ",SUPERSTAR TV
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/SUPERSTAR_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TALKING_TOM.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOONS_TV.png?raw=true" group-title="ΠΑΙΔΙΚΑ",TOONS TV
