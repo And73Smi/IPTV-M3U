@@ -431,8 +431,12 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CGTN.png?raw=true" group-title="ΔΙΕΘΝΗ",CGTN ENGLISH
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CNN.png?raw=true" group-title="ΔΙΕΘΝΗ",CNN INT
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DW.png?raw=true" group-title="ΔΙΕΘΝΗ",DW ENGLISH
 https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
+#EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FOX_NEWS.png?raw=true" group-title="ΔΙΕΘΝΗ",FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="RT" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RT.png?raw=true" group-title="ΔΙΕΘΝΗ",RUSSIA TODAY NEWS
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="ΔΙΕΘΝΗ",TV5 MONDE EUROPE
