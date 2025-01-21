@@ -357,6 +357,8 @@ https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/b0d773ed-6f74-4b2f-a6a1-8091c95e1951/4.m3u8
 #EXTINF:-1  tvg-name="ertspors" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_1.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 1
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/playlist.m3u8
+#EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_2.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
+https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIFA.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",FIFA
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIGHT_NETWORK.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",FIGHT NETWORK
