@@ -149,10 +149,10 @@ https://til.pp.ua:3928/live/epiruslive.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EVRIPOS_TV.png?raw=true" group-title="WEB TV",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS LIVE
-https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS WEB TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS TV 1
 https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",FAROS TV 2
+https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="WEB TV",FILOPOLI TV
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1  tvg-name="flashtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FLASH_TV.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",FLASH TV
@@ -371,8 +371,6 @@ https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOSPORT_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",MOTOSPORT
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETO_SPORTS.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",NETO SPORTS
-https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED_BUL_TV.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",RED BULL TV
@@ -407,8 +405,6 @@ https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MR_BEEN.png?raw=true" group-title="ΠΑΙΔΙΚΑ",MR BEAN ANIMATED
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ODDBODS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",ODDBODS
-https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PBS_KIDS.png?raw=true" group-title="ΠΑΙΔΙΚΑ",PBS KIDS
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PING_FONG.png?raw=true" group-title="ΠΑΙΔΙΚΑ",PINKFONG
