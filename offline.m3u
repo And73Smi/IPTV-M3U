@@ -41,8 +41,6 @@ https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_1.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
-#EXTINF:-1  tvg-name="diktyotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",DIKTYO TV
-https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLADA_WEB_TV.png?raw=true" group-title="WEB TV",ELLADA  TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPSILON.png?raw=true" group-title="ΑΤΤΙΚΗ",EPSILON TV
@@ -63,6 +61,8 @@ https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chun
 https://live.cast-control.eu:1936/organismos/organismos/chunklist_w98180077.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREECE_24.png?raw=true" group-title="WEB TV",GREECE 24
 https://glb.bozztv.com/glb/ssh101/omogeniatv/index.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="CINEMA",GREEK TV LONDON CINEMA
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="ΜΟΥΣΙΚΗ",GREEK TV LONDON RADIO
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="WEB TV",ILEKTRA TV
@@ -71,8 +71,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/LEPANTO_TV.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEVEL.png?raw=true" group-title="ΜΟΥΣΙΚΗ",LEVEL
-https://pro.free.hr:3068/live/level69live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_RADIO.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAD RADIO
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1  tvg-name="madtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MAD TV
