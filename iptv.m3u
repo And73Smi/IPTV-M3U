@@ -49,6 +49,10 @@ https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1  tvg-name="bluesky" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLUE_SKY.png?raw=true" group-title="ΑΤΤΙΚΗ",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MAKEDONIA TV
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKH
@@ -115,8 +119,6 @@ https://1a-1791.com/live/t5qc33px/slot-81/s0ry-ntng_1080p/chunklist.m3u8
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",ASTRA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
-#EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
-http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="citychannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CITY_CHANNEL.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",CITY CHANNEL
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="centertv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CENTER.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",CENTER TV
@@ -185,8 +187,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/chunks.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOSMOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/KOSMOS_TV.m3u8
-#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
-https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MARON_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/MARON_TV.m3u8
 #EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MESOGEIOS_TV.jpg?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
