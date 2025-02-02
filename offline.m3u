@@ -19,10 +19,7 @@ https://nasos.24hosting.gr:3580/stream/play.m3u8
 https://5f06d0924ebcd.streamlock.net:444/live/aktinaradio/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_FIRST.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BABY FIRST TV
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/dfbeb5e6-eea1-4478-bffa-dc6e4837f851/0.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="WEB TV",BEST HYBRID 1
-http://cdn1.smart-tv-data.com:80/best/besttv/best/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="WEB TV",BEST HYBRID 2
-http://cdn1.smart-tv-data.com:80/best/hybrid2/best/playlist.m3u8
+
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOOBA.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BOOBA TV
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BIG_CHANNEL.png?raw=true" group-title="ΠΑΙΔΙΚΑ",BIG CHANNEL
@@ -45,8 +42,6 @@ https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPSILON.png?raw=true" group-title="ΑΤΤΙΚΗ",EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
-#EXTINF:-1  tvg-name="ertsport3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORT_3.png?raw=true" group-title="ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
-https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 #EXTINF:-1  tvg-name="europeone" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EUROPE_1.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
 https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXPLORING_GREECE.png?raw=true" group-title="WEB TV",EXPLORING GREECE
