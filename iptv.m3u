@@ -181,6 +181,8 @@ https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1  tvg-name="hightv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HIGH.png?raw=true" group-title="ΑΤΤΙΚΗ",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="WEB TV",ILEKTRA TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IME_WEB_TV.png?raw=true" group-title="WEB TV",IME TV
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="iridatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IRIDA.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",IRIDA TV
