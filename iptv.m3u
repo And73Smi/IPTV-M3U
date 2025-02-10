@@ -287,6 +287,8 @@ https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 https://____________________________________ΜΟΥΣΙΚΑ_____________________________________________________________________________________________________________________________________________________________________________
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA DJ MUSIC
+https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="ΜΟΥΣΙΚΗ",BARAZA GREEK HITS
