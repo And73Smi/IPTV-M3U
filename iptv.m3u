@@ -250,7 +250,7 @@ https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",VERGINA TV ΚΥΠΡΟΥ
-https://fl1002.bozztv.com/ssh101/vecy32423jk/tracks-v1a1/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/vecy32423jk/chunks.m3u8
 #EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",VOULI 2
