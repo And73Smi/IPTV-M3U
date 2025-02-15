@@ -139,6 +139,8 @@ https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1  tvg-name="diontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DION_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",DION TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/diontv/chunks.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DTP.png?raw=true" group-title="WEB TV",DTP
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/DTP.m3u8
 #EXTINF:-1  tvg-name="etv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/E_TV.png?raw=true" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",E TV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1  tvg-name="edamth" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ED_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",ED TV
