@@ -5,8 +5,6 @@ https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANEMOS_RADIO.png?raw=true" group-title="CINEMA",ANEMOS RADIO TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ANEMOS_RADIO_TV.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DTP.png?raw=true" group-title="WEB TV",DTP
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/DTP.m3u8
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ON.TV.png?raw=true" group-title="WEB TV",ON TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ON_TV.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER_STAR_FM.png?raw=true" group-title="ΜΟΥΣΙΚΗ",SUPERSTAR TV
