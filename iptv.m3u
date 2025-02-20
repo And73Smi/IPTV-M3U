@@ -31,21 +31,21 @@ https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 OPEN BEYONT
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ ",📺 ONE CHANNEL
+#EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ",📺 ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
-#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ ",📺 ACTION 24
+#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="ΑΤΤΙΚΗ",📺 ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ ",📺 ATTICA TV
+#EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="ΑΤΤΙΚΗ",📺 ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ ",📺 TV 100 SKG
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ ",📺 STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
-#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="ΚΡΗΤΗ ",📺 KRHTH TV
+#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="ΚΡΗΤΗ",📺 KRHTH TV
 https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
-#EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONTRA_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ ",📺 KONTRA
+#EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONTRA_Channel.png?raw=true" group-title="ΑΤΤΙΚΗ",📺 KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1  tvg-name="bluesky" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLUE_SKY.png?raw=true" group-title="ΑΤΤΙΚΗ ",📺 BLUE SKY
+#EXTINF:-1  tvg-name="bluesky" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLUE_SKY.png?raw=true" group-title="ΑΤΤΙΚΗ",📺 BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1  tvg-name="ionian" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
@@ -55,9 +55,9 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 MAKEDONIA TV
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ ",🌍 NAFTEMPORIKH
+#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",🌍 NAFTEMPORIKH
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/playlist.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ ",🌍 EURONEWS ΕΛΛΗΝΙΚΑ
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",🌍 EURONEWS ΕΛΛΗΝΙΚΑ
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺CINEMA🎬 📽️📺
@@ -91,7 +91,7 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_TORONTO.png?raw=true" group-title="WEB TV",📺📽️ NETV TORONTO
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
-#EXTINF:-1  tvg-name="krititv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRITI_1.png?raw=true" group-title="ΚΡΗΤΗ ",📽️ KRHTH 1
+#EXTINF:-1  tvg-name="krititv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRITI_1.png?raw=true" group-title="ΚΡΗΤΗ",📽️ KRHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺ΑΛΦΑΒΗΤΙΚΑ📺🏛️
