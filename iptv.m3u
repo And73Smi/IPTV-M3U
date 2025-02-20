@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/MARON_
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONTREAL_TV.png?raw=true" group-title="WEB TV",📺 MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ ",📺 NEA TV
+#EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",📺 NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTIOI_TV.png?raw=true" group-title="WEB TV",📺 NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
