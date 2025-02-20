@@ -13,7 +13,7 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
-#EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ ",📺 OMEGA
+#EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 OMEGA
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1  tvg-name="star" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
@@ -21,7 +21,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ ",📺 ANT1 ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 ANT1 ΚΥΠΡΟΥ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
