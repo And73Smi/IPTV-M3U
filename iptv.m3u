@@ -55,7 +55,7 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MAKEDONIA TV 📺📽️
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKH 💰🌍
+#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",NAFTEMPORIKH 🌍💰
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/playlist.m3u8
 #EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS ΕΛΛΗΝΙΚΑ 🌍
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
@@ -87,9 +87,9 @@ https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLAS_WORD.png?raw=true" group-title="CINEMA",ELLAS WORLD 🎬
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_EUROPE.png?raw=true" group-title="WEB TV",NETV EUROPE 📺📽️
+#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_EUROPE.png?raw=true" group-title="WEB TV",NETV EUROPE 📺🎬📽️
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_TORONTO.png?raw=true" group-title="WEB TV",NETV TORONTO 📺📽️
+#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_TORONTO.png?raw=true" group-title="WEB TV",NETV TORONTO 📺🎬📽️
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1  tvg-name="krititv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRITI_1.png?raw=true" group-title="ΚΡΗΤΗ",KRHTH 1 📽️
 https://livetv.streams.ovh:8081/kriti/index.m3u8
