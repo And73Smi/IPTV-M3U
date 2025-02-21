@@ -153,17 +153,17 @@ https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1  tvg-name="epirustv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPIRUS_TV.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺 EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
-#EXTINF:-1  tvg-name="eurotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURO_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 EURO TV
+#EXTINF:-1  tvg-name="eurotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURO_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺📽️  EURO TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EVRIPOS_TV.png?raw=true" group-title="WEB TV",📺 EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 FAROS TV 1
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺📽️  FAROS TV 1
 https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 FAROS TV 2
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺📽️  FAROS TV 2
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="WEB TV",📺 FILOPOLI TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="WEB TV",📺📽️  FILOPOLI TV
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1  tvg-name="flashtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FLASH_TV.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",📺 FLASH TV
+#EXTINF:-1  tvg-name="flashtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FLASH_TV.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",📺📽️  FLASH TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FLASH_TV.m3u8
 #EXTINF:-1  tvg-name="gnomitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GNOMI_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 GNOMI TV
 https://live.streams.ovh:8081/gnomitv/tracks-v1a1/mono.m3u8
@@ -189,19 +189,19 @@ https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
 #EXTINF:-1  tvg-name="iview" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IVIEW.png?raw=true" group-title="WEB TV",📺 IVIEW TV
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺 KONITSA TV
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺♫  KONITSA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
-#EXTINF:-1  tvg-name="kostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 KOS TV
+#EXTINF:-1  tvg-name="kostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺📽️ KOS TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/chunks.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOSMOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/KOSMOS_TV.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MARON_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",📺 MARON TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/MARON_TV.m3u8
-#EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MESOGEIOS_TV.jpg?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 MESOGEIOS TV
+#EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MESOGEIOS_TV.jpg?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺📽️ MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MONTREAL_TV.png?raw=true" group-title="WEB TV",📺 MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",📺 NEA TV
+#EXTINF:-1  tvg-name="neatvcrete" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NEA_TV.png?raw=true" group-title="ΚΡΗΤΗ",📺📽️ NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTIOI_TV.png?raw=true" group-title="WEB TV",📺 NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
@@ -209,7 +209,7 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMIKRON_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 OMIKRON TV
 https://media.kubikhost.com/first/index.m3u8
-#EXTINF:-1  tvg-name="ort" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORT.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 OPT
+#EXTINF:-1  tvg-name="ort" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORT.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺📽️ OPT
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PAKOE.png?raw=true" group-title="WEB TV",📺 PA.K.O.E
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/PAKOE_TV.m3u8
@@ -223,25 +223,25 @@ https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_SAT.png?raw=true" group-title="ΔΙΕΘΝΗ",📺 RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RODOPI_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",📺 RODOPI TV
+#EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RODOPI_TV.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",📺📽️ RODOPI TV
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 RTP KENTRO
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
-#EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 SAMIAKI TV
+#EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺📽️ SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 SIGMA TV
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 #EXTINF:-1  tvg-name="starbe" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_B_E.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",📺 STAR ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/STAR_BOREIOU_ELLADAS.m3u8
-#EXTINF:-1  tvg-name="starttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/START.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺 START TV
+#EXTINF:-1  tvg-name="starttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/START.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺📽️ START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1  tvg-name="stevt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STENT_TV.png?raw=true" group-title="WEB TV",📺 STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
-#EXTINF:-1  tvg-name="syrostv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SYROS_TV_1.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",📺 SYROS TV1
+#EXTINF:-1  tvg-name="syrostv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SYROS_TV_1.png?raw=true" group-title="ΚΥΚΛΑΔΕΣ",📺📽️ SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1  tvg-name="thlekriti" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TELE_KRHTH.png?raw=true" group-title="ΚΡΗΤΗ",📺 Tele KRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:-1  tvg-name="thessaliatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/THESALIA.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",📺 THESSALIA TV
+#EXTINF:-1  tvg-name="thessaliatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/THESALIA.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",📺📽️ THESSALIA TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/THESSALIA_TV.m3u8
 #EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAKI_NET.png?raw=true" group-title="ΑΝ.ΜΑΚ θΡΑΚΗ",📺 THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
@@ -249,7 +249,7 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tinostv2025/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",📺 TOP CHANNEL
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/TOP_CHANNEL.m3u8
-#EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",📺 TRT TV
+#EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="ΘΕΣΣΑΛΙΑ",📺📽️ TRT TV
 https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 VERGINA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
