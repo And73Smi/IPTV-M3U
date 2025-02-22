@@ -87,9 +87,9 @@ https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLAS_WORD.png?raw=true" group-title="CINEMA",📺 ELLAS WORLD 🎬
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_EUROPE.png?raw=true" group-title="WEB TV",📺 NETV EUROPE 📺🌍📽️🎬
+#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_EUROPE.png?raw=true" group-title="WEB TV",📺 NETV EUROPE 🌍📽️🎬
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_TORONTO.png?raw=true" group-title="WEB TV",📺 NETV TORONTO 📺🌍📽️🎬
+#EXTINF:-1  tvg-name="netv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NET_TORONTO.png?raw=true" group-title="WEB TV",📺 NETV TORONTO 🌍📽️🎬
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1  tvg-name="krititv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRITI_1.png?raw=true" group-title="ΚΡΗΤΗ",📺 KRHTH 1 📽️
 https://livetv.streams.ovh:8081/kriti/index.m3u8
@@ -475,31 +475,31 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺LIFE STYLE✈️🍽️💥
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4K_TRAVEL_TV.png?raw=true" group-title="LIFESTYLE",🍽️ 4K TRAVEL TV ✈️
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4K_TRAVEL_TV.png?raw=true" group-title="LIFESTYLE",💥4K TRAVEL TV ✈️
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",🍽️ FASHION TV 1 💥
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",💥FASHION TV 1 💥
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",🍽️ FASHION TV 2 💥
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",💥FASHION TV 2 💥
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",🍽️ FASHION TV 3 💥
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",💥FASHION TV 3 💥
 https://fash1043.cloudycdn.services/slive/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",🍽️ FASHION TV 4 💥
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",💥FASHION TV 4 💥
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",🍽️ FASHION TV UHD 💥
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="LIFESTYLE",💥FASHION TV UHD 💥
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="JustVogueTv.de" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/JUST_VOGUE.png?raw=true" group-title="LIFESTYLE",🍽️ JUST VOGUE TV 💥
+#EXTINF:-1  tvg-name="JustVogueTv.de" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/JUST_VOGUE.png?raw=true" group-title="LIFESTYLE",💥JUST VOGUE TV 💥
 https://tivi191.ozelip.com:3873/stream/play.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺COMEDY😂💡🎮🕹👽
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/5_Minute_Crafts.png?raw=true" group-title="COMENTY",👽 5 Minute Crafts 💡
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/5_Minute_Crafts.png?raw=true" group-title="COMENTY",😂 5 Minute Crafts 💡
 https://rakutenaa-soul-5mincraftenglish-rakuten-du9p7.amagi.tv/playlist/rakutenAA-soul-5mincraftenglish-rakuten/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AFV.png?raw=true" group-title="COMENTY",👽 AFV Family 😂
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AFV.png?raw=true" group-title="COMENTY",😂 AFV Family 😂
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAIL_ARMY.png?raw=true" group-title="COMENTY",👽 FAILARMY 😂
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAIL_ARMY.png?raw=true" group-title="COMENTY",😂 FAILARMY 😂
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAILARMY.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GAGS.png?raw=true" group-title="COMENTY",👽 JAST 😂
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GAGS.png?raw=true" group-title="COMENTY",😂 JAST 😂
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TAKESHIS_CASTLE.png?raw=true" group-title="COMENTY",👽 Takeshi's Castle 😂
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TAKESHIS_CASTLE.png?raw=true" group-title="COMENTY",😂 Takeshi's Castle 😂
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213441-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=621a6d64-aa90-4bb5-9cb4-9d6dd56346f0
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺NATURE & ANIMALS🐘🐅🐶🔞
