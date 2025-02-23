@@ -19,7 +19,7 @@ https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" group-title="ΔΙΕΘΝΗ",🌍 STAR INTERNATIONAL 📰
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 ANT1 📰🧑‍📽️
+#EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",📺 ANT1 📰📽️
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 ANT1 ΚΥΠΡΟΥ 📰📽️
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
@@ -271,21 +271,21 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XYLAGA
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺ΕΚΚΛΗΣΙΑΣΤΙΚΑ⛪📢
-#EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ 4E ⛪
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ 4E 📰⛪
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
-#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPSO.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ DIPSO TV ⛪
+#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPSO.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ DIPSO TV 📰⛪
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ECCLESIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ECCLESIA TV ⛪
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ECCLESIA_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ECCLESIA TV 📰⛪
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_EKKLHSIA.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ FAROS TV ⛪
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_EKKLHSIA.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ FAROS TV 📰⛪🎧📽️
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAROS_TV_EKKLISIA.m3u8
-#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LYXNOS.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ LYCHNOS ⛪
+#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LYXNOS.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ LYCHNOS 📰⛪
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORTHODOX_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ORTHODOXI TV ⛪
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORTHODOX_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ORTHODOXI TV 📰⛪
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ORTHODOXIA_TV.m3u8
-#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ PISTI TV ⛪
+#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ PISTI TV 📰⛪
 https://dev.aftermind.xyz/hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ WORD OF GOD TV ⛪
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ WORD OF GOD TV 📰⛪
 https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺ΜΟΥΣΙΚΑ🎧📻♫   
