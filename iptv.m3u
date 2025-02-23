@@ -189,7 +189,7 @@ https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
 #EXTINF:-1  tvg-name="iview" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IVIEW.png?raw=true" group-title="WEB TV",📺 IVIEW TV 📰📽️
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺 KONITSA TV 📰📻
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONITSA.png?raw=true" group-title="ΔΥΤ. ΕΛΛΑΔΑ",📺 KONITSA TV 📰🎧
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
 #EXTINF:-1  tvg-name="kostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KOS_TV.png?raw=true" group-title="ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 KOS TV 📰📽️
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/chunks.m3u8
@@ -255,20 +255,20 @@ https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="ΚΥΠΡΙΑΚΑ",📺 VERGINA TV ΚΥΠΡΟΥ 📰📽️
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/vecy32423jk/playlist.m3u8
-#EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",📺 VOULI 🏛️📰📽️
-https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
-#EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",📺 VOULI 2 🏛️📰
-https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",📺 VOULI 3 🏛️📰
-https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI.CY.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",📺 VOULI CYPRUS 🏛️📰
-https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="Xplore" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XPLORE.png?raw=true" group-title="WEB TV",📺 XPLORE ✈️🐅
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XYLAGANI.png?raw=true" group-title="WEB TV",📺 XYLAGANI TV 📻
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XYLAGANI.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOYGLA.png?raw=true" group-title="WEB TV",📺 ZOUGLA TV 📰📻
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+#EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI 📰📽️
+https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
+#EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI 2 📰
+https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
+#EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI 3 📰
+https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
+#EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI.CY.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI CYPRUS 📰
+https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://--- 📺ΕΚΚΛΗΣΙΑΣΤΙΚΑ⛪📢
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ 4E 📰⛪
