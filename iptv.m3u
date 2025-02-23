@@ -209,7 +209,7 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMIKRON_TV.png?raw=true" group-title="ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 OMIKRON TV 🎬🎸✈️
 https://media.kubikhost.com/first/index.m3u8
-#EXTINF:-1  tvg-name="ort" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORT.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 OPT 📢📽️
+#EXTINF:-1  tvg-name="ort" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORT.png?raw=true" group-title="ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 OPT 📢🎬
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PAKOE.png?raw=true" group-title="WEB TV",📺 PA.K.O.E 📢
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/PAKOE_TV.m3u8
@@ -261,7 +261,7 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XYLAGANI.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOYGLA.png?raw=true" group-title="WEB TV",📺 ZOUGLA TV 📢🎸
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
-#EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI 📢🎬
+#EXTINF:-1  tvg-name="voulitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI 📢🎸📽️🎬
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertvouligr" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI_TV.png?raw=true" group-title="ΚΟΙΝΟΒΟΥΛΙΟ",🏛️ VOULI 2 📢
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
