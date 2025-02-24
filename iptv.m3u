@@ -271,21 +271,21 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ⛪-📢ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
-#EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ 4E 📢⛪
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ 4E ⛪
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
-#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPSO.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ DIPSO TV 📢⛪
+#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPSO.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ DIPSO TV 🎬⛪
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ECCLESIA_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ECCLESIA TV 📢⛪
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ECCLESIA_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ECCLESIA TV ⛪
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_EKKLHSIA.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ FAROS TV 📢⛪🎧🎬
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_EKKLHSIA.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ FAROS TV 🎧🎬⛪
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAROS_TV_EKKLISIA.m3u8
-#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LYXNOS.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ LYCHNOS 📢⛪
+#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LYXNOS.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ LYCHNOS ⛪
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORTHODOX_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ORTHODOXI TV 📢⛪
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ORTHODOX_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ ORTHODOXI TV ⛪
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ORTHODOXIA_TV.m3u8
-#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ PISTI TV 📢⛪
+#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ PISTI TV ⛪
 https://dev.aftermind.xyz/hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ WORD OF GOD TV 📢⛪
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",⛪ WORD OF GOD TV ⛪
 https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://📻ΜΟΥΣΙΚΑ📻-📢ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
@@ -395,6 +395,8 @@ https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIGHT_NETWORK.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",🏆 FIGHT NETWORK 🥊
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMULA_1.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",🏆 FORMULA 🏎️
+https://is.gd/rVSZEu?US600011Q2.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",🏆 HORSE RACING 🐴
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTO&BIKE.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",🏆 MOTORBIKES & ENGINES 🏍
@@ -481,6 +483,8 @@ https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 https://💎LIFESTYLE💎-📢ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS✈️🍽️💥👄👩‍❤️‍💋‍👨🔞💎👗
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4K_TRAVEL_TV.png?raw=true" group-title="💎 LIFESTYLE",💎 4K TRAVEL TV ✈️
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAVELXP.png?raw=true" group-title="💎 LIFESTYLE",💎 4K TRAVEL XP ✈️
+https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",💎 FASHION TV 1 👗
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",💎 FASHION TV 2 👗
