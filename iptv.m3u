@@ -1,13 +1,13 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-https://---📺ΠΟΙΟ ΣΥΧΝΑ---📺TV---📡INTERNATIONAL---📢ΕΙΔΗΣΕΙΣ---🎧ΜΟΥΣΙΚΗ---📽️ΝΤΟΚΥΜΑΝΤΕΡ---🎬ΤΑΙΝΙΕΣ---🏆ΑΘΛΗΤΙΚΑ---🧒ΠΑΙΔΙΚΑ---💰ΟΙΚΟΝΟΜΙΚΑ---⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ---🌍ΔΙΕΘΝΗ---💎LIFESTYLE---😂COMENTY---🌳NATURE & ANIMALS
+https://---ΠΟΙΟ ΣΥΧΝΑ---📺TV---📡INTERNATIONAL---📢ΕΙΔΗΣΕΙΣ---🎧ΜΟΥΣΙΚΗ---📽️ΝΤΟΚΥΜΑΝΤΕΡ---🎬ΤΑΙΝΙΕΣ---🏆ΑΘΛΗΤΙΚΑ---🧒ΠΑΙΔΙΚΑ---💰ΟΙΚΟΝΟΜΙΚΑ---⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ---🌍ΔΙΕΘΝΗ---💎LIFESTYLE---😂COMENTY---🌳NATURE & ANIMALS
 #EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="📺 ΠΑΝΕΛΛΑΔΙΚΑ",📺 ERT 1 📢🎧📽️🎬🏆
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1  tvg-name="ert2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true" group-title="📺 ΠΑΝΕΛΛΑΔΙΚΑ",📺 ERT 2 📢🎧📽️🎬🏆
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1  tvg-name="ert3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true" group-title="📺 ΠΑΝΕΛΛΑΔΙΚΑ",📺 ERT 3 📢📽️🎬
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
-#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true" group-title="📺 ΕΙΔΗΣΕΙΣ",📺 ERT NEWS 📢
+#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true" group-title="📢 ΕΙΔΗΣΕΙΣ",📺 ERT NEWS 📢
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",📡 ERT WORLD 📢🎧🎬
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
@@ -55,9 +55,9 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true" group-title="📺 ΠΑΝΕΛΛΑΔΙΚΑ",📺 MAKEDONIA TV 📢🎬
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="📺 ΕΙΔΗΣΕΙΣ",📺 NAFTEMPORIKH 📢💰
+#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NAFTEMPORIKI.png?raw=true" group-title="📢 ΕΙΔΗΣΕΙΣ",📺 NAFTEMPORIKH 📢💰
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/playlist.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="📺 ΕΙΔΗΣΕΙΣ",📡 EURONEWS GR 📢
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EURONEWS.png?raw=true" group-title="📢 ΕΙΔΗΣΕΙΣ",📡 EURONEWS GR 📢
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://---🎬CINEMA---📺TV---📡INTERNATIONAL---📢ΕΙΔΗΣΕΙΣ---🎧ΜΟΥΣΙΚΗ---📽️ΝΤΟΚΥΜΑΝΤΕΡ---🎬ΤΑΙΝΙΕΣ---🏆ΑΘΛΗΤΙΚΑ---🧒ΠΑΙΔΙΚΑ---💰ΟΙΚΟΝΟΜΙΚΑ---⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ---🌍ΔΙΕΘΝΗ---💎LIFESTYLE---😂COMENTY---🌳NATURE & ANIMALS
@@ -93,8 +93,10 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1  tvg-name="krititv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRITI_1.png?raw=true" group-title="📺 ΚΡΗΤΗ",📺 KRHTH 1 🎬
 https://livetv.streams.ovh:8081/kriti/index.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLADA_WEB_TV.png?raw=true" group-title="📺 WEB TV",📺 ELLADA  TV 🎬
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-https://---📺ΑΛΦΑΒΗΤΙΚΑ---📺TV---📡INTERNATIONAL---📢ΕΙΔΗΣΕΙΣ---🎧ΜΟΥΣΙΚΗ---📽️ΝΤΟΚΥΜΑΝΤΕΡ---🎬ΤΑΙΝΙΕΣ---🏆ΑΘΛΗΤΙΚΑ---🧒ΠΑΙΔΙΚΑ---💰ΟΙΚΟΝΟΜΙΚΑ---⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ---🌍ΔΙΕΘΝΗ---💎LIFESTYLE---😂COMENTY---🌳NATURE & ANIMALS
+https://---ΑΛΦΑΒΗΤΙΚΑ---📺TV---📡INTERNATIONAL---📢ΕΙΔΗΣΕΙΣ---🎧ΜΟΥΣΙΚΗ---📽️ΝΤΟΚΥΜΑΝΤΕΡ---🎬ΤΑΙΝΙΕΣ---🏆ΑΘΛΗΤΙΚΑ---🧒ΠΑΙΔΙΚΑ---💰ΟΙΚΟΝΟΜΙΚΑ---⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ---🌍ΔΙΕΘΝΗ---💎LIFESTYLE---😂COMENTY---🌳NATURE & ANIMALS
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="📺 ΔΥΤ. ΕΛΛΑΔΑ",📺 ACHELWOS TV 📢
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEGEAN_LIVE.png?raw=true" group-title="📺 ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 AEGEAN live 📢
@@ -145,8 +147,6 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1  tvg-name="egnatia" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EGNATIA.png?raw=true" group-title="📺 ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 EGNATIA TV 📢
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLADA_WEB_TV.png?raw=true" group-title="📺 WEB TV",📺 ELLADA  TV 🎬
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="enachannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ENA_channel.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 ENA CHANNEL 📢
 https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8
 #EXTINF:-1  tvg-name="tileepiloges" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPILOGES_TV.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 EPILOGES TV 📢🎬
@@ -219,7 +219,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://av.hellasnet.tv/rest2.live.hn/plp/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON_TV.png?raw=true" group-title="📺 ΚΥΠΡΙΑΚΑ",📺 PLUTON TV ΚΥΠΡΟΥ ✈️
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
-#EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="📺 ΕΙΔΗΣΕΙΣ",📺 PRO NEWS 📢
+#EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="📢 ΕΙΔΗΣΕΙΣ",📺 PRO NEWS 📢
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_SAT.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",📺 RIK SAT 📢
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
