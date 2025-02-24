@@ -37,7 +37,7 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="📺 ΑΤΤΙΚΗ",📺 ATTICA TV 📢🎬
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="📺 ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 TV 100 SKG 📢🎬🧒
+#EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="📺 ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 TV 100 SKG 📢📽️🎬
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="📺 ΣΤΕΡΕΑ ΕΛΛΑΔΑ",📺 STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ 📢🎬🧒
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
