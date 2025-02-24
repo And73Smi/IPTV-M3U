@@ -118,7 +118,7 @@ https://1a-1791.com/live/t5qc33px/slot-81/s0ry-ntng_1080p/chunklist.m3u8
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ART.png?raw=true" group-title="📺 ΔΥΤ. ΕΛΛΑΔΑ",📺 ART TV 📢🧒
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="📺 ΘΕΣΣΑΛΙΑ",📺 ASTRA TV 📢
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="📺 WEB TV",📺 BEST HYBRID 1 🏆
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="📺 WEB TV",📺 BEST HYBRID 2 🏆
@@ -183,11 +183,11 @@ https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1  tvg-name="hightv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HIGH.png?raw=true" group-title="📺 ΑΤΤΙΚΗ",📺 HIGH TV 📢
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="📺 WEB TV",📺 ILEKTRA TV 📢
+#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="📺 WEB TV",📺 ILEKTRA TV 📢🎧
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IME_WEB_TV.png?raw=true" group-title="📺 WEB TV",📺 IME TV 📢
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IME_WEB_TV.png?raw=true" group-title="📺 WEB TV",📺 IME TV 📢📽️
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
-#EXTINF:-1  tvg-name="iridatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IRIDA.png?raw=true" group-title="📺 ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 IRIDA TV 📢🎬
+#EXTINF:-1  tvg-name="iridatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IRIDA.png?raw=true" group-title="📺 ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 IRIDA TV 📢🎧🎬
 https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
 #EXTINF:-1  tvg-name="iview" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IVIEW.png?raw=true" group-title="📺 WEB TV",📺 IVIEW TV 📢📽️🎬🧒
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
@@ -215,7 +215,7 @@ https://media.kubikhost.com/first/index.m3u8
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PAKOE.png?raw=true" group-title="📺 WEB TV",📺 PA.K.O.E 📢
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/PAKOE_TV.m3u8
-#EXTINF:-1  tvg-name="pellatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PELLA_TV.png?raw=true" group-title="📺 ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 PELLA TV 📢🎬🧒
+#EXTINF:-1  tvg-name="pellatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PELLA_TV.png?raw=true" group-title="📺 ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 PELLA TV 📢🎧🎬🧒
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLP.png?raw=true" group-title="📺 WEB TV",📺 PLP 📢
 https://av.hellasnet.tv/rest2.live.hn/plp/playlist.m3u8
@@ -227,7 +227,7 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RODOPI_TV.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 RODOPI TV 📢🎬
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="📺 ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 RTP KENTRO 📢⛪
+#EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="📺 ΠΕΛΟΠΟΝΝΗΣΟΥ",📺 RTP KENTRO 📢🎧⛪
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="📺 ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",📺 SAMIAKI TV 📢🎬
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
