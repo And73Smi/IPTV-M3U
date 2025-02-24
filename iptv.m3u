@@ -114,7 +114,7 @@ https://av.hellasnet.tv/rest2.live.hn/alf/playlist.m3u8
 #EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALITHIA.png?raw=true" group-title="📺 Β.Α ΑΙΓΑΙΟΥ",📺 ALITHIA TV 📢  (μετά τίς 17:00 )
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ALITHIA_TV.m3u8
 #EXTINF:-1  tvg-name="art" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APT_TV.png?raw=true" group-title="📺 ΑΤΤΙΚΗ",📺 APT TV 📢
-https://1a-1791.com/live/t5qc33px/slot-81/s0ry-ntng_1080p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-49/xn90-g9bm_1080p/chunklist.m3u8
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ART.png?raw=true" group-title="📺 ΔΥΤ. ΕΛΛΑΔΑ",📺 ART TV 📢🧒
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="📺 ΘΕΣΣΑΛΙΑ",📺 ASTRA TV 📢
@@ -133,7 +133,7 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1  tvg-name="CYPRUS LIVE" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CYPRUS_MEDIA.png?raw=true" group-title="📺 ΚΥΠΡΙΑΚΑ",📺 CYPRUS MEDIA 📢
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
-#EXTINF:-1  tvg-name="deltatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 DELTA TV 📢🧒
+#EXTINF:-1  tvg-name="deltatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 DELTA TV 📢📽️🧒
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DESTINATION_GREECE.png?raw=true" group-title="📺 WEB TV",📺 DESTINATION TV ✈️
 https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
