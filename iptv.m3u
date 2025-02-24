@@ -163,7 +163,7 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="📺 ΚΥΠΡΙΑΚΑ",📺 FAROS TV 2 📢🎬
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="📺 WEB TV",📺 FILOPOLI TV 📢⛪🎬
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="📺 WEB TV",📺 FILOPOLI TV 📢🎬⛪
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1  tvg-name="flashtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FLASH_TV.png?raw=true" group-title="📺 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",📺 FLASH TV 📢🎬🧒
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FLASH_TV.m3u8
@@ -247,7 +247,7 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/THESSALIA_TV.m3u8
 #EXTINF:-1  tvg-name="thrakinet" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAKI_NET.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 THRAKI NET 📢
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TINOS_TV.png?raw=true" group-title="📺 ΚΥΚΛΑΔΕΣ",📺 TINOS WEB TV 📢⛪🎬
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TINOS_TV.png?raw=true" group-title="📺 ΚΥΚΛΑΔΕΣ",📺 TINOS WEB TV 📢🎬⛪
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tinostv2025/playlist.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="📺 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",📺 TOP CHANNEL 📢
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/TOP_CHANNEL.m3u8
@@ -257,7 +257,7 @@ https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="📺 ΚΥΠΡΙΑΚΑ",📺 VERGINA TV ΚΥΠΡΟΥ 📢🎬🧒
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/vecy32423jk/playlist.m3u8
-#EXTINF:-1  tvg-name="Xplore" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XPLORE.png?raw=true" group-title="📺 WEB TV",📺 XPLORE ✈️📽️
+#EXTINF:-1  tvg-name="Xplore" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XPLORE.png?raw=true" group-title="📺 WEB TV",📺 XPLORE 📽️✈️
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XYLAGANI.png?raw=true" group-title="📺 WEB TV",📺 XYLAGANI TV 🎧
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XYLAGANI.m3u8
