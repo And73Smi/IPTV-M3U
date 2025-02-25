@@ -205,6 +205,8 @@ http://live.greektv.ca/hls1/greektv.m3u8
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTIOI_TV.png?raw=true" group-title="📺 WEB TV",📺 NOTIOI TV ✈️
 https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTOS_TV.png?raw=true" group-title="📺 ΚΡΗΤΗ",📺 NOTOS TV 🎧
+https://video.streams.ovh:8081/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NS_TV.png?raw=true" group-title="📺 WEB TV",📺 NS TV 📢
 https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMIKRON_TV.png?raw=true" group-title="📺 ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",📺 OMIKRON TV 🎧🎬✈️
@@ -343,8 +345,6 @@ https://til.pp.ua:3303/live/messiniatvlive.m3u8
 https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NASOS_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",📻 NASOS TV RADIO 🎧
 https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
-#EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOTOS_TV.png?raw=true" group-title="📻 ΚΡΗΤΗ",📻 NOTOS TV 🎧
-https://video.streams.ovh:8081/notos/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_70s.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",📻 NOW 70s 🎧
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_80s.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",📻 NOW 80s 🎧
