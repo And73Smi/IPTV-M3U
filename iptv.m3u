@@ -123,8 +123,6 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="📺 WEB TV",📺 BEST HYBRID 2 🏆
 http://cdn5.smart-tv-data.com/best/hybrid2/best/playlist.m3u8
-#EXTINF:-1  tvg-name="centertv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CENTER.png?raw=true" group-title="📺 ΑΝ.ΜΑΚ θΡΑΚΗ",📺 CENTER TV 📢🧒
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/CENTER_TV.m3u8
 #EXTINF:-1  tvg-name="citychannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CITY_CHANNEL.png?raw=true" group-title="📺 ΚΥΠΡΙΑΚΑ",📺 CITY CHANNEL 📢
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="📺 ΔΥΤ. ΕΛΛΑΔΑ",📺 CORFU CHANNEL 📢🎬🧒
