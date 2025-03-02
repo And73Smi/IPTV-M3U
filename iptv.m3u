@@ -325,7 +325,7 @@ https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 https://ertmmd.akamaized.net/ertradio/eurovision/default/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FOX_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",FOX RADIO GREECE 🎧🇬🇷
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOHTEIA_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",GOHTEIA RADIO 🇬🇷🎧
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOHTEIA_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",GOHTEIA RADIO 🎧🇬🇷
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/radiogohteia/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_TV_LONDON.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",GREEK TV LONDON RADIO 🎧🇬🇷
 https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
