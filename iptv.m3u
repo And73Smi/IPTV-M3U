@@ -31,7 +31,7 @@ http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT 📢🎬
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24 📢🎬🏆
+#EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24 📢📽️🎬🏆
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_Channel.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ONE CHANNEL 📢📽️🎬
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
@@ -68,7 +68,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="🎬 CINEMA",NETMAX TV 📽️🎬
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG 🎬🧒
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/EXTACY_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="🎬 CINEMA",LAMSI TV 🎬🧒
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="🎬 CINEMA",CINEMA CLASSICS 🎬
@@ -159,7 +159,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",FAROS TV 1 📢🎬
 https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",🇨🇾 FAROS TV 2 📢🎬
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAROS_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",FAROS TV 2 📢🎬
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FILOPOLI_TV.png?raw=true" group-title="🌐 WEB TV",FILOPOLI TV 📢🎬⛪
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
@@ -291,6 +291,8 @@ https://dev.aftermind.xyz/hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://📻ΜΟΥΣΙΚΑ📻>>>📢ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",AKTINA RADIO 🎧🎼
+https://5f06d0924ebcd.streamlock.net:444/live/aktinaradio/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE 🎧
 https://media2.streambrothers.com:19360/8106/8106.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DJ MUSIC 🎧
