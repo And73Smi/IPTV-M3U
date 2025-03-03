@@ -3,6 +3,8 @@
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="🎬 CINEMA",CINEMA TIME 🎬
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="🎬 CINEMA",CINEMA TIME 2 🎬
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV 🗣️🎬
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
 #EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",VERGINA TV ΚΥΠΡΟΥ 🗣️🎬🧒
@@ -35,8 +37,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/61
 https://new.cache-stream.workers.dev/stream/UCV9FxSrPVEX3vjBax04V_uA/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BIG_CHANNEL.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",BIG CHANNEL 🧒
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="🎬 CINEMA",CINEMA TIME 2 🎬
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="capitaltv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CAPITAL_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",CAPITAL TV CYPRUS
 http://213.7.193.54:4000/play/a009/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CHOICE.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",CHOICE 🎧
