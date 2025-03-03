@@ -63,8 +63,6 @@ https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
 https://🎬CINEMA🎬>>>🗣️ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GROOVY.png?raw=true" group-title="🎬 CINEMA",GROOVY 🎬
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="🎬 CINEMA",CINEMA TIME 🎬
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="🎬 CINEMA",NETMAX TV 📽️🎬
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG 🎬🧒
@@ -253,10 +251,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tinostv2025/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/TOP_CHANNEL.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",TRT TV 🗣️🎬
 https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
-#EXTINF:-1  tvg-name="berginatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",VERGINA TV 🗣️🎬
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
-#EXTINF:-1  tvg-name="berginacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VERGINA_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",VERGINA TV ΚΥΠΡΟΥ 🗣️🎬🧒
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/vecy32423jk/playlist.m3u8
 #EXTINF:-1  tvg-name="Xplore" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XPLORE.png?raw=true" group-title="🌐 WEB TV",XPLORE 📽️✈️
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XYLAGANI.png?raw=true" group-title="🌐 WEB TV",XYLAGANI TV 🎧
