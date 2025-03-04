@@ -1,6 +1,8 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RED.jpg?raw=true" group-title="",___________OFF LINE_____
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA 🗣️🎬🏆
+http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_white.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",MEGA NEWS 🗣️
 http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🗣️ ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 NEWS 🗣️
