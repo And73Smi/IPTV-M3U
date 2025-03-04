@@ -16,7 +16,7 @@ http://wow.anixa.tv/live/mega/playlist.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",OMEGA 🗣️🎬
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1  tvg-name="star" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",STAR 🗣️🎬🧒
-http://wow.anixa.tv/live/star/playlist.m3u8
+https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",STAR INTERNATIONAL 🗣️
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 🗣️🎬🏆
