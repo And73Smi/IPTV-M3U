@@ -41,12 +41,18 @@ http://213.7.193.54:4000/play/a009/index.m3u8
 https://live.streams.ovh:1936/paniktv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CHANNEL_9.png?raw=true" group-title="🌐 WEB TV",CHANNEL 9
 https://til.pp.ua:3391/live/channeln9live.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPOLO_D6.png?raw=true" group-title="🎬 CINEMA",DIPOLO TV 🎬
+https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DTP.png?raw=true" group-title="🌐 WEB TV",DTP 🗣️
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/DTP.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_SKG.png?raw=true" group-title="🎬 CINEMA",DELTA TV SKG 🎬
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIAMONT_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",DIAMOND TV
 https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_1.png?raw=true" group-title="✳️ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
+#EXTINF:-1  tvg-name="ertsports4" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_4.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",ERT SPORTS 4 ⚽️
+https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPSILON.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1  tvg-name="europeone" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EUROPE_1.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
@@ -101,6 +107,10 @@ https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_CYPRUS.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ONE CYPRUS
 http://213.7.193.54:4000/play/a008/index.m3u8
+#EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",PRO NEWS 🗣️
+https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PISTI TV ⛪
+https://dev.aftermind.xyz/hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="patratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PATRA_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
 https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PEMTOUSIA_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PEMPTOUSIA TV ⛪
@@ -135,5 +145,7 @@ https://til.pp.ua:3613/live/volcanotvslive.m3u8
 https://glb.bozztv.com/glb/ssh101/zeys/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZOUZOUNIA.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",ZOUZOUNIA
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WORLD_OF_GOD.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",WORD OF GOD TV ⛪
+https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APOKALIPTIKA_NEWS.png?raw=true" group-title="🌐 WEB TV",ΑΠΟΚΑΛΥΠΤΙΚΑ NEWS
 https://new.cache-stream.workers.dev/stream/UC87VDJvN0E-79sxrOUigEwg/live.m3u8
