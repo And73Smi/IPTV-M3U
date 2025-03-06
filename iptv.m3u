@@ -16,7 +16,7 @@ http://wow.anixa.tv/live/mega/playlist.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",OMEGA 🗣️🎬
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1  tvg-name="star" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",STAR 🗣️🎬🧒
-https://livestar.siliconweb.com/media/star4/star4.m3u8
+http://wow.anixa.tv/live/star/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",STAR INTERNATIONAL 🗣️
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 🗣️🎬🏆
@@ -24,11 +24,11 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_CYPRUS.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΥ 🗣️🎬
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA 🗣️🎬
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+http://wow.anixa.tv/live/alpha/playlist.m3u8
 #EXTINF:-1  tvg-name="alphacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_CYPRUS.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ALPHA ΚΥΠΡΟΥ 🗣️🎬
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",SKAI 🗣️🎬🏆
-https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
+http://wow.anixa.tv/live/skai/playlist.m3u8
 #EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT 🗣️🎬
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24 🗣️📽️🎬🏆
