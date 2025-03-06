@@ -68,7 +68,7 @@ https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXPLORING_GREECE.png?raw=true" group-title="🌐 WEB TV",EXPLORING GREECE
 https://new.cache-stream.workers.dev/stream/UCa5XUDVZx1FWJ9jFu0GL4hw/live.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG 🎬🧒
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/EXTACY_TV.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV_CYPRUS.png?raw=true" group-title="🎬 CINEMA",EXTACY TV CYPRUS 🎬🧒
 https://fr.crystalweb.net:1936/extacytvnews/extacytvnews/playlist.m3u8
 #EXTINF:-1  tvg-name="formediatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FORMEDIA_TV.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",FORMEDIA TV
