@@ -67,8 +67,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME.png?raw=true" group-title="🎬 CINEMA",CINEMA TIME 🎬
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_TIME_2.png?raw=true" group-title="🎬 CINEMA",CINEMA TIME 2 🎬
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG 🎬🧒
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="🎬 CINEMA",LAMSI TV 🎬📽️🧒
