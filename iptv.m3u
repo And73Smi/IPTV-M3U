@@ -17,7 +17,7 @@ http://wow.anixa.tv/live/mega/playlist.m3u8
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1  tvg-name="star" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",STAR 🗣️🎬🧒
 http://wow.anixa.tv/live/star/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",STAR INTERNATIONAL 🗣️
+#EXTINF:-1  tvg-name="starint" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",STAR INTERNATIONAL 🗣️
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 🗣️🎬🏆
 https://wow.anixa.tv/live/ant1/chunklist_.m3u8
@@ -39,7 +39,7 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 SKG 🗣️📽️🎬🧒
 https://live.fm100.gr/hls/tv100/index.m3u8
-#EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR K.Ε 🗣️🎬🧒
+#EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR K.Ε 🗣️🎧🎬🧒
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="🐂 ΚΡΗΤΗ",KRHTH TV 🗣️📽️🎬🧒
 https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
