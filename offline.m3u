@@ -23,22 +23,22 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ART TV 🗣️🧒
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
+#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG 🎬🧒
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/EXTACY_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANEMOS_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",ANEMOS RADIO TV 🎧
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ANEMOS_RADIO_TV.m3u8
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ON.TV.png?raw=true" group-title="🌐 WEB TV",ON TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ON_TV.m3u8
 #EXTINF:-1  tvg-name="super" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SUPER_STAR_FM.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",SUPERSTAR TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/SUPERSTAR_TV.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="🎬 CINEMA",34100 🎬
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/34100_TV.m3u8
 #EXTINF:-1  tvg-name="centertv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CENTER.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",CENTER TV 📢🧒
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/CENTER_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DTP.png?raw=true" group-title="🌐 WEB TV",DTP 🗣️
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/DTP.m3u8
 #EXTINF:-1  tvg-name="thessaliatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/THESALIA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",THESSALIA TV 🗣️🎬🧒
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/THESSALIA_TV.m3u8
-#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTASY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG 🎬🧒
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/EXTACY_TV.m3u8
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="🎬 CINEMA",34100 🎬
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/34100_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/10_CHANNEL.png?raw=true" group-title="🌐 WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/24SERVER.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",24 SERVER
