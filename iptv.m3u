@@ -47,7 +47,7 @@ https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1  tvg-name="bluesky" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLUE_SKY.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",BLUE SKY 🗣️🎬
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1  tvg-name="ionian" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL 🗣️🎬
+#EXTINF:-1  tvg-name="ionian" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL 🗣️🎧🎬🏆
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV 🗣️🎬🧒
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
@@ -93,7 +93,7 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ELLADA_WEB_TV.png?raw=true" group-title="🌐 WEB TV",ELLADA  TV 🎬
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA_TV.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",XALASTRA TV 🗣️🎧🎬
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA(2).png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",XALASTRA TV 🗣️🎧🎬
 https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://📺ΑΛΦΑΒΗΤΙΚΑ📺>>>🗣️ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
