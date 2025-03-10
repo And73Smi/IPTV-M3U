@@ -121,6 +121,8 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌐 WEB TV",BEST HYBRID 2 🏆
 http://cdn5.smart-tv-data.com/best/hybrid2/best/playlist.m3u8
+#EXTINF:-1  tvg-name="centertv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CENTER.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",CENTER TV 📢🧒
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/CENTER_TV.m3u8
 #EXTINF:-1  tvg-name="citychannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CITY_CHANNEL.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",CITY CHANNEL 🗣️
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="corfutv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CORFU.png?raw=true" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",CORFU CHANNEL 🗣️🎬🧒
@@ -243,7 +245,7 @@ http://th.cloudskep.com/th/thess_hd/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TINOS_TV.png?raw=true" group-title="🌋 ΚΥΚΛΑΔΕΣ",TINOS WEB TV 🗣️🎬⛪
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tinostv2025/playlist.m3u8
-#EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="✳️ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL 🗣️
+#EXTINF:-1  tvg-name="topchannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP.png?raw=true" group-title="✳️ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL 🗣️📽️
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/TOP_CHANNEL.m3u8
 #EXTINF:-1  tvg-name="trt" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRT.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",TRT TV 🗣️🎬
 https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8
