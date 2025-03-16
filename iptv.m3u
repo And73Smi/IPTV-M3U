@@ -99,7 +99,7 @@ https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
 https://📺ΑΛΦΑΒΗΤΙΚΑ📺>>>🗣️ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
 #EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",ACHELWOS TV 🗣️🧒
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEGEAN_LIVE.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AEGEAN live 🗣️
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEGEAN_LIVE.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AEGEAN live  🗣️
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="🐬 Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV 🗣️🎧🎬🧒
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
@@ -451,25 +451,25 @@ http://xtv.ooo:8080/52882216/581881255/329247
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://🌍ΔΙΕΘΝΗ🌍>>>🗣️ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
-#EXTINF:-1  tvg-name="Al Jazeera" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AL_JAZEERA.png?raw=true" group-title="🌍 WORLD NEWS",AL JAZEERA ENGLISH 🌍
+#EXTINF:-1  tvg-name="Al Jazeera" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AL_JAZEERA.png?raw=true" group-title="🌍 WORLD NEWS",AL JAZEERA ENGLISH 🗣️🌍
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1  tvg-name="Arirang" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARIRANG.png?raw=true" group-title="🌍 WORLD NEWS",ARIRANG 🌍
+#EXTINF:-1  tvg-name="Arirang" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARIRANG.png?raw=true" group-title="🌍 WORLD NEWS",ARIRANG 🗣️🌍
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1  tvg-name="BBC News" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BBC_WORLD.png?raw=true" group-title="🌍 WORLD NEWS",BBC WORLD 🌍
+#EXTINF:-1  tvg-name="BBC News" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BBC_WORLD.png?raw=true" group-title="🌍 WORLD NEWS",BBC WORLD 🗣️🌍
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1  tvg-name="Bloomberg" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLOOMBERG.png?raw=true" group-title="🌍 WORLD NEWS",BLOOMBERG 🌍
+#EXTINF:-1  tvg-name="Bloomberg" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BLOOMBERG.png?raw=true" group-title="🌍 WORLD NEWS",BLOOMBERG 🗣️🌍
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CGTN.png?raw=true" group-title="🌍 WORLD NEWS",CGTN ENGLISH 🌍
+#EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CGTN.png?raw=true" group-title="🌍 WORLD NEWS",CGTN ENGLISH 🗣️🌍
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CNN.png?raw=true" group-title="🌍 WORLD NEWS",CNN INTERNATIONAL  🌍
+#EXTINF:-1  tvg-name="cgtntv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CNN.png?raw=true" group-title="🌍 WORLD NEWS",CNN INTERNATIONAL 🗣️🌍
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DW.png?raw=true" group-title="🌍 WORLD NEWS",DW ENGLISH 🌍
+#EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DW.png?raw=true" group-title="🌍 WORLD NEWS",DW ENGLISH 🗣️🌍
 https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FOX_NEWS.png?raw=true" group-title="🌍 WORLD NEWS",FOX NEWS 🌍
+#EXTINF:-1  tvg-name="DW" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FOX_NEWS.png?raw=true" group-title="🌍 WORLD NEWS",FOX NEWS 🗣️🌍
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="RT" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RT.png?raw=true" group-title="🌍 WORLD NEWS",RUSSIA TODAY NEWS 🌍
+#EXTINF:-1  tvg-name="RT" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RT.png?raw=true" group-title="🌍 WORLD NEWS",RUSSIA TODAY NEWS 🗣️🌍
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
-#EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE 🌍
+#EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE 🗣️🌍
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://💎LIFESTYLE💎>>>🗣️ΕΙΔΗΣΕΙΣ-🎧ΜΟΥΣΙΚΗ-📽️ΝΤΟΚΥΜΑΝΤΕΡ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-💰ΟΙΚΟΝΟΜΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡INTERNATIONAL-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS✈️🍽️💥👄👩‍❤️‍💋‍👨🔞💎👗
