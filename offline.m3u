@@ -119,8 +119,6 @@ https://new.cache-stream.workers.dev/stream/UCtlth0w7_mYqpHPViMhQ99Q/live.m3u8
 https://ythls.armelin.one/channel/UClqy_R7HXQbiwb3mM_0PHMg.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ONE_CYPRUS.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ONE CYPRUS
 http://213.7.193.54:4000/play/a008/index.m3u8
-#EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",PRO NEWS 🗣️
-https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="pistitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PISTI_TV.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",PISTI TV ⛪
 https://dev.aftermind.xyz/hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="patratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PATRA_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",PATRA TV
