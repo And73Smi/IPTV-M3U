@@ -8,9 +8,9 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1  tvg-name="ant1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 🗣️🎬🏆
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA 🗣️🎬
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA 🗣️🎬
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA 🗣️🎬
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA 🗣️🎬
 https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",SKAI 🗣️🎬🏆
