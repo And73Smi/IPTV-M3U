@@ -38,7 +38,7 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 SKG
-https://live.fm100.gr/hls/tv100/index.m3u8
+https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR K.Ε
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="🐂 ΚΡΗΤΗ",KRHTH TV
@@ -105,6 +105,8 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="🐬 Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATHENS_GEO.png?raw=true" group-title="🌐 Β.Α ΑΙΓΑΙΟΥ",ATHENS GEO
+https://til.pp.ua:3813/stream/play.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALERT_TV.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ALERT
@@ -176,7 +178,7 @@ http://alex9954094.ddns.net:2052/test/test/5
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_USA_TV.png?raw=true" group-title="🌐 WEB TV",GREEK USA TV
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GREEK_VOICE.png?raw=true" group-title="🌐 WEB TV",GREEK VOICE
-https://ssh101.bozztv.com/ssh101/greek/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/greektv/chunks.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HELLENIC_TV.png?raw=true" group-title="🌐 WEB TV",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1  tvg-name="hightv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HIGH.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",HIGH TV
