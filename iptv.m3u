@@ -105,8 +105,6 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="🐬 Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATHENS_GEO.png?raw=true" group-title="🌐 Β.Α ΑΙΓΑΙΟΥ",ATHENS GEO
-https://til.pp.ua:3813/stream/play.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="alert" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALERT_TV.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ALERT
@@ -121,6 +119,8 @@ https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-49/xn90-g9bm_1080p/chunklist.m3
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ASTRA TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_TV.m3u8
+#EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATHENS_GEO.png?raw=true" group-title="🌐 WEB TV",ATHENS GEO
+https://til.pp.ua:3813/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌐 WEB TV",BEST HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌐 WEB TV",BEST HYBRID 2
