@@ -31,6 +31,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ART TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
+#EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/34100.png?raw=true" group-title="🎬 CINEMA",34100
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/34100_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANEMOS_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",ANEMOS RADIO TV
