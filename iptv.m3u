@@ -117,7 +117,7 @@ https://1a-1791.com/live/d5a20b4d/slot-103/mr10-y2g0/chunklist_DVR.m3u8
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ASTRA TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_TV.m3u8
-#EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATHENS_GEO.png?raw=true" group-title="🌐 WEB TV",ATHENS GEO
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATHENS_GEO.png?raw=true" group-title="🌐 WEB TV",ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌐 WEB TV",BEST HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
@@ -473,43 +473,3 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-https://TV📺ΠΟΙΟ ΣΥΧΝΑ📺TV>>>🗣️ΕΙΔΗΣΕΙΣ-📻ΜΟΥΣΙΚΗ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡ΔΙΕΘΝΗ-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4K_TRAVEL_TV.png?raw=true" group-title="💎 LIFESTYLE",4K TRAVEL TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TRAVELXP.png?raw=true" group-title="💎 LIFESTYLE",4K TRAVEL XP
-https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",FASHION TV 1
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",FASHION TV 2
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",FASHION TV 3
-https://fash1043.cloudycdn.services/slive/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",FASHION TV 4
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FASHION_TV.png?raw=true" group-title="💎 LIFESTYLE",FASHION TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="JustVogueTv.de" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/JUST_VOGUE.png?raw=true" group-title="💎 LIFESTYLE",JUST VOGUE TV
-https://tivi191.ozelip.com:3873/stream/play.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-https://TV📺ΠΟΙΟ ΣΥΧΝΑ📺TV>>>🗣️ΕΙΔΗΣΕΙΣ-📻ΜΟΥΣΙΚΗ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡ΔΙΕΘΝΗ-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/5_Minute_Crafts.png?raw=true" group-title="😂 COMENTY",5 Minute Crafts
-https://rakutenaa-soul-5mincraftenglish-rakuten-du9p7.amagi.tv/playlist/rakutenAA-soul-5mincraftenglish-rakuten/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AFV.png?raw=true" group-title="😂 COMENTY",AFV Family
-https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FAIL_ARMY.png?raw=true" group-title="😂 COMENTY",FAILARMY
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAILARMY.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GAGS.png?raw=true" group-title="😂 COMENTY",JAST
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TAKESHIS_CASTLE.png?raw=true" group-title="😂 COMENTY",Takeshi's Castle
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213441-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=621a6d64-aa90-4bb5-9cb4-9d6dd56346f0
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-https://TV📺ΠΟΙΟ ΣΥΧΝΑ📺TV>>>🗣️ΕΙΔΗΣΕΙΣ-📻ΜΟΥΣΙΚΗ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡ΔΙΕΘΝΗ-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LOVE_NATURE_TV.png?raw=true" group-title="🌳 NATURE & ANIMALS",LOVE NATURE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NATURA.png?raw=true" group-title="🌳 NATURE & ANIMALS",NATURE
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/NATURE.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANIMALS.png?raw=true" group-title="🌳 NATURE & ANIMALS",Xtrema Animal
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
-https://TV📺ΠΟΙΟ ΣΥΧΝΑ📺TV>>>🗣️ΕΙΔΗΣΕΙΣ-📻ΜΟΥΣΙΚΗ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡ΔΙΕΘΝΗ-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
