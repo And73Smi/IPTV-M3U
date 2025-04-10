@@ -29,7 +29,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🗣️ ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 NEWS
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
-#EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ART TV
+#EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ASTA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BABY_FIRST.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",BABY FIRST TV
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/dfbeb5e6-eea1-4478-bffa-dc6e4837f851/0.m3u8
@@ -49,14 +49,16 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_SKG.png?raw=true" group-title="🎬 CINEMA",DELTA TV SKG
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIAMONT_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",DIAMOND TV
-https://kali1.everestcast.com:3061/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="diktyo1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_1.png?raw=true" group-title="✳️ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",DIKTYO 1 (only news)
 https://new.cache-stream.workers.dev/stream/UC5R_BSBgtdfR-lv-LKDbvqw/live.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPOLO_D6.png?raw=true" group-title="🎬 CINEMA",DIPOLO TV
 https://channel.streams.ovh:8081/dipolotv/playlist.m3u8
 #EXTINF:-1  tvg-name="epsilon" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPSILON.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",EPSILON TV
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
+#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_News_2.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",ERT NEWS 2
+http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
+#EXTINF:-1  tvg-name="ertnews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_News_3.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",ERT NEWS 3
+http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 #EXTINF:-1  tvg-name="ertsports4" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_4.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",ERT SPORTS 4
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1  tvg-name="europeone" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EUROPE_1.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
@@ -83,8 +85,6 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1  tvg-name="madtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAD_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",MAD TV
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
-#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAGIC_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",MAGIC TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA-Play.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
