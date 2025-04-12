@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ALITHI
 #EXTINF:-1  tvg-name="art" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/APT_TV.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",APT TV
 https://1a-1791.com/live/d5a20b4d/slot-103/mr10-y2g0/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ART.png?raw=true" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",ART TV
-https://rtmp.win:3711/live/arttvgr70live.m3u8
+https://rtmp.win:3696/live/arttvgrlive.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ASTRA TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_TV.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATHENS_GEO.png?raw=true" group-title="🌐 WEB TV",ATHENS GEO
@@ -234,7 +234,7 @@ https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",SIGMA TV
-http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1  tvg-name="starbe" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_B_E.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",STAR Β.Ε
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/STAR_BOREIOU_ELLADAS.m3u8
 #EXTINF:-1  tvg-name="starttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/START.png?raw=true" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",START TV
