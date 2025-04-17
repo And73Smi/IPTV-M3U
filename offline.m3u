@@ -24,9 +24,7 @@ https://nasos.24hosting.gr:3580/stream/play.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AIGAIO.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1  tvg-name="alpha" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA
-https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" group-title="🗣️ ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 NEWS
 https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
 #EXTINF:-1  tvg-name="astratv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ASTRA.png?raw=true" group-title="🌿 ΘΕΣΣΑΛΙΑ",ASTA TV
