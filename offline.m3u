@@ -129,8 +129,6 @@ http://94.130.21.210:8888/RIK1/manifest.m3u8
 http://94.130.21.210:8888/RIK2/manifest.m3u8
 #EXTINF:-1  tvg-name="risetv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RISE_TV.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",RISE TV
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
-#EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",SKAI HYBRID
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI_HYBRID.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",SKAI HYBRID
