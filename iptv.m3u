@@ -1,7 +1,7 @@
 ﻿#EXTM3U x-tvg-url="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://TV📺ΠΟΙΟ ΣΥΧΝΑ📺TV>>>🗣️ΕΙΔΗΣΕΙΣ-📻ΜΟΥΣΙΚΗ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡ΔΙΕΘΝΗ-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
-#EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 1
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 1
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1  tvg-name="ert2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 2
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
