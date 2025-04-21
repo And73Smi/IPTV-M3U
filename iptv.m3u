@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
 https://TV📺ΠΟΙΟ ΣΥΧΝΑ📺TV>>>🗣️ΕΙΔΗΣΕΙΣ-📻ΜΟΥΣΙΚΗ-🎬ΤΑΙΝΙΕΣ-🏆ΑΘΛΗΤΙΚΑ-🧒ΠΑΙΔΙΚΑ-⛪ΕΚΚΛΗΣΙΑΣΤΙΚΑ-📡ΔΙΕΘΝΗ-🌍WORLD NEWS-💎LIFESTYLE-😂COMENTY-🌳NATURE & ANIMALS
 #EXTINF:-1  tvg-name="ert1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 1
@@ -69,7 +69,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="🎬 CINEMA",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
-#EXTINF:-1  tvg-name="extacytv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG
+#EXTINF:-1  tvg-name="extacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV SKG
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV_GREEKS.png?raw=true" group-title="🎬 CINEMA",EXTACY TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
