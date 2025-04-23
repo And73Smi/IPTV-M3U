@@ -225,7 +225,7 @@ https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_SAT.png?raw=true" group-title="📡 ΔΙΕΘΝΗ",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_1.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK HD
+#EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_HD.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK HD
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1  tvg-name="rik1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_1.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
