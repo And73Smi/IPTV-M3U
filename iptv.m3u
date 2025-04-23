@@ -227,9 +227,9 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="rikhd" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_HD.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK HD
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
-#EXTINF:-1  tvg-name="rik1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_1.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK 1 CYPRUS
+#EXTINF:-1  tvg-name="rik1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_1.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK 1 
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1  tvg-name="rik2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_2.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK 2 CYPRUS
+#EXTINF:-1  tvg-name="rik2" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RIK_2.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK 2 
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1  tvg-name="tvrodopi" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RODOPI_TV.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",RODOPI TV
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
