@@ -83,6 +83,8 @@ http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 http://abcnew.site:8880/29us10233n01/4etfr4w23/31192
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_NEWS.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",MEGA NEWS
+http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA-Play.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
 http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MGR_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",MGR TV
