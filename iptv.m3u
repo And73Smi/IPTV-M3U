@@ -381,6 +381,8 @@ https://webtv.topwebhost.gr:3565/stream/play.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XTVSION.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",XTVSION
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XTVISION.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XTVSION.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",XTVSION 2
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XTVISION_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA_SPORT.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",ALFA SPORTS ΚΥΠΡΟΥ
 https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",ARGOLIDA SPORT
