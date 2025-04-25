@@ -67,7 +67,7 @@ https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1  tvg-name="extacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV CINEMA
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_CINEMA.png?raw=true" group-title="🎬 CINEMA",EXTACY TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV_GREEKS.png?raw=true" group-title="🎬 CINEMA",EXTACY TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
