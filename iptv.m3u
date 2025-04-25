@@ -67,12 +67,12 @@ https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1  tvg-name="extacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1  tvg-name="extacy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV CINEMA
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV.png?raw=true" group-title="🎬 CINEMA",EXTACY TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_TV_GREEKS.png?raw=true" group-title="🎬 CINEMA",EXTACY TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOSAIC.png?raw=true" group-title="🎬 CINEMA",MOSAIC TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_KIDS.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY KIDS
+https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="🎬 CINEMA",LAMSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="🎬 CINEMA",CINEMA CLASSICS
@@ -439,8 +439,6 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ducktv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DUK_TV.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_KIDS.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY KIDS
-https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOGOPLAY.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",GOGO PLAY TV
 https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOONBUG_KIDS_TV.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
