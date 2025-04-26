@@ -29,7 +29,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",SKAI
 https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
-#EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT
+#EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND_wite.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
@@ -481,4 +481,3 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-
