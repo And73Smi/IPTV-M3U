@@ -477,5 +477,7 @@ https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RT.png?raw=true" group-title="🌍 WORLD NEWS",RUSSIA TODAY NEWS
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+#EXTINF:-1  tvg-name="Sky News" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKY_NEWS.png?raw=true" group-title="🌍 WORLD NEWS",SKY NEWS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
