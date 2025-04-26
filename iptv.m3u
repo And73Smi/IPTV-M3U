@@ -29,7 +29,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1  tvg-name="skai" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",SKAI
 https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
-#EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND_wite.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT
+#EXTINF:-1  tvg-name="open" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACTION_24.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
