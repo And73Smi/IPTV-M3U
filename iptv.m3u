@@ -221,7 +221,7 @@ http://pontoswebtv.homeftp.net/live/free/free/1.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1  tvg-name="plp" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLP.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",PLP
 https://av.hellasnet.tv/rest2.live.hn/plp/playlist.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",PLUTON TV ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PLUTON_TV.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",PLUTON TRAVEL & TOURS
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/PRO_NEWS.png?raw=true" group-title="🗣️ ΕΙΔΗΣΕΙΣ",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
