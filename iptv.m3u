@@ -69,10 +69,10 @@ https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTACY_KIDS.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY TV KIDS
 https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
-#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="🎬 CINEMA",NETMAX TV
-https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ZEYS.png?raw=true" group-title="🎬 CINEMA",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
+#EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NETMAX.png?raw=true" group-title="🎬 CINEMA",NETMAX TV
+https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LAMSI.png?raw=true" group-title="🎬 CINEMA",LAMSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CINEMA_CLASSICS.png?raw=true" group-title="🎬 CINEMA",CINEMA CLASSICS
