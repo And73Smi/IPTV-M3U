@@ -345,6 +345,8 @@ https://pro.free.hr:3464/live/l69plive.m3u8
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAGIC_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",MAGIC TV 🇬🇷
 https://itv.streams.ovh:8081/demoflu/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEDIA_ONE.png?raw=true" group-title="ΜΟΥΣΙΚΗ",MEDIA ONE 🇬🇷
+https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MESSINIA_WEB_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",MESSINIA WEB TV 🇬🇷
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MUSIC_WEB_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",MUSIC WEB TV 🇬🇷
@@ -373,6 +375,8 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 #EXTINF:-1  tvg-name="Stingray CMusic" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STINGRAY_CLASSICA.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",STINGRAY CLASSICA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240c3f9189ce00087dd17e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799157-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0939c7d-0d09-49b1-a6ca-f5d30195d075
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTVM3U/blob/main/logo/SUPER_STAR_FM.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",SUPERSTAR TV 🇬🇷
+https://eu1.streams.gr:8081/superstartv/index.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/THLEMOUSIKI.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",TELEMOUSIKI 🇬🇷
 http://65.108.62.57:8080/live2/greekmusic.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TOP_WEB_HOST_TV.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",TOP WEB HOST TV 🇬🇷
