@@ -147,6 +147,8 @@ https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1  tvg-name="enachannel" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ENA_channel.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",ENA CHANNEL
 https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8
+#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",ELEKTRA TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1  tvg-name="tileepiloges" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPILOGES_TV.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",EPILOGES TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1  tvg-name="epirustv1" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EPIRUS_TV.png?raw=true" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",EPIRUS TV1
@@ -179,8 +181,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/greektv/chunks.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1  tvg-name="hightv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HIGH.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1  tvg-name="hlektra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/HLEKTRA_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",ILEKTRA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1  tvg-name="Δεν έχει" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IME_WEB_TV.png?raw=true" group-title="🌐 WEB TV",IME TV
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-name="iridatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IRIDA.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",IRIDA TV
@@ -481,4 +481,3 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-
