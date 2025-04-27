@@ -37,7 +37,7 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
 #EXTINF:-1  tvg-name="atticatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ATTICA.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 SKG
+#EXTINF:-1  tvg-name="tv100" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV_100.png?raw=true" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100 
 https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
@@ -487,4 +487,3 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1  tvg-name="tv5" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/TV5_MONDE.png?raw=true" group-title="🌍 WORLD NEWS",TV5 MONDE EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-
