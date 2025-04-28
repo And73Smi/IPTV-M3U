@@ -131,7 +131,7 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1  tvg-name="creta" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CRETA_TV.png?raw=true" group-title="🐂 ΚΡΗΤΗ",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1  tvg-name="CYPRUS LIVE" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CYPRUS_MEDIA.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",CYPRUS MEDIA
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CYPRUS_MEDIA.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",CYPRUS MEDIA
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1  tvg-name="deltatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
@@ -445,8 +445,8 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ducktv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DUK_TV.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GOGOPLAY.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",GOGO PLAY TV
-https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",
+
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOONBUG_KIDS_TV.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MR_BEEN.png?raw=true" group-title="🧒 ΠΑΙΔΙΚΑ",MR BEAN ANIMATED
