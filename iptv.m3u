@@ -363,7 +363,7 @@ https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_80s.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_90s.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",NOW 90s
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_ROCK.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NRG91.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",NRG91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -405,7 +405,7 @@ https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/playlist.m3u8
 #EXTINF:-1  tvg-name="ertsports3" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_SPORTS_3.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",ERT SPORTS 3
 https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
-#EXTINF:-1  tvg-name="Extreme Sports" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTREME_SPORT.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/EXTREME_SPORT.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",EXTREME SPORTS
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/FIFA.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",FIFA
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
@@ -415,7 +415,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://is.gd/rVSZEu?US600011Q2.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPAP.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",HORSE RACING
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
-#EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",MOTORVISION TV
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOR_VISION.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MOTOSPORT_TV.png?raw=true" group-title="🏆 ΑΘΛΗΤΙΚΑ",MOTOSPORT
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
