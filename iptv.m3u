@@ -43,7 +43,7 @@ http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_K_E.png?raw=true" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
-#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="🐂 ΚΡΗΤΗ",KRHTH
+#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KRHTH_TV.png?raw=true" group-title="🐂 ΚΡΗΤΗ",KRHTH TV
 https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
 #EXTINF:-1  tvg-name="kontra" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KONTRA_Channel.png?raw=true" group-title="🦉 ΑΤΤΙΚΗ",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
@@ -51,7 +51,7 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1  tvg-name="ionian" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/IONIAN.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST
+#EXTINF:-1  tvg-name="besttv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BEST_TV.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/LEPANTO.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
@@ -139,7 +139,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1  tvg-name="deltatv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",DELTA
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DESTINATION_GREECE.png?raw=true" group-title="🌐 WEB TV",DESTINATION 
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DESTINATION_GREECE.png?raw=true" group-title="🌐 WEB TV",DESTINATION
 https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/playlist.m3u8
 #EXTINF:-1  tvg-name="diktyotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIKTYO_TV.png?raw=true" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",DIKTYO
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
@@ -243,7 +243,7 @@ http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="rtpkentro" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/RTP.png?raw=true" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",RTP KENTRO
 https://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
-#EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAMIAKI
+#EXTINF:-1  tvg-name="samiakitv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SAMIAKI_TV.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",SAT
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1  tvg-name="sigma" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SIGMA.png?raw=true" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",SIGMA
 https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
