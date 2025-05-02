@@ -99,9 +99,9 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XALASTRA(2).png?raw=true" group-title="🌐 WEB TV",XALASTRA TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XALASTRA.m3u8
-#EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ACHELOOS_TV.png?raw=true" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",ACHELWOS TV
+#EXTINF:-1  tvg-name="axelwostv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ACHELOOS_TV.png" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",ACHELWOS TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEGEAN_LIVE.png?raw=true" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AEGEAN live
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/AEGEAN_LIVE.png" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AEGEAN live
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:-1  tvg-name="aeolos" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AEOLOS_TV.png?raw=true" group-title="🐬 Β.Α ΑΙΓΑΙΟΥ",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
@@ -285,7 +285,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 #EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/VOULI.CY.png?raw=true" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1  tvg-name="4e" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/4E.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/4E.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
 #EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DIPSO.png?raw=true" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
