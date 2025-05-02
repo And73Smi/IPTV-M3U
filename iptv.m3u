@@ -287,15 +287,15 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  tvg-name="4e" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/4E.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
-#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/VOULI_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
+#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/DIPSO.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/VOULI_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ECCLESIA_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/VOULI_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",FAROS TV CHURCH
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/FAROS_EKKLHSIA.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",FAROS TV CHURCH
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAROS_TV_EKKLISIA.m3u8
-#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/VOULI_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
+#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/LYXNOS.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/VOULI_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ORTHODOXI TV
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ORTHODOX_TV.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ORTHODOXI TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ORTHODOXIA_TV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/AKTINA_RADIO.png?raw=true" group-title="📻 ΜΟΥΣΙΚΗ",AKTINA RADIO 🇬🇷
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/AKTINA_RADIO.m3u8
