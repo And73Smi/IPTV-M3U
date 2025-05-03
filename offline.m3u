@@ -15,8 +15,6 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/DTP.m3
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/EXTACY_TV.m3u8
 #EXTINF:-1  tvg-name="notostv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ON.TV.png" group-title="🌐 WEB TV",ON TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ON_TV.m3u8
-#EXTINF:-1  tvg-name="super" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/SUPER_STAR_FM.png" group-title="📻 ΜΟΥΣΙΚΗ",SUPERSTAR TV
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/SUPERSTAR_TV.m3u8
 #EXTINF:-1  tvg-name="topchannel" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/TOP.png" group-title="✳️ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",TOP CHANNEL
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/TOP_CHANNEL.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ZEYS.png" group-title="🎬 CINEMA",ZEYS TV
