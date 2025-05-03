@@ -347,6 +347,8 @@ https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/LEVEL.png" group-title="📻 ΜΟΥΣΙΚΗ",LEVEL
 https://pro.free.hr:3464/live/l69plive.m3u8
+#EXTINF:-1  tvg-name="MAD GreekZ" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MAD_GREEKz.png" group-title="📻 ΜΟΥΣΙΚΗ",MAD GREEKz 🇬🇷
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1  tvg-name="madtv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MAD_WORLD_RADIO.png" group-title="📻 ΜΟΥΣΙΚΗ",MAD WORLD 🇬🇷
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MAGIC_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",MAGIC TV 🇬🇷
