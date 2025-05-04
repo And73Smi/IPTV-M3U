@@ -5,6 +5,8 @@ https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MEGA-Play.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
 http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MEGA-Play.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
+https://streamcdnh16-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/chunklist_b3823616.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/34100.png" group-title="🎬 CINEMA",34100
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/34100_TV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ANEMOS_RADIO.png" group-title="📻 ΜΟΥΣΙΚΗ",ANEMOS RADIO TV
