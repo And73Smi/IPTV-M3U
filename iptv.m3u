@@ -463,7 +463,7 @@ https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/RETRO_CRUSH.png" group-title="🧒 ΠΑΙΔΙΚΑ",RETRO CRUSH
 https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-89fjmge3aq1l5-ssai-prd/playlist.m3u8
-#EXTINF:-1  tvg-name="smile tv cy" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/SMILE_TV.png" group-title="🧒 ΠΑΙΔΙΚΑ",SMILE TV
+#EXTINF:-1  tvg-name="smiletvcy" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/SMILE_TV.png" group-title="🧒 ΠΑΙΔΙΚΑ",SMILE TV
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/TOM&JERRY.png" group-title="🧒 ΠΑΙΔΙΚΑ",Tom & Jerry
 http://xtv.ooo:8080/52882216/581881255/329247
