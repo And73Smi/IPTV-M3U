@@ -285,7 +285,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 #EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://i.imgur.com/mPzjroF.png" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1  tvg-name="4e" tvg-logo="https://i.imgur.com/undefined.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://i.imgur.com/8MU5cIg.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
 #EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://i.imgur.com/iJCaGNa.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
