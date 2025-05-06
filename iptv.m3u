@@ -15,13 +15,13 @@ https://www.megatv.com/live
 https://streamcdnh13-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b1728000.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://i.imgur.com/Ns6iaHr.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",OMEGA
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1  tvg-name="star" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/STAR.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",STAR
+#EXTINF:-1  tvg-name="star" tvg-logo="https://i.imgur.com/IFFVGwN.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
-#EXTINF:-1  tvg-name="starint" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/STAR_Channel.png" group-title="📡 ΔΙΕΘΝΗ",STAR INTERNATIONAL
+#EXTINF:-1  tvg-name="starint" tvg-logo="https://i.imgur.com/W0WQVUn.png" group-title="📡 ΔΙΕΘΝΗ",STAR INTERNATIONAL
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1  tvg-name="ant1" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ANT1_wite.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ANT1
+#EXTINF:-1  tvg-name="ant1" tvg-logo="https://i.imgur.com/rsB8ysD.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ANT1_CYPRUS.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://i.imgur.com/VpTSHga.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΥ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ALPHA.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
