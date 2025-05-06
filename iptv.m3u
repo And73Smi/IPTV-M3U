@@ -23,15 +23,15 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1  tvg-name="ant1cy" tvg-logo="https://i.imgur.com/VpTSHga.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ANT1 ΚΥΠΡΟΥ
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1  tvg-name="alpha" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ALPHA.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA
+#EXTINF:-1  tvg-name="alpha" tvg-logo="https://i.imgur.com/6pQ55NC.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
-#EXTINF:-1  tvg-name="alphacy" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ALPHA_CYPRUS.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ALPHA ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="alphacy" tvg-logo="https://i.imgur.com/LNKiCEf.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ALPHA ΚΥΠΡΟΥ
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
-#EXTINF:-1  tvg-name="skai" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/SKAI.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",SKAI
+#EXTINF:-1  tvg-name="skai" tvg-logo="https://i.imgur.com/vfmbZlB.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",SKAI
 https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
-#EXTINF:-1  tvg-name="open" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/OPEN_BEYOND.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT
+#EXTINF:-1  tvg-name="open" tvg-logo="https://i.imgur.com/ZddEHiH.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",OPEN BEYONT
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-name="action24" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ACTION_24.png" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24
+#EXTINF:-1  tvg-name="action24" tvg-logo="https://i.imgur.com/wlqtCWy.png" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1  tvg-name="onetv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ONE_Channel.png" group-title="🦉 ΑΤΤΙΚΗ",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
