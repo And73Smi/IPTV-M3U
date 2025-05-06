@@ -11,7 +11,7 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/OUtpbx5.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 https://www.megatv.com/live
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JFknZeL.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",MEGA NEWS
+#EXTINF:-1  tvg-name="megacosmos" tvg-logo="https://i.imgur.com/JFknZeL.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",MEGA NEWS
 https://streamcdnh13-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b1728000.m3u8
 #EXTINF:-1  tvg-name="omega" tvg-logo="https://i.imgur.com/Ns6iaHr.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",OMEGA
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
@@ -43,15 +43,15 @@ http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1  tvg-name="starke" tvg-logo="https://i.imgur.com/FQF9xVc.png" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
-#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/KRHTH_TV.png" group-title="🐂 ΚΡΗΤΗ",KRHTH TV
+#EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://i.imgur.com/TplpSZb.png" group-title="🐂 ΚΡΗΤΗ",KRHTH TV
 https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
-#EXTINF:-1  tvg-name="kontra" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/KONTRA_Channel.png" group-title="🦉 ΑΤΤΙΚΗ",KONTRA
+#EXTINF:-1  tvg-name="kontra" tvg-logo="https://i.imgur.com/39F7595.png" group-title="🦉 ΑΤΤΙΚΗ",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1  tvg-name="bluesky" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BLUE_SKY.png" group-title="🦉 ΑΤΤΙΚΗ",BLUE SKY
+#EXTINF:-1  tvg-name="bluesky" tvg-logo="https://i.imgur.com/WYzAXXK.png" group-title="🦉 ΑΤΤΙΚΗ",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1  tvg-name="ionian" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/IONIAN.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL
+#EXTINF:-1  tvg-name="ionian" tvg-logo="https://i.imgur.com/12QWimy.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1  tvg-name="besttv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BEST_TV.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
+#EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="lepanto" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/LEPANTO.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
@@ -121,9 +121,9 @@ https://rtmp.win:3696/live/arttvgrlive.m3u8
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_TV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ATHENS_GEO.png" group-title="🌐 WEB TV",ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BEST_TV.png" group-title="🌐 WEB TV",BEST HYBRID 1
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌐 WEB TV",BEST HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BEST_TV.png" group-title="🌐 WEB TV",BEST HYBRID 2
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌐 WEB TV",BEST HYBRID 2
 http://cdn5.smart-tv-data.com/best/hybrid2/best/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BIG_BROTHER.png" group-title="🌐 WEB TV",BIG BROTHER
 http://cdn1.smart-tv-data.com/skai/skaiBB/mpeg.2ts
@@ -231,7 +231,7 @@ https://av.hellasnet.tv/rest2.live.hn/plp/playlist.m3u8
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
 #EXTINF:-1  tvg-name="pronews" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/PRO_NEWS.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/RIK_SAT.png" group-title="📡 ΔΙΕΘΝΗ",RIK SAT
+#EXTINF:-1  tvg-name="riksat" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/RIK_SAT.png" group-title="📡 ΔΙΕΘΝΗ",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1  tvg-name="rikhd" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/RIK_HD.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",RIK HD
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
@@ -401,7 +401,7 @@ https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrz
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BOXING_TV.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",BOXING TV
 https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/b0d773ed-6f74-4b2f-a6a1-8091c95e1951/4.m3u8
-#EXTINF:-1  tvg-name="ertspors1" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_SPORTS_1.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",ERT SPORTS 1
+#EXTINF:-1  tvg-name="ertsports" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_SPORTS_1.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",ERT SPORTS 1
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/playlist.m3u8
 #EXTINF:-1  tvg-name="ertsports2" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_SPORTS_2.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",ERT SPORTS 2
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/playlist.m3u8
