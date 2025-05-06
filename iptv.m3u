@@ -33,15 +33,15 @@ https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_a
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="action24" tvg-logo="https://i.imgur.com/wlqtCWy.png" group-title="🦉 ΑΤΤΙΚΗ",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1  tvg-name="onetv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ONE_Channel.png" group-title="🦉 ΑΤΤΙΚΗ",ONE CHANNEL
+#EXTINF:-1  tvg-name="onetv" tvg-logo="https://i.imgur.com/g4reeOv.png" group-title="🦉 ΑΤΤΙΚΗ",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8 
-#EXTINF:-1  tvg-name="extracy" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ONE_CYPRUS.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ONE CHANNEL ΚΥΠΡΟΥ
+#EXTINF:-1  tvg-name="extracy" tvg-logo="https://i.imgur.com/VC2PjEa.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",ONE CHANNEL ΚΥΠΡΟΥ
 http://62.210.211.188:2095/play/a00e
-#EXTINF:-1  tvg-name="atticatv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ATTICA.png" group-title="🦉 ΑΤΤΙΚΗ",ATTICA TV
+#EXTINF:-1  tvg-name="atticatv" tvg-logo="https://i.imgur.com/5Fdtmhi.png" group-title="🦉 ΑΤΤΙΚΗ",ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1  tvg-name="tv100" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/TV_100.png" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100
+#EXTINF:-1  tvg-name="tv100" tvg-logo="https://i.imgur.com/8dnpSTY.png" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",TV 100
 https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
-#EXTINF:-1  tvg-name="starke" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/STAR_K_E.png" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
+#EXTINF:-1  tvg-name="starke" tvg-logo="https://i.imgur.com/FQF9xVc.png" group-title="🏛️ ΣΤΕΡΕΑ ΕΛΛΑΔΑ",STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ
 https://telmaco-cdn.akamaized.net/starcgr/default/playlist.m3u8
 #EXTINF:-1  tvg-name="krhthtv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/KRHTH_TV.png" group-title="🐂 ΚΡΗΤΗ",KRHTH TV
 https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
