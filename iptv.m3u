@@ -53,23 +53,23 @@ https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/LEPANTO.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
+#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/HuwO9ea.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
-#EXTINF:-1  tvg-name="mtv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MAKEDONIA-tv.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MAKEDONIA TV
+#EXTINF:-1  tvg-name="mtv" tvg-logo="https://i.imgur.com/p1vjg5t.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MAKEDONIA TV
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/NAFTEMPORIKI.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",NAFTEMPORIKH
+#EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/0Bod0KW,png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",NAFTEMPORIKH
 https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/playlist.m3u8
-#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/EURONEWS.png" group-title="📡 ΔΙΕΘΝΗ",EURONEWS GR
+#EXTINF:-1  tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/JMY2bSg.png" group-title="📡 ΔΙΕΘΝΗ",EURONEWS GR
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
-#EXTINF:-1  tvg-name="extacy" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/EXTACY_TV.png" group-title="🎬 CINEMA",EXTACY TV
+#EXTINF:-1  tvg-name="extacy" tvg-logo="https://i.imgur.com/axv4MFY.png" group-title="🎬 CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/EXTACY_CINEMA.png" group-title="🎬 CINEMA",EXTACY TV CINEMA
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/9fKXQdQ.png" group-title="🎬 CINEMA",EXTACY TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/EXTACY_TV_GREEKS.png" group-title="🎬 CINEMA",EXTACY TV GREEKS
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/CINaMQ4.png" group-title="🎬 CINEMA",EXTACY TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/EXTACY_TV_CYPRUS.png" group-title="🎬 CINEMA",EXTACY TV CYPRUS
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JGGIqVG.png" group-title="🎬 CINEMA",EXTACY TV CYPRUS
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/EXTACY_KIDS.png" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY TV KIDS
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ZwRFAZe.png" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY TV KIDS
 https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ZEYS.png" group-title="🎬 CINEMA",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
