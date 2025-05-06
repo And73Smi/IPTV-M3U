@@ -9,11 +9,11 @@ https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ertworld" tvg-logo="https://i.imgur.com/L3nE0J1.png" group-title="📡 ΔΙΕΘΝΗ",ERT WORLD
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
-#EXTINF:-1  tvg-name="mega" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MEGA_red.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
+#EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/OUtpbx5.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 https://www.megatv.com/live
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/MEGA_NEWS.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",MEGA NEWS
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JFknZeL.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",MEGA NEWS
 https://streamcdnh13-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b1728000.m3u8
-#EXTINF:-1  tvg-name="omega" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/OMEGA.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",OMEGA
+#EXTINF:-1  tvg-name="omega" tvg-logo="https://i.imgur.com/Ns6iaHr.png" group-title="🇨🇾 ΚΥΠΡΙΑΚΑ",OMEGA
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1  tvg-name="star" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/STAR.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
