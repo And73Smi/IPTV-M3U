@@ -221,7 +221,7 @@ https://media.omikrontv.gr/live/chunklist_w1468786377_b3000000_sleng.m3u8
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/FlIo3us.png" group-title="🌐 WEB TV",PA.K.O.E
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/PAKOE_TV.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/undefined.png" group-title="🌐 WEB TV",PONTOS TV
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/7ulRGxV.png" group-title="🌐 WEB TV",PONTOS TV
 http://pontoswebtv.homeftp.net/live/free/free/1.m3u8
 #EXTINF:-1  tvg-name="pellatv" tvg-logo="https://i.imgur.com/lWDpfqO.png" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
@@ -277,39 +277,39 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XYLAGANI.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/0DOIfFk.png" group-title="🌐 WEB TV",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
-#EXTINF:-1  tvg-name="vouli" tvg-logo="" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI
+#EXTINF:-1  tvg-name="vouli" tvg-logo="https://i.imgur.com/kJDkC1l.png" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI 2
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/kJDkC1l.png" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI 3
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/kJDkC1l.png" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI CYPRUS
+#EXTINF:-1  tvg-name="ertvoulicy" tvg-logo="https://i.imgur.com/mPzjroF.png" group-title="📢 ΚΟΙΝΟΒΟΥΛΙΟ",VOULI CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1  tvg-name="4e" tvg-logo="" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://i.imgur.com/undefined.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1403597243_b746000_slEN.m3u8
-#EXTINF:-1  tvg-name="dipsotv" tvg-logo="" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
+#EXTINF:-1  tvg-name="dipsotv" tvg-logo="https://i.imgur.com/iJCaGNa.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",DIPSO TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://i.imgur.com/oxZKdAZ.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ECCLESIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",FAROS TV CHURCH
+#EXTINF:-1  tvg-name="ekklisiatv" tvg-logo="https://i.imgur.com/cJerlOb.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",FAROS TV CHURCH
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAROS_TV_EKKLISIA.m3u8
-#EXTINF:-1  tvg-name="lychnos" tvg-logo="" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
+#EXTINF:-1  tvg-name="lychnos" tvg-logo="https://i.imgur.com/6BfxYwd.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ORTHODOXI TV
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/QcBJ9t2.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ORTHODOXI TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ORTHODOXIA_TV.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",AKTINA RADIO 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/vizgQ3v.png" group-title="📻 ΜΟΥΣΙΚΗ",AKTINA RADIO 🇬🇷
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/AKTINA_RADIO.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GREEK HITS 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GREEK HITS 🇬🇷
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
 https://fr.crystalweb.net:1936/barazatv/barazatvtv/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 2 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 2 🇬🇷
 https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA RELAXING
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="📻 ΜΟΥΣΙΚΗ",BLACKMAN RADIO 🇬🇷
 https://rtmp.win:3830/live/blackmanlive.m3u8
@@ -469,31 +469,31 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 http://xtv.ooo:8080/52882216/581881255/329247
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="🧒 ΠΑΙΔΙΚΑ",ZOO MOO KIDS
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",4K TRAVEL XP
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="💎 LIFESTYLE",4K TRAVEL XP
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",FASHION TV 1
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/mDq8MD5.png" group-title="💎 LIFESTYLE",FASHION TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",FASHION TV 2
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/mDq8MD5.png" group-title="💎 LIFESTYLE",FASHION TV 2
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",FASHION TV 3
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/mDq8MD5.png" group-title="💎 LIFESTYLE",FASHION TV 3
 https://fash1043.cloudycdn.services/slive/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",FASHION TV 4
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/mDq8MD5.png" group-title="💎 LIFESTYLE",FASHION TV 4
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",FASHION TV UHD
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/mDq8MD5.png" group-title="💎 LIFESTYLE",FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="JustVogueTv.de" tvg-logo="" group-title="💎 LIFESTYLE",JUST VOGUE TV
 https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="💎 LIFESTYLE",TRAVELXP
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="💎 LIFESTYLE",TRAVELXP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="😂 COMENTY",5 Minute Crafts
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="😂 COMENTY",5 Minute Crafts
 https://rakutenaa-soul-5mincraftenglish-rakuten-du9p7.amagi.tv/playlist/rakutenAA-soul-5mincraftenglish-rakuten/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="😂 COMENTY",AFV Family
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="😂 COMENTY",AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="😂 COMENTY",FAILARMY
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="😂 COMENTY",FAILARMY
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAILARMY.m3u8
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="😂 COMENTY",JAST
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="😂 COMENTY",JAST
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:-1  tvg-name="??????????" tvg-logo="" group-title="😂 COMENTY",Takeshi's Castle
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="😂 COMENTY",Takeshi's Castle
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213441-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=621a6d64-aa90-4bb5-9cb4-9d6dd56346f0
 #EXTINF:-1  tvg-name="Al Jazeera" tvg-logo="" group-title="🌍 WORLD NEWS",AL JAZEERA (ENGLISH)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
