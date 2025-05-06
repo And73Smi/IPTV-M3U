@@ -1,9 +1,9 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
-#EXTINF:-1  tvg-name="ert1" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_1.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 1
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
-#EXTINF:-1  tvg-name="ert2" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_2.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 2
+#EXTINF:-1  tvg-name="https://imgur.com/DaEO7IP" tvg-logo="https://i.imgur.com/DaEO7IP.png" group-title="https://imgur.com/DaEO7IP",https://imgur.com/DaEO7IP
+https://imgur.com/DaEO7IP
+#EXTINF:-1  tvg-name="ert2" tvg-logo="https://i.imgur.com/GvafXVE.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 2
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
-#EXTINF:-1  tvg-name="ert3" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_3.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 3
+#EXTINF:-1  tvg-name="ert3" tvg-logo="https://i.imgur.com/RXxetxq.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ERT 3
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1  tvg-name="ertnews" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/ERT_NEWS.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
@@ -301,14 +301,14 @@ https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ORTHOD
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/AKTINA_RADIO.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DJ
-https://fr.crystalweb.net:1936/barazatv/barazatvtv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
-https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GREEK HITS 🇬🇷
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
+https://fr.crystalweb.net:1936/barazatv/barazatvtv/barazatv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 2 🇬🇷
+https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BARAZA_RADIO_TV.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/BLACK_MAN_RADIO.png" group-title="📻 ΜΟΥΣΙΚΗ",BLACKMAN RADIO 🇬🇷
