@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",___________OFF LINE_____
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",___________ERROR CHANNEL_____
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="mega" tvg-logo="https://i.imgur.com/OUtpbx5.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/chunklist_b3710976.m3u8
