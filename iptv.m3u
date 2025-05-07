@@ -61,6 +61,12 @@ https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
 #EXTINF:-1  tvg-name="extacy" tvg-logo="https://i.imgur.com/axv4MFY.png" group-title="🎬 CINEMA",EXTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/7LvIXKw.png" group-title="🎬 CINEMA",EXTACY TV CINEMA
+https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/IIFpCF8.png" group-title="🎬 CINEMA",EXTACY TV GREEKS
+https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JGGIqVG.png" group-title="🎬 CINEMA",EXTACY TV CYPRUS
+https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ZwRFAZe.png" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY TV KIDS
 https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/00J6drK.png" group-title="🎬 CINEMA",GROOVY
