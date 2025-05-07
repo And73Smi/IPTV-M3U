@@ -49,10 +49,6 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1  tvg-name="ionian" tvg-logo="https://i.imgur.com/12QWimy.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",IONIAN CHANNEL
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
-http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/HuwO9ea.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
-https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="mtv" tvg-logo="https://i.imgur.com/p1vjg5t.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MAKEDONIA TV
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1  tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/0Bod0KW.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",NAFTEMPORIKH
@@ -117,6 +113,8 @@ https://rtmp.win:3696/live/arttvgrlive.m3u8
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ASTRA_TV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/54yG4Q2.png" group-title="🌐 WEB TV",ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
+#EXTINF:-1  tvg-name="besttv" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",BEST TV
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌐 WEB TV",BEST HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/SJLzEzN.png" group-title="🌐 WEB TV",BEST HYBRID 2
@@ -195,6 +193,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/chunks.m3u8
 #EXTINF:-1  tvg-name="kosmos" tvg-logo="https://i.imgur.com/XRwY3oA.png" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",KOSMOS TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/KOSMOS_TV.m3u8
+#EXTINF:-1  tvg-name="lepanto" tvg-logo="https://i.imgur.com/HuwO9ea.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",LEPANTO
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/chunklist_w2063367041.m3u8
 #EXTINF:-1  tvg-name="marontv" tvg-logo="https://i.imgur.com/0OoJM1E.png" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",MARON TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/MARON_TV.m3u8
 #EXTINF:-1  tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/4gb2yv7.png" group-title="🌉 ΠΕΛΟΠΟΝΝΗΣΟΥ",MESOGEIOS TV
