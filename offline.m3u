@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+﻿﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1  tvg-name="" tvg-logo="" group-title="",___________ERROR CHANNEL_____
 https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JXdU1IK.png" group-title="🎬 CINEMA",34100

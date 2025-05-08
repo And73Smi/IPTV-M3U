@@ -102,7 +102,7 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1  tvg-name="alfa" tvg-logo="https://i.imgur.com/MOfDRgB.png" group-title="👁️ ΑΝ.ΜΑΚ θΡΑΚΗ",ALFA
 https://av.hellasnet.tv/rest2.live.hn/alf/playlist.m3u8
 #EXTINF:-1  tvg-name="alithiatv" tvg-logo="https://i.imgur.com/XOLlpcz.png" group-title="🐬 Β.Α ΑΙΓΑΙΟΥ",ALITHIA TV (μετά τίς 17:00 )
-https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/ALITHIA_TV.m3u8
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/ALITHIA_TV.m3u8
 #EXTINF:-1  tvg-name="art" tvg-logo="https://i.imgur.com/XBNkJTH.png" group-title="🦉 ΑΤΤΙΚΗ",APT TV
 https://1a-1791.com/live/r31jzt5k/slot-1/3vq5-w7r2/chunklist.m3u8
 #EXTINF:-1  tvg-name="arttv" tvg-logo="https://i.imgur.com/B9Vg47V.png" group-title="🌅 ΔΥΤ. ΕΛΛΑΔΑ",ART TV
@@ -299,9 +299,9 @@ https://media2.streambrothers.com:19360/8106/8106.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GREEK HITS 🇬🇷
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 2 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 1 🇬🇷
 https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 2 🇬🇷
 https://fr.crystalweb.net:1936/barazatv/barazatvtv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
@@ -349,7 +349,13 @@ https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/0LpWt5X.png" group-title="📻 ΜΟΥΣΙΚΗ",MUSIC WEB TV 🇬🇷
 https://vodlive.streams.ovh:3165/stream/play.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS TV RADIO 🇬🇷
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS & EIRHNH RADIO TV 🇬🇷
+https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS & PAIANIA RADIO TV 🇬🇷
+https://fr.crystalweb.net:1936/paianiatv/paianiatv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS RADIO TV 1 🇬🇷
+https://fr.crystalweb.net:1936/radioeirhnhtv/radioeirhnhtv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS RADIO TV 2  🇬🇷
 https://fr.crystalweb.net:1936/nasostvcom/nasostvcom/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/aXN9sRv.png" group-title="📻 ΜΟΥΣΙΚΗ",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -379,7 +385,7 @@ http://65.108.62.57:8080/live2/greekmusic.m3u8
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/pQ9RZL7.png" group-title="📻 ΜΟΥΣΙΚΗ",V2BEAT LIVE
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/rF9S9Kr.png" group-title="📻 ΜΟΥΣΙΚΗ",XTVSION
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/rF9S9Kr.png" group-title="📻 ΜΟΥΣΙΚΗ",XTVSION 1
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XTVISION.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/rF9S9Kr.png" group-title="📻 ΜΟΥΣΙΚΗ",XTVSION 2
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/XTVISION_2.m3u8
