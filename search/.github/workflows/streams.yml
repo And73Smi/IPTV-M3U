@@ -1,1 +1,81 @@
+name: grabbing streams
 
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+       
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "Update"
+      
+      
+      - name: grab m3u files
+        run: |
+            pwd
+            cd ./core/platforms/
+            python3 twitch.py 34100tv > ../../streams/34100_TV.m3u8
+            python3 twitch.py aktinaradio > ../../streams/AKTINA_RADIO.m3u8
+            python3 twitch.py alithiavideo > ../../streams/ALITHIA_TV.m3u8
+            python3 twitch.py radiotvanemosgr > ../../streams/ANEMOS_RADIO_TV.m3u8
+            python3 twitch.py astratv2021 > ../../streams/ASTRA_TV.m3u8
+            python3 twitch.py astratv2019 > ../../streams/ASTRA_TV_2.m3u8
+            python3 twitch.py centerwebtv > ../../streams/CENTER_TV.m3u8
+            python3 twitch.py dtpylias > ../../streams/DTP.m3u8
+            python3 twitch.py diavata_tv > ../../streams/DIABATA_TV.m3u8
+            python3 twitch.py dionthleorash > ../../streams/DION_TV.m3u8
+            python3 twitch.py eurotvgreece  > ../../streams/EURO_TV.m3u8
+            python3 twitch.py extacy_tv > ../../streams/EXTACY_TV.m3u8
+            python3 twitch.py extacytvgreeks > ../../streams/EXTACY_TV_GREEKS.m3u8
+            python3 twitch.py extacy_tv_cy > ../../streams/EXTACY_TV_Cyprus.m3u8          
+            python3 twitch.py failarmy > ../../streams/FAILARMY.m3u8
+            python3 twitch.py farostv1959 > ../../streams/FAROS_TV_EKKLISIA.m3u8
+            python3 twitch.py orestidatv > ../../streams/FLASH_TV.m3u8
+            python3 twitch.py hotbeatstv > ../../streams/HOTBEAST_TV.m3u8
+            python3 twitch.py iviewtvgr > ../../streams/IVIEW_TV.m3u8
+            python3 twitch.py kostv2024 > ../../streams/KOS_TV.m3u8
+            python3 twitch.py tvkosmosgr > ../../streams/KOSMOS_TV.m3u8
+            python3 twitch.py lepantotv3 > ../../streams/LEPANTO_TV.m3u8
+            python3 twitch.py maron_tv > ../../streams/MARON_TV.m3u8
+            python3 twitch.py animals_nature > ../../streams/NATURE_ANIMALS.m3u8
+            python3 twitch.py naturerelax_24h > ../../streams/NATURE.m3u8
+            python3 twitch.py ontv2023 > ../../streams/ON_TV.m3u8
+            python3 twitch.py orthodoxiaradio > ../../streams/ORTHODOXIA_TV.m3u8
+            python3 twitch.py pakoestream > ../../streams/PAKOE_TV.m3u8
+            python3 twitch.py plutontv_ > ../../streams/PLUTON.m3u8
+            python3 twitch.py pronewstvgr > ../../streams/PRONEWS_TV.m3u8
+            python3 twitch.py rodopitv > ../../streams/RODOPI_TV.m3u8
+            python3 twitch.py startvfamdrama > ../../streams/STAR_BOREIOU_ELLADAS.m3u8
+            python3 twitch.py superstarfm108 > ../../streams/SUPERSTAR_TV.m3u8
+            python3 twitch.py livethess03 > ../../streams/THESSALIA_TV.m3u8
+            python3 twitch.py topkozani24 > ../../streams/TOP_CHANNEL.m3u8
+            python3 twitch.py verginacy > ../../streams/VERGINA_CYPRUS.m3u8
+            python3 twitch.py tvxalastra > ../../streams/XALASTRA.m3u8
+            python3 twitch.py xtvision > ../../streams/XTVISION.m3u8 
+            python3 twitch.py xtvision2 > ../../streams/XTVISION_2.m3u8
+            python3 twitch.py xylagany_paradosi > ../../streams/XYLAGANI.m3u8
+            python3 twitch.py zefstv1 > ../../streams/ZEYS_TV.m3u8
+            python3 dailymotion.py x2j7kha > ../../streams/EURONEWS.m3u8
+            python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/STAR_KENTRIKHS_ELLADAS.m3u8
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "streams updated"
+          git push
+            
+            
