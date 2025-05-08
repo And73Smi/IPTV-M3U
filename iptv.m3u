@@ -299,10 +299,10 @@ https://media2.streambrothers.com:19360/8106/8106.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GREEK HITS 🇬🇷
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
-https://fr.crystalweb.net:1936/barazatv/barazatvtv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 2 🇬🇷
 https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA LAIKA 🇬🇷
+https://fr.crystalweb.net:1936/barazatv/barazatvtv/barazatv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ZytBEbL.png" group-title="📻 ΜΟΥΣΙΚΗ",BLACKMAN RADIO 🇬🇷
