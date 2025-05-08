@@ -59,7 +59,7 @@ https://edge1.mystream.gr/video427009/live/playlist.m3u8
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/dH63vgB.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",ERT NEWS 3
 http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/M2JoGOu.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",ERT NEWS ΝΟΗΜΑΤΙΚΗ
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/zysW1m3.png" group-title="🗣️ ΕΙΔΗΣΕΙΣ",ERT NEWS ΝΟΗΜΑΤΙΚΗ
 https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
 #EXTINF:-1  tvg-name="europeone" tvg-logo="https://i.imgur.com/ZbsJqDC.png" group-title="✴️ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ",EUROPE 1
 https://fr.crystalweb.net:1936/europeone/europeone/playlist.m3u8
