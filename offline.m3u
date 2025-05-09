@@ -17,6 +17,8 @@ https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/ORTHODOXIA_TV.m
 https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/TOP_CHANNEL.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.Imgur.com/7vR1kPd.png" group-title="🎬 CINEMA",ZEYS TV
 https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/ZEYS_TV.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/XALASTRA_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/7id8F1p.png" group-title="🌐 WEB TV",10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/u0ciG2H.png" group-title="📻 ΜΟΥΣΙΚΗ",24 SERVER
@@ -87,8 +89,6 @@ https://vdo.streams.gr:3125/live/greektvlondonlive.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/CVXKcbM.png" group-title="🧒 ΠΑΙΔΙΚΑ",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ROOn6Tv.png" group-title="📻 ΜΟΥΣΙΚΗ",LEVEL
-https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/5z5A2JY.png" group-title="📻 ΜΟΥΣΙΚΗ",MAD RADIO
 http://new.cache-stream.workers.dev/stream/UCs3cho4vcDuCze0tk3W9iVQ/live.m3u8
 #EXTINF:-1  tvg-name="madtv" tvg-logo="https://i.imgur.com/Ap6LPQZ.png" group-title="📻 ΜΟΥΣΙΚΗ",MAD TV
@@ -171,8 +171,6 @@ https://til.pp.ua:3613/live/volcanotvslive.m3u8
 https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV
 https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/XALASTRA_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.Imgur.com/7vR1kPd.png" group-title="🎬 CINEMA",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/9uC4JJG.png" group-title="🧒 ΠΑΙΔΙΚΑ",ZOUZOUNIA
