@@ -171,6 +171,8 @@ https://til.pp.ua:3613/live/volcanotvslive.m3u8
 https://ythls-v3.onrender.com/channel/UCc3hweSOwmGb6hdQrPFc_cw.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV
 https://channel.streams.ovh:8081/xalastratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/streams/XALASTRA_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.Imgur.com/7vR1kPd.png" group-title="🎬 CINEMA",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/9uC4JJG.png" group-title="🧒 ΠΑΙΔΙΚΑ",ZOUZOUNIA
