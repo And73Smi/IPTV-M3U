@@ -333,8 +333,6 @@ https://livestream.siliconweb.com/live/kissfm/index.m3u8
 https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/51qoOi0.png" group-title="📻 ΜΟΥΣΙΚΗ",LA FAMILIA 🇬🇷
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ROOn6Tv.png" group-title="📻 ΜΟΥΣΙΚΗ",LEVEL
-https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1  tvg-name="MAD GreekZ" tvg-logo="https://i.imgur.com/u56MYlc.png" group-title="📻 ΜΟΥΣΙΚΗ",MAD GREEKz 🇬🇷
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1  tvg-name="madtv" tvg-logo="https://i.imgur.com/03SCcYl.png" group-title="📻 ΜΟΥΣΙΚΗ",MAD WORLD 🇬🇷
@@ -343,8 +341,6 @@ http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 https://itv.streams.ovh:8081/demoflu/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/0OGUwzk.png" group-title="📻 ΜΟΥΣΙΚΗ",MEDIA ONE 🇬🇷
 https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/PHqlMup.png" group-title="📻 ΜΟΥΣΙΚΗ",MESSINIA WEB TV 🇬🇷
-https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/0LpWt5X.png" group-title="📻 ΜΟΥΣΙΚΗ",MUSIC WEB TV 🇬🇷
 https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS & EIRHNH RADIO TV 🇬🇷
@@ -403,16 +399,14 @@ https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/NwRLTU7.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",FIFA
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ncVcIJV.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",FIGHT NETWORK
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/EDpkURw.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",FORMULA 1 TV
 https://is.gd/rVSZEu?US600011Q2.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/gOa3kkr.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",FIGHT tv
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/HxX62qs.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",HORSE RACING
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/wlRq4rs.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",MOTORVISION TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/nyKz6eE.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",MOTOSPORT
-https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/HxX62qs.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/FeMSWo6.png" group-title="🏆 ΑΘΛΗΤΙΚΑ",RED BULL TV
