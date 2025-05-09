@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/ZEYS_TV.m3u8
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/u0ciG2H.png" group-title="📻 ΜΟΥΣΙΚΗ",24 SERVER
 https://nasos.24hosting.gr:3580/stream/play.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/vizgQ3v.png" group-title="📻 ΜΟΥΣΙΚΗ",AKTINA RADIO 🇬🇷
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/AKTINA_RADIO.m3u8
 #EXTINF:-1  tvg-name="aigaiotv" tvg-logo="https://i.imgur.com/aeWHS6z.png" group-title="⛵ ΔΩΔΕΚΑΝΗΣΟΥ ΣΑΜΟΥ",AIGAIO TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1  tvg-name="alpha" tvg-logo="https://i.imgur.com/6pQ55NC.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA
