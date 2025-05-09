@@ -103,8 +103,6 @@ http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/e7kK9fD.png" group-title="🇬🇷 ΠΑΝΕΛΛΑΔΙΚΑ",MEGA PLAY
 https://streamcdnh16-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/chunklist_b3823616.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/PHqlMup.png" group-title="📻 ΜΟΥΣΙΚΗ",MESSINIA WEB TV 🇬🇷
-https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/5OF5R0J.png" group-title="📻 ΜΟΥΣΙΚΗ",MGR TV
 https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/hKdokfN.png" group-title="📻 ΜΟΥΣΙΚΗ",MGR TV TRAVEL
