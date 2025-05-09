@@ -48,8 +48,6 @@ jobs:
             python3 twitch.py tvkosmosgr > ../../streams/KOSMOS_TV.m3u8
             python3 twitch.py lepantotv3 > ../../streams/LEPANTO_TV.m3u8
             python3 twitch.py maron_tv > ../../streams/MARON_TV.m3u8
-            python3 twitch.py animals_nature > ../../streams/NATURE_ANIMALS.m3u8
-            python3 twitch.py naturerelax_24h > ../../streams/NATURE.m3u8
             python3 twitch.py ontv2023 > ../../streams/ON_TV.m3u8
             python3 twitch.py orthodoxiaradio > ../../streams/ORTHODOXIA_TV.m3u8
             python3 twitch.py pakoestream > ../../streams/PAKOE_TV.m3u8
