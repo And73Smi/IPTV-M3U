@@ -1,6 +1,6 @@
-﻿#EXTM3U
-#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",___________ERROR CHANNEL_____
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/singal.mp4
+﻿#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTINF:-1  tvg-name="" tvg-logo="" group-title="",_______ERROR CHANNEL_____
+https://github.com/And73Smi/IPTV-M3U/raw/refs/heads/main/singal.mp4
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JXdU1IK.png" group-title="🎬 CINEMA",34100
 https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/34100_TV.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/EXIXj6e.png" group-title="📻 ΜΟΥΣΙΚΗ",ANEMOS RADIO TV
