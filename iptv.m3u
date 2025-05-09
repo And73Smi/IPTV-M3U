@@ -291,8 +291,6 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/FAROS_TV_EKKLISIA.m3u8
 #EXTINF:-1  tvg-name="lychnos" tvg-logo="https://i.imgur.com/6BfxYwd.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/vizgQ3v.png" group-title="📻 ΜΟΥΣΙΚΗ",AKTINA RADIO 🇬🇷
-https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/AKTINA_RADIO.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA GOLD HITS
