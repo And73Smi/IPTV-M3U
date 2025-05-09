@@ -343,6 +343,8 @@ http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 https://itv.streams.ovh:8081/demoflu/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/0OGUwzk.png" group-title="📻 ΜΟΥΣΙΚΗ",MEDIA ONE 🇬🇷
 https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/PHqlMup.png" group-title="📻 ΜΟΥΣΙΚΗ",MESSINIA WEB TV 🇬🇷
+Https://rtmp.win:3373/live/messiniatvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/0LpWt5X.png" group-title="📻 ΜΟΥΣΙΚΗ",MUSIC WEB TV 🇬🇷
 https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/w0QWlz9.png" group-title="📻 ΜΟΥΣΙΚΗ",NASOS & EIRHNH RADIO TV 🇬🇷
