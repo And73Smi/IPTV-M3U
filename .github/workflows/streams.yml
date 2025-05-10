@@ -3,8 +3,8 @@ name: grabbing streams
 on:
   schedule:
     - cron: '0 */1 * * *'
-  
-  
+
+
   workflow_dispatch:
 
 jobs:
@@ -14,13 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-       
+
       - name: config
         run: |
           git config --global user.email "<>"
           git config --global user.name "Update"
-      
-      
+
+
       - name: grab m3u files
         run: |
             pwd
@@ -38,7 +38,7 @@ jobs:
             python3 twitch.py eurotvgreece  > ../../streams/EURO_TV.m3u8
             python3 twitch.py extacy_tv > ../../streams/EXTACY_TV.m3u8
             python3 twitch.py extacytvgreeks > ../../streams/EXTACY_TV_GREEKS.m3u8
-            python3 twitch.py extacy_tv_cy > ../../streams/EXTACY_TV_Cyprus.m3u8          
+            python3 twitch.py extacy_tv_cy > ../../streams/EXTACY_TV_Cyprus.m3u8
             python3 twitch.py failarmy > ../../streams/FAILARMY.m3u8
             python3 twitch.py farostv1959 > ../../streams/FAROS_TV_EKKLISIA.m3u8
             python3 twitch.py orestidatv > ../../streams/FLASH_TV.m3u8
@@ -61,7 +61,7 @@ jobs:
             python3 twitch.py verginacy > ../../streams/VERGINA_CYPRUS.m3u8
             python3 twitch.py tvxalastra > ../../streams/XALASTRA.m3u8
             python3 twitch.py webtvx > ../../streams/XALASTRA_2.m3u8
-            python3 twitch.py xtvision > ../../streams/XTVISION.m3u8 
+            python3 twitch.py xtvision > ../../streams/XTVISION.m3u8
             python3 twitch.py xtvision2 > ../../streams/XTVISION_2.m3u8
             python3 twitch.py xylagany_paradosi > ../../streams/XYLAGANI.m3u8
             python3 twitch.py zefstv1 > ../../streams/ZEYS_TV.m3u8
@@ -70,11 +70,11 @@ jobs:
       - name: git add
         run: |
           git add -A
-          ls -la 
-          
+          ls -la
+
       - name: commit & push
         run: |
           git commit -m "streams updated"
           git push
-            
-            
+
+
