@@ -79,6 +79,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV
 https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/XALASTRA.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/4rUnvUg.png" group-title="🌐 WEB TV",XALASTRA TV 2
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/XALASTRA_2.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/MKtG40a.png" group-title="🎬 CINEMA",VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/M7jvhsI.png" group-title="🎬 CINEMA",ELLAS WORLD
