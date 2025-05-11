@@ -65,7 +65,6 @@ jobs:
             python3 twitch.py xtvision2 > ../../streams/XTVISION_2.m3u8
             python3 twitch.py xylagany_paradosi > ../../streams/XYLAGANI.m3u8
             python3 twitch.py zefstv1 > ../../streams/ZEYS_TV.m3u8
-            python3 dailymotion.py x5gv6be > ../../streams/CANAL_plus.m3u8
             python3 dailymotion.py x8p5u0u > ../../streams/CGTN_Europe.m3u8
             python3 dailymotion.py x2j7kha > ../../streams/EURONEWS.m3u8
             python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/STAR_KENTRIKHS_ELLADAS.m3u8
