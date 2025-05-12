@@ -444,6 +444,9 @@ https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/FAROS_TV_EKKLIS
 #EXTINF:-1  tvg-name="lychnos" tvg-logo="https://i.imgur.com/6BfxYwd.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/wFO4rKA.png" group-title="⛪ ΕΚΚΛΗΣΙΑΣΤΙΚΑ",ORTHODOXI TV
+https://raw.githubusercontent.com/And73Smi/IPTV-M3U/main/streams/ORTHODOXIA_TV.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/P5oEq1D.png" group-title="📻 ΜΟΥΣΙΚΗ",BARAZA DEEP HOUSE
 https://media2.streambrothers.com:19360/8106/8106.m3u8
 
