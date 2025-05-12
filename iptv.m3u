@@ -63,8 +63,6 @@ https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/JGGIqVG.png" group-title="🎬 CINEMA",EXTACY TV CYPRUS
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ZwRFAZe.png" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY TV KIDS
-https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.Imgur.com/7vR1kPd.png" group-title="🎬 CINEMA",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/00J6drK.png" group-title="🎬 CINEMA",GROOVY
@@ -413,10 +411,12 @@ http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 https://cartoontv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/sOSvTqc.png" group-title="🧒 ΠΑΙΔΙΚΑ",CARTOON TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
-#EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/0Uol8Zl.png" group-title="🧒 ΠΑΙΔΙΚΑ",ERT KIDS
-https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1  tvg-name="ducktv" tvg-logo="https://i.imgur.com/LvmACXd.png" group-title="🧒 ΠΑΙΔΙΚΑ",DUCK TV
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
+#EXTINF:-1  tvg-name="ertkids" tvg-logo="https://i.imgur.com/0Uol8Zl.png" group-title="🧒 ΠΑΙΔΙΚΑ",ERT KIDS
+https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/ZwRFAZe.png" group-title="🧒 ΠΑΙΔΙΚΑ",EXTACY TV KIDS
+https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/PnrB4UA.png" group-title="🧒 ΠΑΙΔΙΚΑ",MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-logo="https://i.imgur.com/8SJIMWR.png" group-title="🧒 ΠΑΙΔΙΚΑ",MR BEAN ANIMATED
