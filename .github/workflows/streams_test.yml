@@ -18,12 +18,6 @@ jobs:
         with:
           python-version: '3.x'  # Εγκαθιστά Python 3
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-pip
-          pip3 install -r requirements.txt  # Αν έχεις dependencies για τα python scripts
-
       - name: Config git
         run: |
           git config --global user.email "youremail@example.com"
