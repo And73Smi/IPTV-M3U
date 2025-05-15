@@ -30,7 +30,7 @@ jobs:
       - name: Grab m3u files (Twitch & Dailymotion)
         run: |
           cd ./core/platforms/
-          python3 twitch.py capitalcyp > ../../streams/CAPITAL.m3u8
+          python3 anacon.py capitalcyp > ../../streams/CAPITAL.m3u8
           # Πρόσθεσε εδώ όλα τα υπόλοιπα Twitch/Dailymotion streams
 
       - name: Grab anacon streams (PHP)
