@@ -18,6 +18,10 @@ jobs:
         with:
           python-version: '3.x'  # Εγκαθιστά Python 3
 
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # Εγκαθιστά όλες τις εξαρτήσεις από το requirements.txt
+
       - name: Config git
         run: |
           git config --global user.email "youremail@example.com"
