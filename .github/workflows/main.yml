@@ -20,6 +20,8 @@ jobs:
         run: python extract_stream.py
       - name: Commit stream
         run: |
+        https://www.megatv.com/live/
+        
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add streams.link
