@@ -1,4 +1,4 @@
-name: Extract Live Stream
+name: LiveStream
 
 on:
   workflow_dispatch:
