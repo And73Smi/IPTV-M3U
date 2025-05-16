@@ -10,14 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install requests
+
       - name: Run extractor
-        run: python extract_stream.py
+        run: python core/platforms/extract_stream.py
+
       - name: Commit stream
         run: |
           git config user.name "github-actions"
