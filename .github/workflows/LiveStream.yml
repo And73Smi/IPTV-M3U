@@ -17,13 +17,16 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install requests
 
       - name: Debug: List repo files
-        run: ls -R
+        run: |
+          ls -R
 
       - name: Run extractor
-        run: python core/platforms/extract_stream.py
+        run: |
+          python core/platforms/extract_stream.py
 
       - name: Commit stream
         run: |
