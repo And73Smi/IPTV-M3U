@@ -19,6 +19,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Debug: List repo files
+        run: ls -R
+
       - name: Run extractor
         run: python core/platforms/extract_stream.py
 
