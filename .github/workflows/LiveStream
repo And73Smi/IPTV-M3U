@@ -3,7 +3,7 @@ name: LiveStream
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # Κάθε ώρα
+    - cron: "0 * * * *"
 
 jobs:
   extract:
