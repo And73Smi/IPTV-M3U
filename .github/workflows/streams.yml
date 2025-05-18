@@ -12,19 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: |
-          # Βεβαιωνόμαστε ότι το αρχείο requirements.txt είναι στη ρίζα του project
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            echo "requirements.txt not found. Skipping pip install."
-          fi
-
       - name: Set Git user config
         run: |
           git config --global user.email "you@example.com"
           git config --global user.name "Update"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Grab m3u files
         run: |
