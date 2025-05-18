@@ -37,13 +37,15 @@ jobs:
             python3 twitch.py dionthleorash > ../../streams/DION_TV.m3u8
             python3 twitch.py eurotvgreece  > ../../streams/EURO_TV.m3u8
             python3 twitch.py extacy_tv > ../../streams/EXTACY_TV.m3u8
-            python3 twitch.py extacytvgreeks > ../../streams/EXTACY_TV_GREEKS.m3u8
-            python3 twitch.py extacy_tv_cy > ../../streams/EXTACY_TV_Cyprus.m3u8
+            python3 twitch.py extacytvcinema > ../../streams/EXTACY_CINEMA.m3u8
+            python3 twitch.py extacy_tv_cy > ../../streams/EXTACY_CYPRUS.m3u8
+            python3 twitch.py extacytvgreeks > ../../streams/EXTACY_GREEKS.m3u8
             python3 twitch.py failarmy > ../../streams/FAILARMY.m3u8
             python3 twitch.py farostv1959 > ../../streams/FAROS_TV_EKKLISIA.m3u8
             python3 twitch.py orestidatv > ../../streams/FLASH_TV.m3u8
             python3 twitch.py hotbeatstv > ../../streams/HOTBEAST_TV.m3u8
             python3 twitch.py iviewtvgr > ../../streams/IVIEW_TV.m3u8
+            python3 twitch.py konitsaplustv > ../../streams/KONITSA_PLUS.m3u8
             python3 twitch.py kostv2024 > ../../streams/KOS_TV.m3u8
             python3 twitch.py tvkosmosgr > ../../streams/KOSMOS_TV.m3u8
             python3 twitch.py lepantotv3 > ../../streams/LEPANTO_TV.m3u8
