@@ -68,6 +68,10 @@ jobs:
           python3 dailymotion.py k5Hfx6eeaTjBE5zRXcn > ../../streams/STAR_KENTRIKHS_ELLADAS.m3u8
           python3 test.py cytv.php > ../../streams/test
 
+      - name: Generate .m3u playlist
+        run: |
+          python3 generate_m3u.py
+
       - name: Commit and push changes
         run: |
           git add -A
