@@ -1,33 +1,28 @@
-import requests
-from bs4 import BeautifulSoup
-import re
+import os
 
-def extract_m3u8_links(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
-    response = requests.get(url, headers=headers)
-    if not response.ok:
-        print("Σφάλμα σύνδεσης:", response.status_code)
-        return []
+def generate_m3u(directory):
+    """
+    Διαβάζει τα .m3u8 αρχεία στον φάκελο `directory` και δημιουργεί ένα .m3u αρχείο.
+    """
+    output_file = "streams/iptv_channels.m3u"
+    
+    # Άνοιγμα του αρχείου εξόδου για εγγραφή
+    with open(output_file, 'w') as f_out:
+        f_out.write("#EXTM3U\n")  # Ξεκινάμε το αρχείο M3U
 
-    # Αναλύει τη σελίδα
-    soup = BeautifulSoup(response.text, 'html.parser')
-    links = re.findall(r'(https?://[^\s"\']+\.m3u8)', response.text)
-    return links
-
-def generate_m3u_file(links, filename="playlist.m3u"):
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for i, link in enumerate(links, start=1):
-            f.write(f"#EXTINF:-1,Channel {i}\n{link}\n")
-    print(f"Δημιουργήθηκε το αρχείο {filename}")
+        # Βρόχος για να περάσουμε όλα τα αρχεία στον φάκελο `directory`
+        for filename in os.listdir(directory):
+            if filename.endswith(".m3u8"):
+                stream_name = filename.replace(".m3u8", "").replace("_", " ").title()  # Δημιουργία του τίτλου
+                file_path = os.path.join(directory, filename)
+                
+                # Προσθήκη πληροφοριών στο .m3u
+                f_out.write(f"#EXTINF:-1,{stream_name}\n")
+                f_out.write(f"{file_path}\n")
+    
+    print(f"M3U file created: {output_file}")
 
 if __name__ == "__main__":
-    page_url = "https://anacon.org/app/cytv.php"
-    m3u8_links = extract_m3u8_links(page_url)
-
-    if m3u8_links:
-        generate_m3u_file(m3u8_links)
-    else:
-        print("Δεν βρέθηκαν .m3u8 links.")
+    # Ο φάκελος στον οποίο βρίσκονται τα .m3u8 αρχεία
+    directory = "streams"
+    generate_m3u(directory)
