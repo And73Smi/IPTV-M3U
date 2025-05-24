@@ -28,9 +28,11 @@ jobs:
             python3 twitch.py 34100tv > ../../streams/34100_TV.m3u8
             python3 twitch.py aktinaradio > ../../streams/AKTINA_RADIO.m3u8
             python3 twitch.py alithiavideo > ../../streams/ALITHIA_TV.m3u8
+            python3 twitch.py altertvcy > ../../streams/ALTER_TV_CY.m3u8
             python3 twitch.py radiotvanemosgr > ../../streams/ANEMOS_RADIO_TV.m3u8
             python3 twitch.py astratv2021 > ../../streams/ASTRA_TV.m3u8
             python3 twitch.py astratv2019 > ../../streams/ASTRA_TV_2.m3u8
+            python3 twitch.py chanialivetv   > ../../streams/CHANIA_LIVE_TVm3u8  
             python3 twitch.py centerwebtv > ../../streams/CENTER_TV.m3u8
             python3 twitch.py dtpylias > ../../streams/DTP.m3u8
             python3 twitch.py diavata_tv > ../../streams/DIABATA_TV.m3u8
