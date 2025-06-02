@@ -60,7 +60,7 @@ jobs:
             python3 twitch.py rodopitv > ../../streams/RODOPI_TV.m3u8
             python3 twitch.py startvfamdrama > ../../streams/STAR_BOREIOU_ELLADAS.m3u8
             python3 twitch.py superstarfm108 > ../../streams/SUPERSTAR_TV.m3u8
-            python3 twitch.py livethess26  > ../../streams/THESSALIA_TV.m3u8
+            python3 twitch.py thesslive01 > ../../streams/THESSALIA_TV.m3u8
             python3 twitch.py topkozani24 > ../../streams/TOP_CHANNEL.m3u8
             python3 twitch.py verginacy > ../../streams/VERGINA_CYPRUS.m3u8
             python3 twitch.py tvxalastra > ../../streams/XALASTRA.m3u8
